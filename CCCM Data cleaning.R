@@ -7,7 +7,7 @@ rm(list=ls())
 today <- Sys.Date()
 
 ## Download necessary packages
-# devtools::install_github("mabafaba/xlsformfill", force = T)
+# devtools::install_github("mabafaba/clog", force = T)
 # devtools::install_github("agualtieri/cleaninginspectoR", force = T)
 
 
@@ -33,13 +33,13 @@ source("./R/add_locations.R")
 source("./R/moveme.R")
 
 
-## Upload data to be cleaned and fix some header names
+## Upload data to be cleaned and fix some header names - the path may need to be updated based on where you stored your files
 response <- read.xlsx("./data/cleaning/Master tbc/Master/CCCM_Site_Reporting (V1)_Master_tbc.xlsx")
 
 names(response)[names(response) == "_index"] <- "index"
 names(response)[names(response) == "_uuid"] <- "uuid"
 
-## Upload updated cleaning log file
+## Upload updated cleaning log file - - the path may need to be updated based on where you stored your files
 cleaning_log <- read.xlsx("./data/CCCM_SiteID_Cleaning log (V1)_Master_Script_V1.xlsx", sheet = "cleaning_log")
 
 
