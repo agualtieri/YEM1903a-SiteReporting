@@ -46,7 +46,7 @@ source("./R/check_time.R")
 # response <- xlsform_fill(questions, choices,500)
  
 ## Upload data to be cleaned - - the path may need to be updated based on where you stored your files
-response <- read.xlsx("data/cleaning/CCCM_Site_Reporting (V2)_10052020_for cleaning.xlsx")
+response <- read.xlsx("data/cleaning/CCCM_Site_Reporting_mock data_V1.xlsx")
 
 
 names(response)[names(response) == "_index"] <- "index"
