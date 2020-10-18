@@ -19,13 +19,16 @@ source("./R/cleanHead.R")
 
 
 ## Load choice sheet
-choices <- read.csv("./data/kobo/choices.csv")
+choices <- read.csv("./data/kobo/choices_CCCM site reporting - June 2020.csv")
 
 
 ## Load cleaned data
-response <- read.xlsx("./output/internal/CCCM_SiteReporting_All Internal (WithID)_2020-05-14_final.xlsx")
+response <- read.xlsx("./output/internal/CCCM_SiteReporting_All Internal (WithID)_2020-07-29.xlsx")
 #response <- cleanHead(response)
 #response <- cleanHead(response)
+
+## Filter out sites that are useless
+#response <- response %>% filter(check == 1 & check.2 == 1)
 
 
 ## Step 1: Data Merge - dots
@@ -69,13 +72,13 @@ data_norename$a8_population_groups_other_than_idps_in_site_select_all_applicable
 data_norename$a8_population_groups_other_than_idps_in_site_select_all_applicable <- str_replace_all(data_norename$a8_population_groups_other_than_idps_in_site_select_all_applicable, pattern = "_", replacement = " ")
 data_norename$a4_site_code <- str_replace_all(data_norename$a4_site_code, pattern = "_", replacement = " - ")
   
-## Step 3: Add maps to the dataset
+## Step 3: merge into one dataset
 data_merge <- cbind(data_rename2, data_norename, dots_merge)
 
 
 ## Step 4: Add maps and save as csv
 data_merge$a4_site_name <- str_trim(data_merge$a4_site_name, "both")
-data_merge$`@maps` <- paste0("./merge/test maps/YEM_CCCM_",data_merge$a4_site_name,".pdf")
+data_merge$`@maps` <- paste0("./merge/test maps/YEM_CCCM_",data_merge$a4_site_name,"__",response$a3_sub_district_code,".pdf")
 
 
 write.csv(data_merge, paste0("./merge/cccm_full_merge_",today,".csv"), row.names = F)                     

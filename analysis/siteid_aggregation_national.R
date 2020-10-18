@@ -27,7 +27,7 @@ source("./R/functions/moveme.R")
 source("./R/add_locations.R")
 
 ### Load data and filter out "informal"
-response <- read.xlsx("./analysis/data/CCCM_SiteReporting_All Internal (WithID)_2020-05-14_final.xlsx")
+response <- read.xlsx("./data/CCCM_SiteReporting_All Internal (WithID)_2020-05-14_final.xlsx")
 response <- filter(response, response$a9_formal_informal == "formal")
 
 
@@ -42,7 +42,7 @@ questionnaire <- load_questionnaire(response,
                                     choices.label.column.to.use = "label::english")
 
 ### Load Data Analysis Plan
-dap <- load_analysisplan("./analysis/data analysis plan/cccm_analysis_plan_v4_country.csv")
+dap <- load_analysisplan("./data/cccm_analysis_plan_v4_country.csv")
 
 ### Create sampling function and load the weights (useless but the analysis output function requires it)
 #sf <- read.csv("./data/sf.csv")
@@ -175,11 +175,11 @@ summarystats <- summary.stats.list %>%
   #lapply((map_to_labeled),questionnaire) %>% 
   resultlist_summary_statistics_as_one_table
 
-write.csv(summarystats, paste0("./analysis/output/summarystats_final_",today,".csv"))
+write.csv(summarystats, paste0("./output/summarystats_final_",today,".csv"))
 
 
 ### Load the results and lunch data merge function
-final_analysis <- read.csv(paste0("./analysis/output/summarystats_final_",today,".csv"), stringsAsFactors = F)
+final_analysis <- read.csv(paste0("./output/summarystats_final_",today,".csv"), stringsAsFactors = F)
 
 final_melted_analysis <- from_hyperanalysis_to_datamerge(final_analysis)
 
@@ -200,10 +200,10 @@ data_merge <- left_join(final_dm, external_analysis, by = "country_name")
 
 
 ### Add maps to the fina data merge and save it as .csv file
-data_merge$`@map` <- paste0("./analysis/maps/YEM_CCCM_",data_merge$country_name,".pdf")
+data_merge$`@map` <- paste0("./maps/YEM_CCCM_",data_merge$country_name,".pdf")
 
 names(data_merge) <- tolower(names(data_merge))
 
-write.csv(data_merge, paste0("./analysis/output/national_data_merge_",today,".csv"), row.names = F)                     
-  browseURL(paste0("./analysis/output/cccm_national_full_merge_",today,".csv"))
+write.csv(data_merge, paste0("./output/national_data_merge_",today,".csv"), row.names = F)                     
+browseURL(paste0("./output/cccm_national_full_merge_",today,".csv"))
 

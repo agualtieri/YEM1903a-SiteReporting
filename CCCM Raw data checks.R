@@ -45,8 +45,8 @@ source("./R/check_time.R")
 
 # response <- xlsform_fill(questions, choices,500)
  
-## Upload data to be cleaned - - the path may need to be updated based on where you stored your files
-response <- read.xlsx("data/cleaning/CCCM_Site_Reporting_mock data_V1.xlsx")
+## Upload data to be cleaned
+response <- read.xlsx("data/cleaning/Master tbc/CCCM_Site_Reporting_Master_tbc_(V1) - NEW - 08102020.xlsx")
 
 
 names(response)[names(response) == "_index"] <- "index"
@@ -64,8 +64,8 @@ response <- anonymise_dataset(response, c("deviceid", "subscriberid", "imei", "p
 
 ## Dataset manipulation
 ### Using kobo to rename the site name and than merge the other column
-choices <- read.csv("./data/kobo/choices.csv", check.names = F)
-external_choices <- read.csv("./data/kobo/external_choices.csv", check.names = F)
+choices <- read.csv("./data/kobo/choices.csv", check.names = FALSE)
+external_choices <- read.csv("./data/kobo/choices_external.csv", check.names = FALSE)
 
 external_choices <- filter(external_choices, external_choices$list_name == "sitename")
 names(external_choices)[names(external_choices) == "name"] <- "a4_site_name"
@@ -598,6 +598,52 @@ if (nrow(eviction_red) >=1){
 #write.csv(eviction, paste0("./output/eviction_issue_",today,".csv"), row.names = F)
 #browseURL(paste0("./output/eviction_issue_",today,".csv"))
 
+### Check cooking stuff
+cooking <- select(response, "uuid", "q0_3_organization", "a4_site_name3", "c5_fuel_available_in_site_close_proximity", "c6_electricity_solar_power_available_in_site", "primary_cooking_modality")
+cooking <- cooking %>% mutate(cooking_issue = ifelse((c5_fuel_available_in_site_close_proximity == "yes" | c6_electricity_solar_power_available_in_site == "yes" & 
+                                                        primary_cooking_modality == "Electrical_stove" | primary_cooking_modality == "Gas_stove"), 0, 1))
+
+
+cooking_red <- filter(cooking, cooking$cooking_issue == 1)
+
+
+if (nrow(cooking_red ) >=1){
+  
+  cooking_red$new_value <- " "
+  cooking_red$fix <- "Checked with partner"
+  cooking_red$checked_by <- "ON"
+  cooking_red$issue_type <- "Eviction was identied as a risk although the site holds a tennacy agreement"
+  cooking_red $variable <- "c5_fuel_available_in_site_close_proximity"
+  
+  cooking_log <- data.frame(uuid = cooking_red$uuid, 
+                             agency = cooking_red$q0_3_organization, 
+                             area = cooking_red$a4_site_name3, 
+                             variable = cooking_red$variable, 
+                             issue = cooking_red$issue_type, 
+                             old_value = cooking_red$f1_threats_to_the_site.eviction, 
+                             new_value = cooking_red$new_value, 
+                             fix = cooking_red$fix, 
+                             checked_by = cooking_red$checked_by)
+  
+  
+  
+} else {
+  
+  cooking_log <- data.frame(uuid = as.character(),
+                             agency = as.character(),
+                             area = as.character(),
+                             variable = as.character(),
+                             issue = as.character(),
+                             old_value = as.character(),
+                             new_value = as.character(),
+                             fix = as.character(),
+                             checked_by = as.character())
+  
+  
+  print("No issues with cooking and availability of fuel. The dataset seems clean.")}
+
+
+
 ### Check lenght of the survey, 10 = minimum, 40 = maximum (can be changed)
 time_stamp <- select(response, "uuid", "start", "end", "q0_3_organization", "a4_site_name3")
 
@@ -647,6 +693,8 @@ check_time$a4_site_name3 <- response$a4_site_name3[match(check_time$uuid, respon
 
 
 
+
+
 #### Rbind everything if they exist
 cleaning_log <- plyr::rbind.fill(duplicates_log, 
                            adequacy_log, 
@@ -657,7 +705,8 @@ cleaning_log <- plyr::rbind.fill(duplicates_log,
                            issue_log,
                            waste_disposal_log,
                            gps_log,
-                           phone_log)
+                           phone_log,
+                           cooking_log)
 
 #write.csv(cleaning_log, paste0("./output/cleaning_log_",today,".csv"), row.names = F)
 #browseURL(paste0("./output/cleaning_log_",today,".csv"))
