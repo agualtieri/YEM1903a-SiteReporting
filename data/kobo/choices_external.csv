@@ -1,0 +1,4525 @@
+list_name,name,label::english
+governorate,YE11,Ibb
+governorate,YE12,Abyan
+governorate,YE13,Sana'a City
+governorate,YE14,Al Bayda
+governorate,YE15,Ta'iz
+governorate,YE16,Al Jawf
+governorate,YE17,Hajjah
+governorate,YE18,Al Hodeidah
+governorate,YE19,Hadramawt
+governorate,YE20,Dhamar
+governorate,YE21,Shabwah
+governorate,YE22,Sa'dah
+governorate,YE23,Sana'a
+governorate,YE24,Aden
+governorate,YE25,Lahj
+governorate,YE26,Ma'rib
+governorate,YE27,Al Mahwit
+governorate,YE28,Al Maharah
+governorate,YE29,Amran
+governorate,YE30,Ad Dali'
+governorate,YE31,Raymah
+governorate,YE32,Socotra
+district,YE1101,Al Qafr
+district,YE1102,Yarim
+district,YE1103,Ar Radmah
+district,YE1104,An Nadirah
+district,YE1105,Ash Sha'ir
+district,YE1106,As Saddah
+district,YE1107,Al Makhadir
+district,YE1108,Hobeish
+district,YE1109,Hazm Al Odayn
+district,YE1110,Far' Al Odayn
+district,YE1111,Al Odayn
+district,YE1112,Jiblah
+district,YE1113,Ba'dan
+district,YE1114,As Sabrah
+district,YE1115,As Saiyani
+district,YE1116,Dhi As Sufal
+district,YE1117,Mudhaykhirah
+district,YE1118,Al Mashannah
+district,YE1119,Adh Dhihar
+district,YE1120,Ibb
+district,YE1201,Al Mahfad
+district,YE1202,Mudiyah
+district,YE1203,Jayshan
+district,YE1204,Lawdar
+district,YE1205,Sibah
+district,YE1206,Rassd
+district,YE1207,Sarar
+district,YE1208,Al Wadi'
+district,YE1209,Ahwar
+district,YE1210,Zinjibar
+district,YE1211,Khanfar
+district,YE1301,Old City
+district,YE1302,Shu'ub
+district,YE1303,Azaal
+district,YE1304,As Safiyah
+district,YE1305,As Sab'in
+district,YE1306,Al Wehdah
+district,YE1307,At Tahrir
+district,YE1308,Ma'in
+district,YE1309,Ath Thawrah
+district,YE1310,Bani Al Harith
+district,YE1319,Sana'a City Outskirts - Hamdan
+district,YE1324,Sana'a City Outskirts -Sanhan wa Bani Bahlul
+district,YE1401,Nu'man
+district,YE1402,Nati'
+district,YE1403,Maswarah
+district,YE1404,As Sawma'ah
+district,YE1405,Az Zahir
+district,YE1406,Dhi Na'im
+district,YE1407,At Taffah
+district,YE1408,Mukayras
+district,YE1409,Al Bayda City
+district,YE1410,Al Bayda
+district,YE1411,As Sawadiyah
+district,YE1412,Radman
+district,YE1413,Rada'
+district,YE1414,Al Quraishyah
+district,YE1415,Wald Rabi'
+district,YE1416,Al Arsh
+district,YE1417,Sabah
+district,YE1418,Ar Ryashyyah
+district,YE1419,Ash Sharyah
+district,YE1420,Al Malajim
+district,YE1501,Mawiyah
+district,YE1502,Shar'ab As Salam
+district,YE1503,Shar'ab Ar Rawnah
+district,YE1504,Maqbanah
+district,YE1505,Al Makha
+district,YE1506,Dhubab
+district,YE1507,Mawza'
+district,YE1508,Jabal Habashi
+district,YE1509,Mashr'ah Wa Hadnan
+district,YE1510,Sabir Al Mawadim
+district,YE1511,Al Misrakh
+district,YE1512,Dimnat Khadir
+district,YE1513,As Silw
+district,YE1514,Ash Shamayatayn
+district,YE1515,Al Wazi'yah
+district,YE1516,Hayfan
+district,YE1517,Al Mudhaffar
+district,YE1518,Al Qahirah
+district,YE1519,Salah
+district,YE1520,At Ta'iziyah
+district,YE1521,Al Ma'afer
+district,YE1522,Al Mawasit
+district,YE1523,Sami'
+district,YE1601,Khab wa Ash Sha'f
+district,YE1602,Al Humaydat
+district,YE1603,Al Matammah
+district,YE1604,Az Zahir
+district,YE1605,Al Hazm
+district,YE1606,Al Mutun
+district,YE1607,Al Maslub
+district,YE1608,Al Ghayl
+district,YE1609,Al Khalaq
+district,YE1610,Barat Al Anan
+district,YE1611,Rajuzah
+district,YE1612,Kharab Al Marashi
+district,YE1701,Bakil Al Mir
+district,YE1702,Harad
+district,YE1703,Midi
+district,YE1704,Abs
+district,YE1705,Hayran
+district,YE1706,Mustaba
+district,YE1707,Kushar
+district,YE1708,Al Jamimah
+district,YE1709,Kuhlan Ash Sharaf
+district,YE1710,Aflah Ash Sham
+district,YE1711,Khayran Al Muharraq
+district,YE1712,Aslam
+district,YE1713,Qafl Shammar
+district,YE1714,Aflah Al Yaman
+district,YE1715,Al Mahabishah
+district,YE1716,Al Miftah
+district,YE1717,Al Maghrabah
+district,YE1718,Kuhlan Afar
+district,YE1719,Sharas
+district,YE1720,Mabyan
+district,YE1721,Ash Shahil
+district,YE1722,Ku'aydinah
+district,YE1723,Wadrah
+district,YE1724,Bani Qays
+district,YE1725,Ash shaghadirah
+district,YE1726,Najrah
+district,YE1727,Bani Al Awam
+district,YE1728,Hajjah City
+district,YE1729,Hajjah
+district,YE1730,Washhah
+district,YE1731,Qarah
+district,YE1801,Az Zuhrah
+district,YE1802,Alluhayah
+district,YE1803,Kamaran
+district,YE1804,As Salif
+district,YE1805,Al Munirah
+district,YE1806,Al Qanawis
+district,YE1807,Az Zaydiah
+district,YE1808,Al Mighlaf
+district,YE1809,Ad Dohi
+district,YE1810,Bajil
+district,YE1811,Al Hujjaylah
+district,YE1812,Bura'
+district,YE1813,Al Marawi'ah
+district,YE1814,Ad Durayhimi
+district,YE1815,As Sukhnah
+district,YE1816,Al Mansuriyah
+district,YE1817,Bayt Al Faqih
+district,YE1818,Jabal Ras
+district,YE1819,Hays
+district,YE1820,Al Khukhah
+district,YE1821,Al Hawak
+district,YE1822,Al Mina
+district,YE1823,Al Hali
+district,YE1824,Zabid
+district,YE1825,Al Jarrahi
+district,YE1826,At Tuhayta
+district,YE1901,Rumah
+district,YE1902,Thamud
+district,YE1903,Al Qaff
+district,YE1904,Zamakh wa Manwokh
+district,YE1905,Hajar As Say'ar
+district,YE1906,Al Abr
+district,YE1907,Al Qatn
+district,YE1908,Shibam
+district,YE1909,Sah
+district,YE1910,Sayun
+district,YE1911,Tarim
+district,YE1912,As Sawm
+district,YE1913,Ar Raydah wa Qussay'ar
+district,YE1914,Ad Dis
+district,YE1915,Ash Shihr
+district,YE1916,Ghayl bin Yamin
+district,YE1917,Ghayl Bawazir
+district,YE1918,Daw'an
+district,YE1919,Wadi Al Ayn
+district,YE1920,Rakhyah
+district,YE1921,Amd
+district,YE1922,Ad Dulay'ah
+district,YE1923,Yab'uth
+district,YE1924,Hajar
+district,YE1925,Brum Mayf'ah
+district,YE1926,Al Mukalla
+district,YE1927,Al Mukalla City
+district,YE1928,Haridah
+district,YE2001,Al Hada
+district,YE2002,Jahran
+district,YE2003,Jabal Ash sharq
+district,YE2004,Maghrib Ans
+district,YE2005,Otmah
+district,YE2006,Wusab Al Aali
+district,YE2007,Wusab As Safil
+district,YE2008,Dhamar City
+district,YE2009,Mayfa'at Ans
+district,YE2010,Ans
+district,YE2011,Dwran Anis
+district,YE2012,Al Manar
+district,YE2101,Dahr
+district,YE2102,At Talh
+district,YE2103,Jardan
+district,YE2104,Arma'a
+district,YE2105,Osaylan
+district,YE2106,Ayn
+district,YE2107,Bayhan
+district,YE2108,Markhah Al Olya
+district,YE2109,Markhah As Sufla
+district,YE2110,Nisab
+district,YE2111,Hatib
+district,YE2112,As Sa'id
+district,YE2113,Ataq
+district,YE2114,Habban
+district,YE2115,Ar Rawdah
+district,YE2116,Mayfa'ah
+district,YE2117,Radum
+district,YE2201,Baqim
+district,YE2202,Qatabir
+district,YE2203,Monabbih
+district,YE2204,Ghamr
+district,YE2205,Razih
+district,YE2206,Shada'a
+district,YE2207,Adh Dhahir
+district,YE2208,Haydan
+district,YE2209,Saqin
+district,YE2210,Majz
+district,YE2211,Sahar
+district,YE2212,As Safra
+district,YE2213,Al Hashwah
+district,YE2214,Kitaf wa Al Boqa'
+district,YE2215,Sa'dah
+district,YE2301,Hamdan
+district,YE2302,Arhab
+district,YE2303,Nihm
+district,YE2304,Bani Hushaysh
+district,YE2305,Sanhan wa Bani Bahlul
+district,YE2306,Bilad Ar Rus
+district,YE2307,Bani Matar
+district,YE2308,Al Haymah Ad Dakhiliyah
+district,YE2309,Al Haymah Al Kharijiyah
+district,YE2310,Manakhah
+district,YE2311,Sa'fan
+district,YE2312,Khawlan
+district,YE2313,At Tyal
+district,YE2314,Bani Dabyan
+district,YE2315,Al Hissn
+district,YE2316,Jihanah
+district,YE2401,Dar Sa'd
+district,YE2402,Ash Shaykh Othman
+district,YE2403,Al Mansurah
+district,YE2404,Al Burayqah
+district,YE2405,At Tawahi
+district,YE2406,Al Mu'alla
+district,YE2407,Kritar - Sirah
+district,YE2408,Khur Maksar
+district,YE2501,Al Had
+district,YE2502,Yafi'
+district,YE2503,Al Maflahi
+district,YE2504,Yahr
+district,YE2505,Habil Jabr
+district,YE2506,Halmin
+district,YE2507,Radfan
+district,YE2508,Al Malah
+district,YE2509,Al Musaymir
+district,YE2510,Al Qubaytah
+district,YE2511,Tur Al Bahah
+district,YE2512,Al Maqatirah
+district,YE2513,Al Madaribah Wa Al Aarah
+district,YE2514,Al Hawtah
+district,YE2515,Tuban
+district,YE2601,Majzar
+district,YE2602,Raghwan
+district,YE2603,Madghal Al Jid'an
+district,YE2604,Harib Al Qaramish
+district,YE2605,Bidbadah
+district,YE2606,Sirwah
+district,YE2607,Al Jubah
+district,YE2608,Rahabah
+district,YE2609,Harib
+district,YE2610,Mahliyah
+district,YE2611,Al Abdiyah
+district,YE2612,Ma'rib City
+district,YE2613,Ma'rib
+district,YE2614,Jabal Murad
+district,YE2701,Shibam Kawkaban
+district,YE2702,At Tawilah
+district,YE2703,Ar Rujum
+district,YE2704,Al Khabt
+district,YE2705,Melhan
+district,YE2706,Hufash
+district,YE2707,Bani Sa'd
+district,YE2708,Al Mahwit City
+district,YE2709,Al Mahwit
+district,YE2801,Shahin
+district,YE2802,Hat
+district,YE2803,Hawf
+district,YE2804,Al Ghaydhah
+district,YE2805,Man'ar
+district,YE2806,Al Masilah
+district,YE2807,Sayhut
+district,YE2808,Qishn
+district,YE2809,Haswin
+district,YE2901,Harf Sufyan
+district,YE2902,Huth
+district,YE2903,Al Ashah
+district,YE2904,Qaflat Odhar
+district,YE2905,Shaharah
+district,YE2906,Al Madan
+district,YE2907,Suwayr
+district,YE2908,Dhulaymat Habur
+district,YE2909,Dhibain
+district,YE2910,Kharif
+district,YE2911,Raydah
+district,YE2912,Jabal Eyal Yazid
+district,YE2913,As Sudah
+district,YE2914,As Sawd
+district,YE2915,Amran
+district,YE2916,Maswar
+district,YE2917,Thula
+district,YE2918,Eyal Surayh
+district,YE2919,Khamir
+district,YE2920,Bani Surim
+district,YE3001,Juban
+district,YE3002,Damt
+district,YE3003,Qa'tabah
+district,YE3004,Ash Shu'ayb
+district,YE3005,Al Hasayn
+district,YE3006,Ad Dali'
+district,YE3007,Jahaf
+district,YE3008,Al Azariq
+district,YE3009,Al Husha
+district,YE3101,Bilad Atta'am
+district,YE3102,As Salafiyyah
+district,YE3103,Al Jabin
+district,YE3104,Mazhar
+district,YE3105,Kusmah
+district,YE3106,Al Ja'fariyyah
+district,YE3201,Hadibu
+district,YE3202,Qalansiyah wa Abd Al Kuri
+subdistrict,YE110121,Bani Sayf As Safil
+subdistrict,YE110122,Bani Murghim
+subdistrict,YE110123,Bani Sayf Al Aali
+subdistrict,YE110124,Bani Saba
+subdistrict,YE110125,Bani Muslim
+subdistrict,YE110126,Bani Mubariz
+subdistrict,YE110127,Bani Omar Al Aali
+subdistrict,YE110128,Bani Omar As Safil
+subdistrict,YE110129,An Nakhlah
+subdistrict,YE110130,Al Karabah
+subdistrict,YE110131,Bani Jama'ah
+subdistrict,YE110132,Bani Mahdi
+subdistrict,YE110133,Mad'hajein
+subdistrict,YE110134,Himyar
+subdistrict,YE110135,Bani Sawi
+subdistrict,YE110221,Yarim
+subdistrict,YE110222,Khaw
+subdistrict,YE110223,Ra'in
+subdistrict,YE110224,Abidah
+subdistrict,YE110225,Aras
+subdistrict,YE110226,Bani Omar
+subdistrict,YE110227,Bani Saba
+subdistrict,YE110228,Bani Muslim
+subdistrict,YE110229,Khawdan
+subdistrict,YE110230,Bani Manbah
+subdistrict,YE110231,Aryab
+subdistrict,YE110321,Bani Qays
+subdistrict,YE110322,Shizar
+subdistrict,YE110323,Kuhlan
+subdistrict,YE110324,Al Bakrah
+subdistrict,YE110325,Ajeeb
+subdistrict,YE110326,Azaal
+subdistrict,YE110327,Sudan
+subdistrict,YE110328,Yahir
+subdistrict,YE110329,Harith Al Haydari
+subdistrict,YE110421,Hadah
+subdistrict,YE110422,Sha'b Al Muraysi
+subdistrict,YE110423,Az Zamazimah
+subdistrict,YE110424,Al Fajrah
+subdistrict,YE110425,Ash Sharnamah Al Olya
+subdistrict,YE110426,Al Aridah
+subdistrict,YE110427,Hazib
+subdistrict,YE110428,Sharih
+subdistrict,YE110429,Muqana' Al A'la
+subdistrict,YE110430,Al Miftah Al A'la
+subdistrict,YE110431,Dhulm
+subdistrict,YE110432,Malik
+subdistrict,YE110433,Amqah
+subdistrict,YE110434,Shakhb
+subdistrict,YE110521,Al Amluk
+subdistrict,YE110522,Bait As Saydi
+subdistrict,YE110523,Al Qabil Al Asfal
+subdistrict,YE110524,Maqna'
+subdistrict,YE110525,Al Miftah
+subdistrict,YE110526,Al Qabil Al A'la
+subdistrict,YE110527,Al Wasat
+subdistrict,YE110528,Al Abs
+subdistrict,YE110621,Wadi Hajjaj
+subdistrict,YE110622,Wadi Al Habali
+subdistrict,YE110623,At Tuwiti
+subdistrict,YE110624,Az Za'la'a
+subdistrict,YE110625,Al A'mas
+subdistrict,YE110626,Jabal Hajjaj
+subdistrict,YE110627,Bani Al Othmaniyyen
+subdistrict,YE110628,Bani Al Harith
+subdistrict,YE110629,Al Markham
+subdistrict,YE110630,Jabal Isam
+subdistrict,YE110631,Jabal Al Jabaali
+subdistrict,YE110632,Al Arafah
+subdistrict,YE110633,Wadi Isam
+subdistrict,YE110721,As Sahul
+subdistrict,YE110722,Ash Sharaf
+subdistrict,YE110723,Al Wadi
+subdistrict,YE110724,Bid'ah
+subdistrict,YE110725,Dhari Othman
+subdistrict,YE110726,As Safi
+subdistrict,YE110727,Al Mahram
+subdistrict,YE110728,Al Mi'shar
+subdistrict,YE110729,Jabal Aqd
+subdistrict,YE110730,Bani Sarhah
+subdistrict,YE110821,Rub' Dhalmah
+subdistrict,YE110822,Jabal Amiqah
+subdistrict,YE110823,Bani Ma'in
+subdistrict,YE110824,Bani Ad Dahatin
+subdistrict,YE110825,Saer
+subdistrict,YE110826,Jabal Khadra'a
+subdistrict,YE110827,Naqil Al Oqab
+subdistrict,YE110828,Al Fara'i
+subdistrict,YE110829,Al Salq
+subdistrict,YE110830,Wadi Al Mi'qab
+subdistrict,YE110831,Al Ja'afirah
+subdistrict,YE110832,Shiba'
+subdistrict,YE110833,Adh Dharihi
+subdistrict,YE110834,At Tafadi
+subdistrict,YE110835,Kawman
+subdistrict,YE110836,Al Wat'ah
+subdistrict,YE110837,Qahzah
+subdistrict,YE110838,Al Mushayriq
+subdistrict,YE110839,As Sadr
+subdistrict,YE110840,Al Aridah
+subdistrict,YE110841,An Nahyah
+subdistrict,YE110842,Bani Shabib
+subdistrict,YE110921,Haqin
+subdistrict,YE110922,Bani Wa'il
+subdistrict,YE110923,Bani Al Fakhr
+subdistrict,YE110924,Al Ab'un
+subdistrict,YE110925,Halimah
+subdistrict,YE110926,Yaris
+subdistrict,YE110927,Bani Ali
+subdistrict,YE110928,Bani Sulayman
+subdistrict,YE110929,Ash Sha'awir
+subdistrict,YE110930,As Saydam
+subdistrict,YE110931,Jabal Harim
+subdistrict,YE110932,Al Mazariqah
+subdistrict,YE110933,Al Ahkum
+subdistrict,YE110934,Bani As'ad
+subdistrict,YE110935,Al Mujahadah
+subdistrict,YE110936,Al Ma'idhah
+subdistrict,YE110937,Ash Sharqi
+subdistrict,YE110938,Al Asyur
+subdistrict,YE110939,Al Aslum
+subdistrict,YE110940,Al Aj'um
+subdistrict,YE111021,Al Mazahin
+subdistrict,YE111022,Al Ahmul
+subdistrict,YE111023,Al Masil
+subdistrict,YE111024,Al Aqibah
+subdistrict,YE111025,Al Wazirah
+subdistrict,YE111026,Bani Yusuf
+subdistrict,YE111027,Bani Ahmad wa Ath Thulth
+subdistrict,YE111028,Al Akhmas
+subdistrict,YE111121,Bani Awad
+subdistrict,YE111122,Al Ghudaybah
+subdistrict,YE111123,Bani Hat
+subdistrict,YE111124,Sanid Ash Sharqi
+subdistrict,YE111125,Ardan
+subdistrict,YE111126,Ar Rida'i
+subdistrict,YE111127,Al Wadi
+subdistrict,YE111128,Bilad Al Mulayki
+subdistrict,YE111129,Jabal Bahri
+subdistrict,YE111130,Bani Zuhir
+subdistrict,YE111131,Ghabir
+subdistrict,YE111132,Bani Amran
+subdistrict,YE111133,Shalf
+subdistrict,YE111134,Al Jabalin
+subdistrict,YE111135,Sharaf Hatim
+subdistrict,YE111136,Qadas
+subdistrict,YE111137,Qasl
+subdistrict,YE111138,Bani Abdallah
+subdistrict,YE111139,Al Amaranah
+subdistrict,YE111140,Khubaz
+subdistrict,YE111141,Qusa' Hilyan
+subdistrict,YE111142,As Sarah
+subdistrict,YE111221,Ash Shahli
+subdistrict,YE111222,Jabal Ra'win
+subdistrict,YE111223,Al Asabih
+subdistrict,YE111224,Ath Thawabi
+subdistrict,YE111225,Ash Shira'i
+subdistrict,YE111226,Anamr A'la
+subdistrict,YE111227,Al Mi'shar
+subdistrict,YE111228,Wiraf
+subdistrict,YE111229,Ar Rabadi
+subdistrict,YE111230,Al Maktab
+subdistrict,YE111231,Jiblah
+subdistrict,YE111321,Al Manar
+subdistrict,YE111322,Al Harth
+subdistrict,YE111323,Dalal
+subdistrict,YE111324,Haysan
+subdistrict,YE111325,Bani Awad
+subdistrict,YE111326,Bani Mansur
+subdistrict,YE111327,Al Adharib
+subdistrict,YE111328,Ad Du'is
+subdistrict,YE111329,Al Hayth
+subdistrict,YE111330,Jaranah
+subdistrict,YE111331,Al Mushki
+subdistrict,YE111332,Dabi
+subdistrict,YE111333,Sir
+subdistrict,YE111334,Dhi Quhm
+subdistrict,YE111421,Bilad Al Juma'i
+subdistrict,YE111422,Matayah
+subdistrict,YE111423,Orwan
+subdistrict,YE111424,Bilad Ash Shu'aybi Al Olya
+subdistrict,YE111425,Bilad Ash Shu'aybi As Sufla
+subdistrict,YE111426,Aynan
+subdistrict,YE111427,Al Musa'dah
+subdistrict,YE111428,Zabid
+subdistrict,YE111429,Bani Atif
+subdistrict,YE111430,Al Azhur
+subdistrict,YE111431,Al Akhlud
+subdistrict,YE111432,Al Abrwah
+subdistrict,YE111433,At Turbah
+subdistrict,YE111521,Nakhlan
+subdistrict,YE111522,Dhi Shraq
+subdistrict,YE111523,An Naqilin
+subdistrict,YE111524,Ad Damigh
+subdistrict,YE111525,Amid Al Kharij
+subdistrict,YE111526,Al Azariq
+subdistrict,YE111527,Amid Ad Dakhil
+subdistrict,YE111528,Wadi Sir
+subdistrict,YE111529,Hadfan
+subdistrict,YE111530,Al Hadis
+subdistrict,YE111531,Al Majza'
+subdistrict,YE111532,Al Aridah
+subdistrict,YE111533,Al Arabiayn
+subdistrict,YE111621,Al Adani
+subdistrict,YE111622,Habir
+subdistrict,YE111623,Dhi Al Hud wa Ma'ayn
+subdistrict,YE111624,Raydah wa Riad
+subdistrict,YE111625,Bani Abdallah
+subdistrict,YE111626,Al Hablah
+subdistrict,YE111627,As Sifah
+subdistrict,YE111628,Ru'ash
+subdistrict,YE111629,Al Ansi'in
+subdistrict,YE111630,Ad Dakhal
+subdistrict,YE111631,Shawa'it
+subdistrict,YE111632,Al Wahs
+subdistrict,YE111633,Shaqh wa Tanif
+subdistrict,YE111634,As Sayf
+subdistrict,YE111635,Al Ashraf
+subdistrict,YE111636,Khnwah
+subdistrict,YE111637,Wadi Diba'a
+subdistrict,YE111721,Mudhaykhirah
+subdistrict,YE111722,Bani Mulayk
+subdistrict,YE111723,Al Jawalih
+subdistrict,YE111724,Hazah
+subdistrict,YE111725,Hilyan
+subdistrict,YE111726,Khawlan
+subdistrict,YE111727,Himyar
+subdistrict,YE111728,Al Magharibah
+subdistrict,YE111729,Al Ash'ub
+subdistrict,YE111730,Bani Al Ward
+subdistrict,YE111731,Bani Ali
+subdistrict,YE111732,Al Afyush
+subdistrict,YE111733,Az Zamlyah
+subdistrict,YE111734,Al Mazhar
+subdistrict,YE111821,Al Hawj Al Adani
+subdistrict,YE111822,Anamir Asfal
+subdistrict,YE111823,Al Mashannah
+subdistrict,YE111921,Adh Dhihar
+subdistrict,YE111922,Thawab Al Asfal
+subdistrict,YE111923,Al Hawj Al Qibli
+subdistrict,YE111924,Anamir
+subdistrict,YE112021,Thawab A'la
+subdistrict,YE112022,Maytam
+subdistrict,YE112023,Rayman
+subdistrict,YE112024,Al Maqatin
+subdistrict,YE112025,Al Mawyah
+subdistrict,YE112026,Al Bahrin
+subdistrict,YE112027,Jabal M'wad
+subdistrict,YE112028,Al Hawj Al Qibli
+subdistrict,YE112029,Sha'b Yafi'
+subdistrict,YE112030,Hard
+subdistrict,YE112031,Bani Muharam
+subdistrict,YE112032,Ar Rus
+subdistrict,YE112033,Bilad Shar
+subdistrict,YE112034,Bani Madsam
+subdistrict,YE120121,Al Mahfad
+subdistrict,YE120221,Mudiyah
+subdistrict,YE120321,Jayshan
+subdistrict,YE120421,Zarah
+subdistrict,YE120521,Sibah
+subdistrict,YE120621,Al Qarrah
+subdistrict,YE120721,Sirar
+subdistrict,YE120821,Al Wadi'
+subdistrict,YE120921,Ahwar
+subdistrict,YE121021,Zinjibar
+subdistrict,YE121121,Ja'ar
+subdistrict,YE130121,Old City
+subdistrict,YE130221,Shu'ub
+subdistrict,YE130321,Azaal
+subdistrict,YE130421,As Safiyah
+subdistrict,YE130521,As Sab'in
+subdistrict,YE130621,Al Wehdah
+subdistrict,YE130721,At Tahrir
+subdistrict,YE130821,Ma'in
+subdistrict,YE130921,Ath Thawrah
+subdistrict,YE131021,Bani Al Harith
+subdistrict,YE131022,Suds Al Hudud
+subdistrict,YE131023,Al Hama'a
+subdistrict,YE131024,Bani Jarmuz
+subdistrict,YE131921,Sana'a City Outskirts - Hamdan
+subdistrict,YE132421,Sana'a City Outskirts -Sanhan wa Bani Bahlul
+subdistrict,YE140121,Al Ghul
+subdistrict,YE140122,Ar Rahabah
+subdistrict,YE140123,Hasir Al Jar
+subdistrict,YE140124,Al Jadir
+subdistrict,YE140125,Al Badi'
+subdistrict,YE140126,Al Wasat
+subdistrict,YE140127,Hajra'a
+subdistrict,YE140128,Al Mirhad
+subdistrict,YE140129,Al lakhaf
+subdistrict,YE140130,As Sahah
+subdistrict,YE140221,Aal Sudan
+subdistrict,YE140222,Wa'lah Aal Riqab
+subdistrict,YE140223,Ad Du'imah
+subdistrict,YE140224,Aal Mansur
+subdistrict,YE140225,Al Ghaylah
+subdistrict,YE140226,Aal Faraj
+subdistrict,YE140227,Raymah
+subdistrict,YE140228,Wahlan
+subdistrict,YE140229,Maswar Aal Dabash
+subdistrict,YE140230,Barmad
+subdistrict,YE140231,Dhimasnumah
+subdistrict,YE140232,Al Hasa'a
+subdistrict,YE140321,Maswarah
+subdistrict,YE140322,Dathran Aal Alawi
+subdistrict,YE140323,Damajj
+subdistrict,YE140324,At Tarthur
+subdistrict,YE140325,Sha'yan
+subdistrict,YE140326,Bayhan
+subdistrict,YE140421,Al Farawi (Dhi Misnam)
+subdistrict,YE140422,Oqlat Bani Amir
+subdistrict,YE140423,Aal Sa'id
+subdistrict,YE140424,Al Jirw
+subdistrict,YE140425,Al Muhamadin
+subdistrict,YE140426,Al Arwin
+subdistrict,YE140427,Aal Obayd
+subdistrict,YE140428,As Sawma'ah
+subdistrict,YE140429,Aal Al Yahwi
+subdistrict,YE140430,Aal Ath Thuraya'a
+subdistrict,YE140431,Ar Radmani
+subdistrict,YE140432,Al Qayssin
+subdistrict,YE140433,Owayn
+subdistrict,YE140521,Az Zahir
+subdistrict,YE140522,Aal Barman
+subdistrict,YE140523,An Nasifah
+subdistrict,YE140524,Al Habj
+subdistrict,YE140525,Qurbah
+subdistrict,YE140621,Al Munqati'
+subdistrict,YE140622,Ad Duri'a
+subdistrict,YE140623,Dhamjir
+subdistrict,YE140624,Ar Ribat
+subdistrict,YE140625,Al Haykal
+subdistrict,YE140626,Tayab
+subdistrict,YE140721,Adh Dhufrin
+subdistrict,YE140722,Al Masha'rah
+subdistrict,YE140723,Aal Abdallah wa Aal Hisham
+subdistrict,YE140724,Aal Hayash
+subdistrict,YE140725,Sannah
+subdistrict,YE140726,As Sa'idyah
+subdistrict,YE140727,Al Qahabah
+subdistrict,YE140728,Al Kharbah
+subdistrict,YE140729,Al Qawim
+subdistrict,YE140730,Al Masahirah
+subdistrict,YE140731,Bani Ghaylan
+subdistrict,YE140732,Thamnan
+subdistrict,YE140821,Mukayras
+subdistrict,YE140921,Al Bayda
+subdistrict,YE141021,Aal Mudhaffar Al A'la
+subdistrict,YE141022,Ash Sharaf
+subdistrict,YE141023,Aal Al Labani
+subdistrict,YE141024,Midhwiqin
+subdistrict,YE141025,Al Hijrah
+subdistrict,YE141026,Al Ayuf
+subdistrict,YE141027,Ad Dahaki
+subdistrict,YE141028,Aal Hassis
+subdistrict,YE141029,Aal Mudhaffar Al Asfal
+subdistrict,YE141030,As Sawda'a wa Aal Isa Wahi
+subdistrict,YE141121,Aal Hasan
+subdistrict,YE141122,Aal As Sadah
+subdistrict,YE141123,Al Haratik
+subdistrict,YE141124,Dhahibah
+subdistrict,YE141125,At Tahiriah
+subdistrict,YE141126,Aal Hadi Bani Wahb
+subdistrict,YE141127,Aal Mansur Bani Wahb
+subdistrict,YE141221,Al Muryah Bani Mur
+subdistrict,YE141222,Ghul Sulayman
+subdistrict,YE141223,Faqa' Aal Awad
+subdistrict,YE141224,Al Aghwal Al Olya
+subdistrict,YE141225,Qaniyah
+subdistrict,YE141226,Al Aghwal As Sufla
+subdistrict,YE141227,Al Amir Hawran
+subdistrict,YE141228,Aal Buqsh
+subdistrict,YE141229,Radman Aal Awad
+subdistrict,YE141230,Aal Amir
+subdistrict,YE141321,Rada'
+subdistrict,YE141421,Qayfat Aal Mahn Yazid
+subdistrict,YE141422,Qayfat Aal Mahn Lidhahruh
+subdistrict,YE141423,Qayfat Aal Mahn Al Jawf
+subdistrict,YE141521,Qayfat Aal Mahdi
+subdistrict,YE141621,Al Arsh
+subdistrict,YE141622,Al Lama'an
+subdistrict,YE141721,Sabah
+subdistrict,YE141821,Jabal Ar Ryashyyah
+subdistrict,YE141822,Thumn Ar Ryashyyah
+subdistrict,YE141823,Wadi Ar Ryashyyah
+subdistrict,YE141921,Aal Ghunim
+subdistrict,YE142021,Aal Mansur Al Malajim
+subdistrict,YE142022,Aal Ghasham Al Malajim
+subdistrict,YE142023,Afar Aal Miftah
+subdistrict,YE142024,Dhi Khirah
+subdistrict,YE142025,Ar Rashdah
+subdistrict,YE150121,Hawamrah
+subdistrict,YE150122,Asawdah
+subdistrict,YE150123,Ashjur
+subdistrict,YE150124,Ash Shamirah
+subdistrict,YE150125,Issrar
+subdistrict,YE150126,Khadir Al Burihi
+subdistrict,YE150127,Qama'rah
+subdistrict,YE150128,Al Awman
+subdistrict,YE150129,Ama'mah
+subdistrict,YE150130,Awjuh
+subdistrict,YE150131,Bahir
+subdistrict,YE150132,Mawmaj
+subdistrict,YE150133,Sharqi Sawraq
+subdistrict,YE150134,Maryah
+subdistrict,YE150135,Sa'lat Sawraq
+subdistrict,YE150136,Khalawah Sudaq
+subdistrict,YE150137,Al Mahatah
+subdistrict,YE150138,Al Qumahidah
+subdistrict,YE150139,Jarani'
+subdistrict,YE150140,Akhraq
+subdistrict,YE150141,Qurini'
+subdistrict,YE150142,Ma'bar
+subdistrict,YE150143,Adh Dhuhrah
+subdistrict,YE150221,Al Qufa'ah
+subdistrict,YE150222,Aqyus
+subdistrict,YE150223,Al Ahjur
+subdistrict,YE150224,At Tabhah
+subdistrict,YE150225,Ashmus
+subdistrict,YE150226,Bani Awn
+subdistrict,YE150227,Ayfu' A'la
+subdistrict,YE150228,Al Amjud
+subdistrict,YE150229,Bani Saba
+subdistrict,YE150230,Ayfu' Asfal
+subdistrict,YE150231,Al Akruf
+subdistrict,YE150232,Bani Sha'b
+subdistrict,YE150233,Al Osaylah
+subdistrict,YE150234,Bani Bakhir
+subdistrict,YE150235,Bani Wahban
+subdistrict,YE150236,Ash Sharif
+subdistrict,YE150237,Azban
+subdistrict,YE150238,Az Zuhah
+subdistrict,YE150321,Bani Murir
+subdistrict,YE150322,Az Zarari
+subdistrict,YE150323,Awadir
+subdistrict,YE150324,Bani Ziad
+subdistrict,YE150325,Bani Sari
+subdistrict,YE150326,Al Ashraf
+subdistrict,YE150327,Sharqi Himyar
+subdistrict,YE150328,Ar Ru'inah
+subdistrict,YE150329,Bani Al Husam
+subdistrict,YE150330,Nisf Al Ozal
+subdistrict,YE150331,Hilyah
+subdistrict,YE150332,Al Ashjub
+subdistrict,YE150333,Az Zagharir
+subdistrict,YE150334,Murkhah
+subdistrict,YE150335,Al Hasyah
+subdistrict,YE150336,Bani Sumi'
+subdistrict,YE150337,Al Ahtub
+subdistrict,YE150338,Al Hayajim
+subdistrict,YE150339,Al Gharbi
+subdistrict,YE150340,al Asad
+subdistrict,YE150341,Al Malawhah
+subdistrict,YE150421,Bani Salah
+subdistrict,YE150422,Bani Himyar
+subdistrict,YE150423,Bani Sayf
+subdistrict,YE150424,Al Fakikah
+subdistrict,YE150425,Al Quhaifah
+subdistrict,YE150426,Al Afirah
+subdistrict,YE150427,Al Yemen
+subdistrict,YE150428,Al Mulahatah
+subdistrict,YE150429,As Sawaghin
+subdistrict,YE150430,Bidahah
+subdistrict,YE150431,Mahraqah
+subdistrict,YE150432,Al Karabidah
+subdistrict,YE150433,Al Ashmlah
+subdistrict,YE150434,Akhdu' Asfal
+subdistrict,YE150435,Akhdu' A'la
+subdistrict,YE150436,Mirab
+subdistrict,YE150437,Al Hubibah
+subdistrict,YE150438,Al Aqhuz
+subdistrict,YE150439,Al Jamahirah
+subdistrict,YE150440,Al Mujahadah
+subdistrict,YE150441,As Sa'irah
+subdistrict,YE150442,Al Khayashin
+subdistrict,YE150443,Al Warif
+subdistrict,YE150444,Barashah
+subdistrict,YE150445,Al Muja'shah
+subdistrict,YE150446,Al A'duf
+subdistrict,YE150447,Jahir
+subdistrict,YE150448,Al Akhlud
+subdistrict,YE150449,Al Abdalah
+subdistrict,YE150521,Al Makha
+subdistrict,YE150522,Al Mashalihah
+subdistrict,YE150523,Az Zahari
+subdistrict,YE150524,Al Jum'ah
+subdistrict,YE150621,Bani Al Hakam
+subdistrict,YE150622,Miyun Island
+subdistrict,YE150721,Mawza'
+subdistrict,YE150722,Al Ahmul
+subdistrict,YE150723,Al Awashqah
+subdistrict,YE150724,Al Aytamah
+subdistrict,YE150821,Yafrus
+subdistrict,YE150822,Al Haql
+subdistrict,YE150823,Al Quhaf
+subdistrict,YE150824,Nimrah
+subdistrict,YE150825,Bani Isa
+subdistrict,YE150826,Al Maratibah
+subdistrict,YE150827,Al Jabal
+subdistrict,YE150828,Al Burihah
+subdistrict,YE150829,Bilad Al Wafi
+subdistrict,YE150830,Wadi Bani Khawlan
+subdistrict,YE150831,Ash Shurajah
+subdistrict,YE150832,Bani Bukari
+subdistrict,YE150833,Adinah
+subdistrict,YE150921,Hadnan
+subdistrict,YE150922,Mashra'ah
+subdistrict,YE151021,Ad Dabab
+subdistrict,YE151022,Birdad
+subdistrict,YE151023,Al Mawadim
+subdistrict,YE151024,Al Jarn
+subdistrict,YE151025,Say'ah
+subdistrict,YE151026,Al Mi'qab
+subdistrict,YE151027,Dhi Al Barh
+subdistrict,YE151028,Al Aridah
+subdistrict,YE151029,An Nijadah
+subdistrict,YE151030,Tubash'ah
+subdistrict,YE151031,Al Adnah
+subdistrict,YE151032,Mar'it
+subdistrict,YE151033,Adh Dhira'
+subdistrict,YE151034,Al Hazah
+subdistrict,YE151121,Hasban Asfal
+subdistrict,YE151122,Anbyan
+subdistrict,YE151123,Masfar
+subdistrict,YE151124,Arsh
+subdistrict,YE151125,Watir
+subdistrict,YE151126,Jarah
+subdistrict,YE151127,Taluq
+subdistrict,YE151128,Hasban A'la
+subdistrict,YE151129,Al Aqrud
+subdistrict,YE151130,Khurishah
+subdistrict,YE151131,Sanamat
+subdistrict,YE151132,Abdan
+subdistrict,YE151221,Khadir Al Silmi
+subdistrict,YE151222,Khadir Al Badu
+subdistrict,YE151223,Ash Shuwayfah
+subdistrict,YE151321,Ad Dabah
+subdistrict,YE151322,Ash Sharaf
+subdistrict,YE151323,Ad Di'ah
+subdistrict,YE151324,Al Okayshah
+subdistrict,YE151325,Al Huribah
+subdistrict,YE151326,Al Qabilah
+subdistrict,YE151327,Al Ash'ub
+subdistrict,YE151328,Al Mashjub
+subdistrict,YE151329,Adh Dhahrin
+subdistrict,YE151330,Sa'lat Quradah
+subdistrict,YE151331,Al Wadar
+subdistrict,YE151421,Sharjab
+subdistrict,YE151422,Ar Rubaysah
+subdistrict,YE151423,Al Madahij
+subdistrict,YE151424,Al Mashariqah
+subdistrict,YE151425,Bani Ghazi
+subdistrict,YE151426,Jabal Sabran
+subdistrict,YE151427,Al Qurayshah
+subdistrict,YE151428,Al Hadarim
+subdistrict,YE151429,Adim
+subdistrict,YE151430,Dhubhan
+subdistrict,YE151431,At Turbah
+subdistrict,YE151432,Al Aza'iz
+subdistrict,YE151433,Bani Shaybah Al Gharb
+subdistrict,YE151434,Bani Omar
+subdistrict,YE151435,Al Masahin
+subdistrict,YE151436,Az Za'azi'
+subdistrict,YE151437,Rasin
+subdistrict,YE151438,Al Alqamah
+subdistrict,YE151439,Ash Shamayah Al Gharbyah
+subdistrict,YE151440,Al Badhijah
+subdistrict,YE151441,Al Kuwayrah
+subdistrict,YE151442,Bani Mohammad
+subdistrict,YE151443,Bani Shaybah Ash Sharq
+subdistrict,YE151444,Al Maqarimah
+subdistrict,YE151445,Az Zakirah
+subdistrict,YE151446,Duba' Ad Dakhil
+subdistrict,YE151447,Ar Rija'yah
+subdistrict,YE151448,Duba' Al Kharij
+subdistrict,YE151449,As Safyah
+subdistrict,YE151450,As San'ah Zurayqah
+subdistrict,YE151451,Al Asabih
+subdistrict,YE151452,Al Hanan
+subdistrict,YE151453,Ash Shamayah Ash Sharqiyah
+subdistrict,YE151521,Al Mashawlah
+subdistrict,YE151522,Adh Dharifah
+subdistrict,YE151523,As Suwayda'a
+subdistrict,YE151524,Al Bukarah
+subdistrict,YE151525,Al Ahyuq
+subdistrict,YE151621,Al A'ruq
+subdistrict,YE151622,Al Aghabirah
+subdistrict,YE151623,Al A'bus
+subdistrict,YE151624,Al Athawir
+subdistrict,YE151625,Al Ahkum
+subdistrict,YE151721,Al Mudhaffar
+subdistrict,YE151821,Al Qahirah
+subdistrict,YE151921,Salah
+subdistrict,YE152021,Ash Sha'banyah As Sufla
+subdistrict,YE152022,Ash Sha'banyah Al Olya
+subdistrict,YE152023,Al Hashamah
+subdistrict,YE152024,Al Haymah As Sufla
+subdistrict,YE152025,Al Haymah Al Olya
+subdistrict,YE152026,Az Zawaqir
+subdistrict,YE152027,Mikhlaf Asfal
+subdistrict,YE152028,Al Aj'ud
+subdistrict,YE152029,Ad Du'aysah
+subdistrict,YE152030,Ash Shuhnah
+subdistrict,YE152031,Al Qusaybah
+subdistrict,YE152032,Al Masnah
+subdistrict,YE152033,Al Ja'di
+subdistrict,YE152034,Qiyad
+subdistrict,YE152035,Hadhran
+subdistrict,YE152036,Ar Rubay'i
+subdistrict,YE152037,Al Janadyah Al Olya
+subdistrict,YE152038,Al A'mur
+subdistrict,YE152039,Al Esrar
+subdistrict,YE152040,Al Janadyah As Sufla
+subdistrict,YE152121,Al Kala'bah
+subdistrict,YE152122,Al Jibzyah
+subdistrict,YE152123,As Sanah
+subdistrict,YE152124,Al Suwa'a
+subdistrict,YE152125,Al Anbuh Al A'la
+subdistrict,YE152126,Ash Sh'ubah
+subdistrict,YE152127,Al Mashawilah
+subdistrict,YE152221,Qadas
+subdistrict,YE152222,Al A'lum
+subdistrict,YE152223,Bani Hamad
+subdistrict,YE152224,Bani Yusuf
+subdistrict,YE152225,Bani Abas
+subdistrict,YE152226,Akhmur
+subdistrict,YE152227,Al Ayfu'
+subdistrict,YE152321,Sami'
+subdistrict,YE160121,Al Yatamah
+subdistrict,YE160122,Ash Sha'f
+subdistrict,YE160123,Ar Rayan
+subdistrict,YE160124,Wadi Khab
+subdistrict,YE160221,Al Humaydat
+subdistrict,YE160222,As Salal
+subdistrict,YE160223,Al Waghirah
+subdistrict,YE160224,Nu'man
+subdistrict,YE160321,Hissn Bani Sa'd
+subdistrict,YE160322,Aal Shinan Forts
+subdistrict,YE160421,Az Zahir
+subdistrict,YE160422,As Sa'mum
+subdistrict,YE160423,Al Oqdah
+subdistrict,YE160424,Al Mabna
+subdistrict,YE160425,Suq Ad'am
+subdistrict,YE160521,Hamdan
+subdistrict,YE160522,Dhu Al Husayn
+subdistrict,YE160523,As Sayl
+subdistrict,YE160621,Al Mutun
+subdistrict,YE160622,Bin Shihab
+subdistrict,YE160721,Al Maslub
+subdistrict,YE160821,Al Ghayl
+subdistrict,YE160921,Ar Rawd
+subdistrict,YE161021,Al Anan
+subdistrict,YE161022,Dhu Musa
+subdistrict,YE161023,Dhu Zayd
+subdistrict,YE161024,Rahub
+subdistrict,YE161025,Aal Ahmad Bin Kul
+subdistrict,YE161026,Al Ma'atirah
+subdistrict,YE161027,Aal Salah
+subdistrict,YE161028,Aal Duminah
+subdistrict,YE161029,Aal Salim
+subdistrict,YE161030,Aal Sulayman
+subdistrict,YE161121,Rajuzah
+subdistrict,YE161122,Al Arin
+subdistrict,YE161123,As Sarar
+subdistrict,YE161124,Wadi Bani Nawf
+subdistrict,YE161125,Dahyah
+subdistrict,YE161126,Al Ardyah
+subdistrict,YE161127,Al Qirshah
+subdistrict,YE161128,Al Maj'lah
+subdistrict,YE161129,Al Khash'ah
+subdistrict,YE161130,Madajir
+subdistrict,YE161131,Al Bihbahah
+subdistrict,YE161221,Al Muranah
+subdistrict,YE161222,Al Kharab
+subdistrict,YE161223,Ash Shu'ara'a
+subdistrict,YE161224,Hayjan
+subdistrict,YE170121,Azman
+subdistrict,YE170122,Dhu Mohammed wa Dhu Husayn
+subdistrict,YE170123,Sabran
+subdistrict,YE170124,Al Otn
+subdistrict,YE170125,Fas
+subdistrict,YE170221,Harad
+subdistrict,YE170222,Al Atnah
+subdistrict,YE170223,Al Faj
+subdistrict,YE170224,Ash Shi'ab
+subdistrict,YE170225,Bani Al Haddad
+subdistrict,YE170321,Bani Midi
+subdistrict,YE170322,Bani Al Ati
+subdistrict,YE170323,Al Ja'dah
+subdistrict,YE170324,Bani Fayd
+subdistrict,YE170349,Midi Islands
+subdistrict,YE170421,Bani Hasan
+subdistrict,YE170422,Bani Thawab
+subdistrict,YE170423,Bani Odabi
+subdistrict,YE170424,Al Wasat
+subdistrict,YE170425,Matwalah
+subdistrict,YE170426,Al Bataryah
+subdistrict,YE170427,Qa'tabah
+subdistrict,YE170521,Ad Dir
+subdistrict,YE170522,Bani Fadil
+subdistrict,YE170621,Gharb Mustaba'a
+subdistrict,YE170622,Sharq Mustaba'a
+subdistrict,YE170623,Sharq Mustaba'a Al Aqsa
+subdistrict,YE170721,Khamis Al Yazidi
+subdistrict,YE170722,Khamis Al Qadi
+subdistrict,YE170723,Anhum Ash Sharq
+subdistrict,YE170724,Al Himarayin
+subdistrict,YE170725,Ahim Bani Shahr
+subdistrict,YE170726,Bani Dawud
+subdistrict,YE170727,Anhum al Gharb
+subdistrict,YE170728,Ahim
+subdistrict,YE170729,Al Abisah + Al Abadilah
+subdistrict,YE170821,Al Jamimah
+subdistrict,YE170822,Khutwat Al Himarayn
+subdistrict,YE170823,Baqarah Al Gharbyah
+subdistrict,YE170824,Masahir Mur
+subdistrict,YE170825,Baqarah Ash Sharqiyah wa Al Wista
+subdistrict,YE170826,Wadi Ghamis
+subdistrict,YE170827,Dhahai
+subdistrict,YE170828,Jafnah
+subdistrict,YE170829,Maswya
+subdistrict,YE170921,Bani Ka'b
+subdistrict,YE170922,Afsar
+subdistrict,YE170923,Bani Al Mahdi
+subdistrict,YE170924,Nusan
+subdistrict,YE170925,Madwam
+subdistrict,YE171021,Bani Harbi
+subdistrict,YE171022,Bani Abu Hadi wa Al Obad
+subdistrict,YE171023,Bani Al Harith
+subdistrict,YE171024,Bani Hafidh wa Al Makarimah
+subdistrict,YE171121,Ad Dan'i
+subdistrict,YE171122,Masruh
+subdistrict,YE171123,Bani Hamlah
+subdistrict,YE171124,Sharqi Al Khamisin
+subdistrict,YE171125,Gharbi Al Khamisin
+subdistrict,YE171221,Aslam Al Yemen
+subdistrict,YE171222,Aslam Ash Sham
+subdistrict,YE171223,Aslam Al Wasat
+subdistrict,YE171321,Bani Jil
+subdistrict,YE171322,Ad Dan'i
+subdistrict,YE171323,Al Mikhlaf
+subdistrict,YE171324,Shamrin
+subdistrict,YE171421,Jyah
+subdistrict,YE171422,Al Juwan wa Al Qatabiyah
+subdistrict,YE171423,Bani Ya'mur
+subdistrict,YE171424,Bani Falah
+subdistrict,YE171425,Bani Yus
+subdistrict,YE171521,Al Mahabishah
+subdistrict,YE171522,Hajar
+subdistrict,YE171523,Al Makhawis
+subdistrict,YE171524,Bani Maji'
+subdistrict,YE171525,Bani Haydan
+subdistrict,YE171621,Al Jabr Al A'la
+subdistrict,YE171622,Alkamah
+subdistrict,YE171623,Al Jabr Al Asfal
+subdistrict,YE171624,Al Jabr Ash Sharqi
+subdistrict,YE171721,Wakyah
+subdistrict,YE171722,Bani Judilah
+subdistrict,YE171723,Nisa
+subdistrict,YE171821,Kuhlan
+subdistrict,YE171822,Azzan
+subdistrict,YE171823,Bani At Tarabi
+subdistrict,YE171824,Bani Oshb
+subdistrict,YE171825,Qaydan
+subdistrict,YE171826,Ad Duqimi
+subdistrict,YE171827,Bani Mawhab
+subdistrict,YE171828,Afar
+subdistrict,YE171921,Sharis Al A'la
+subdistrict,YE171922,Sharis Al Asfal
+subdistrict,YE171923,Bait Qadam
+subdistrict,YE172021,Mabyan
+subdistrict,YE172022,Al Jabr
+subdistrict,YE172023,Al Adb'ah
+subdistrict,YE172024,Bani Okab
+subdistrict,YE172025,Bani Ash Shumi
+subdistrict,YE172026,Al Marahibah
+subdistrict,YE172027,Adh Dhafir
+subdistrict,YE172121,Al Amrur
+subdistrict,YE172122,Janib Ash Sham
+subdistrict,YE172123,Janib Al Yemen
+subdistrict,YE172124,Mudikhah
+subdistrict,YE172221,Bani Nashr
+subdistrict,YE172222,Ath Thulth
+subdistrict,YE172223,Suwakh
+subdistrict,YE172224,Aslam Nashir
+subdistrict,YE172225,As Sakabah wa Al Himarayin
+subdistrict,YE172226,Al Gharbi
+subdistrict,YE172227,Ku'aydinah
+subdistrict,YE172321,Mufrih wa Tafyan
+subdistrict,YE172322,Al Omaysi
+subdistrict,YE172323,Al Qahtani
+subdistrict,YE172324,Wadrah
+subdistrict,YE172325,An Nussayri
+subdistrict,YE172326,Da'qin wa Al Hinak
+subdistrict,YE172421,Rub' Mas'ud
+subdistrict,YE172422,Rub' Al Buni
+subdistrict,YE172423,Rub' Hafj
+subdistrict,YE172424,Rub' Ash Shamri
+subdistrict,YE172521,Qal'at Hamid
+subdistrict,YE172522,Al Bajalyah
+subdistrict,YE172523,Al Muzawitah
+subdistrict,YE172524,Ada'id
+subdistrict,YE172525,Jabal Ash Shaghadirah
+subdistrict,YE172526,Al Ma'tan
+subdistrict,YE172527,Dahim
+subdistrict,YE172528,As Swalymah
+subdistrict,YE172529,Al Hawasilah
+subdistrict,YE172530,Al Miswah
+subdistrict,YE172621,Qudam
+subdistrict,YE172622,Dawas
+subdistrict,YE172623,Ash Sharqi
+subdistrict,YE172624,Ash Sha'athimah
+subdistrict,YE172625,Al Kabah
+subdistrict,YE172626,Al Qilah
+subdistrict,YE172721,Radman
+subdistrict,YE172722,Al Arif
+subdistrict,YE172723,Bani Adh Dhuad
+subdistrict,YE172724,Jabal Namir
+subdistrict,YE172725,Bani Al Qudami
+subdistrict,YE172726,Bani Al Awam
+subdistrict,YE172727,Bani Ghushaym
+subdistrict,YE172728,Qit'at As Surabi
+subdistrict,YE172821,Hajjah City
+subdistrict,YE172822,Qudam
+subdistrict,YE172823,Hamlan
+subdistrict,YE172824,Abs
+subdistrict,YE172921,Harbah
+subdistrict,YE172922,Jabal Ayan
+subdistrict,YE172923,Al Mi'mari
+subdistrict,YE172924,Bani Ali
+subdistrict,YE172925,Al Ghuzi
+subdistrict,YE172926,An Nafish
+subdistrict,YE172927,Khawlan
+subdistrict,YE173021,Da'in
+subdistrict,YE173022,Bani Rizq
+subdistrict,YE173023,Bani Hani
+subdistrict,YE173024,Bani Sa'd
+subdistrict,YE173121,Qarrah
+subdistrict,YE180121,Az Zuhrah Rub' Al Wadi
+subdistrict,YE180122,Al Farantah
+subdistrict,YE180123,Rub' Al Wasat
+subdistrict,YE180124,Rub' Ash Sham
+subdistrict,YE180125,Ar Rub' Ash Sharqi
+subdistrict,YE180126,Al Khushm
+subdistrict,YE180221,Bani Jami' (Rub' Adyah)
+subdistrict,YE180222,Rub' Al Hadrami
+subdistrict,YE180223,Rub' Ash Sham
+subdistrict,YE180224,Mur wa Rub' Al Wadi
+subdistrict,YE180226,Az Za'liyah Rub' As Sam'ali
+subdistrict,YE180227,Az Za'liyah Rub' Al Mahjub
+subdistrict,YE180228,Rub' Al Maqrani Az Za'liyah
+subdistrict,YE180229,Az Za'liyah Rub' Abak
+subdistrict,YE180230,Al Bu'jyah
+subdistrict,YE180231,Rub' Al Flu
+subdistrict,YE180232,Rub' Al Hajn (Bani Jami')
+subdistrict,YE180233,Al Khubah
+subdistrict,YE180240,Al Luhayah Islands
+subdistrict,YE180241,Tikfash Island
+subdistrict,YE180247,Zurban Island
+subdistrict,YE180248,Adh Dhaha'ir Island
+subdistrict,YE180249,Al Jawsak Island
+subdistrict,YE180251,Humar Island
+subdistrict,YE180253,Al Kus Island
+subdistrict,YE180254,Al Kus As Saghir Island
+subdistrict,YE180255,Al Kutama Island
+subdistrict,YE180256,Al Maswadak Island
+subdistrict,YE180257,Kadman As Saghir Island
+subdistrict,YE180258,Kadman Al Kabir Island
+subdistrict,YE180259,Rub' Ad Dus
+subdistrict,YE180260,Al Mark Island
+subdistrict,YE180266,Bahijah Island
+subdistrict,YE180267,Fra'yah Island
+subdistrict,YE180269,Mukhaydiri Island
+subdistrict,YE180270,Yumna Island
+subdistrict,YE180271,Anayib Island
+subdistrict,YE180272,Labwan Island
+subdistrict,YE180273,Antufish Island
+subdistrict,YE180277,Duhayrimah Island (Drima)
+subdistrict,YE180321,Kamaran Island
+subdistrict,YE180323,Jabal At Tayr Island
+subdistrict,YE180335,Aqban Kabir Island
+subdistrict,YE180336,Al Budhi' Island
+subdistrict,YE180421,As Salif
+subdistrict,YE180521,Rub' Al Qahm
+subdistrict,YE180621,Kasharib
+subdistrict,YE180622,Bani Mahdi
+subdistrict,YE180623,Al Quzi
+subdistrict,YE180624,Al Mahadilah
+subdistrict,YE180625,Al Maqa'ishah
+subdistrict,YE180721,Az Zaydyah
+subdistrict,YE180722,Al Hashabirah
+subdistrict,YE180723,Al Quba'yah
+subdistrict,YE180724,Al Atawiyah
+subdistrict,YE180821,Bani Mohammad
+subdistrict,YE180822,Al Mahamidah
+subdistrict,YE180823,Bani Al Barah
+subdistrict,YE180921,Al Jarabih As Sufla
+subdistrict,YE180922,Al Jarabih Al Olya
+subdistrict,YE181021,Bajil
+subdistrict,YE181022,Al Jumadi
+subdistrict,YE181023,Al Khalfiyah
+subdistrict,YE181024,Ad Damir
+subdistrict,YE181025,Al Hadariyah
+subdistrict,YE181121,Al Qit'ah Al Olya
+subdistrict,YE181122,Al Qit'ah As Sufla
+subdistrict,YE181221,Bilad Ash Sharq
+subdistrict,YE181222,Al Khuza'i
+subdistrict,YE181223,Al Mawsatah Ash Sharqiyah
+subdistrict,YE181224,Al Mawsatah Al Gharbiyah
+subdistrict,YE181225,Bani Sulayman
+subdistrict,YE181226,Bani Baqi
+subdistrict,YE181227,Bilad At Taraf
+subdistrict,YE181321,Al Marawi'ah
+subdistrict,YE181322,Al Kitabyah wa Al Wa'ariyah
+subdistrict,YE181323,Al Qati'
+subdistrict,YE181324,Ar Raqabah
+subdistrict,YE181325,Ar Rabsah
+subdistrict,YE181326,Al Qutamlah
+subdistrict,YE181327,Ad Dumaniyah
+subdistrict,YE181328,Bani Salah
+subdistrict,YE181329,Al Amiriah wa Ad Duhli
+subdistrict,YE181330,Al Falafilah
+subdistrict,YE181421,Ad Durayhimi
+subdistrict,YE181422,Al Manafirah
+subdistrict,YE181423,Al Mashaqinah
+subdistrict,YE181424,Al Masa'id
+subdistrict,YE181425,Al Maghalisah
+subdistrict,YE181426,Bani Musa
+subdistrict,YE181427,Al Jahbah Al Olya
+subdistrict,YE181428,Az Zaraniq
+subdistrict,YE181429,Al Jahbah As Sufla
+subdistrict,YE181430,Ad Durayhimi
+subdistrict,YE181431,Ash Sha'b Island
+subdistrict,YE181432,Hajraa Island
+subdistrict,YE181521,Ar Ramiyah As Sufla
+subdistrict,YE181522,Ar Ramiyah Al Olya
+subdistrict,YE181621,Al Manasirah
+subdistrict,YE181622,Al Wa'ariyah
+subdistrict,YE181721,Bayt Al Faqih
+subdistrict,YE181722,Al Mujamalah
+subdistrict,YE181723,At Taraf Al Yamani
+subdistrict,YE181724,At Taraf Ash Shami
+subdistrict,YE181725,Al Amariyah
+subdistrict,YE181726,Bani Mohammad wa Al Ma'azibah
+subdistrict,YE181727,Bani Maqbul
+subdistrict,YE181821,Al Fawahah
+subdistrict,YE181822,Al Marir
+subdistrict,YE181823,Khanah
+subdistrict,YE181824,Al Aqhuz
+subdistrict,YE181825,Al Qahra'a
+subdistrict,YE181826,Al Asha'ir
+subdistrict,YE181827,Mutawafah Olya
+subdistrict,YE181828,Ad Dahabishah
+subdistrict,YE181829,Dabas
+subdistrict,YE181830,Part of Matawifah As Sufla
+subdistrict,YE181831,Al Khan
+subdistrict,YE181832,Al Farisi
+subdistrict,YE181833,Bani Hatim
+subdistrict,YE181834,Al Majarin
+subdistrict,YE181835,Al Asakirah
+subdistrict,YE181836,Al Kawlah
+subdistrict,YE181837,An Nadafa
+subdistrict,YE181838,Al Mahshur
+subdistrict,YE181921,Hays
+subdistrict,YE181922,Rub' As Suq
+subdistrict,YE181923,Rub' Al Hadrami
+subdistrict,YE181924,Rub' Al Mahal
+subdistrict,YE182021,Al Khawkhah
+subdistrict,YE182022,Dawbalah
+subdistrict,YE182023,Al Omaysi
+subdistrict,YE182024,Hunaysh Al Kubra Island
+subdistrict,YE182025,Hunaysh As Sughra Island
+subdistrict,YE182033,Zuqar Island
+subdistrict,YE182034,Siyul Hunaysh Island
+subdistrict,YE182051,Haykuk Ash Sharqiyah
+subdistrict,YE182121,Al Hawak
+subdistrict,YE182221,Al Hodeidah
+subdistrict,YE182321,Al Hodeidah
+subdistrict,YE182421,Zabid
+subdistrict,YE182422,Bilad Al Ruqud
+subdistrict,YE182423,At Taribah
+subdistrict,YE182424,Al Qurshyah As Sufla
+subdistrict,YE182425,Al Mahat
+subdistrict,YE182426,Al Masawifah
+subdistrict,YE182427,Al Badwah
+subdistrict,YE182428,Al Qurashyah
+subdistrict,YE182429,Bilad As Salamah
+subdistrict,YE182430,Al Hami
+subdistrict,YE182431,Ash Shabariq
+subdistrict,YE182432,Az Zaribah
+subdistrict,YE182433,Mahal Ash Shaykh
+subdistrict,YE182434,Al Qaryah
+subdistrict,YE182435,Al Muqar
+subdistrict,YE182436,Al Habil
+subdistrict,YE182437,Mahal Al Mubarak
+subdistrict,YE182438,Al Murshadyah
+subdistrict,YE182521,Al Ma'silah
+subdistrict,YE182522,Al Ayadiyah As sufla
+subdistrict,YE182523,Ar Rakb
+subdistrict,YE182524,Oqba wa Qurat Amir
+subdistrict,YE182525,Al Mahariqah
+subdistrict,YE182526,Al Abadiyah al Olya
+subdistrict,YE182621,At Tuhayta
+subdistrict,YE182622,Ar Rawiyah
+subdistrict,YE182623,Al Mujahasah
+subdistrict,YE182624,Al Maghras
+subdistrict,YE182625,Al Matinah
+subdistrict,YE182626,Al Qurshyah As Sufla
+subdistrict,YE182630,Al Qirsh Island (Al Lakham)
+subdistrict,YE190121,Rumah
+subdistrict,YE190221,Thamud
+subdistrict,YE190321,Al Qaff
+subdistrict,YE190421,Zamakh wa Manwakh
+subdistrict,YE190521,Hajar As Say'ar
+subdistrict,YE190621,Al Abr
+subdistrict,YE190721,Al Qatn
+subdistrict,YE190722,Wadi Sir
+subdistrict,YE190821,Shibam
+subdistrict,YE190921,Sah
+subdistrict,YE191021,Sayun
+subdistrict,YE191121,Tarim
+subdistrict,YE191221,As Sawm
+subdistrict,YE191321,Ar Raydah wa Qussay'ar
+subdistrict,YE191421,Ad Dis
+subdistrict,YE191521,Ash Shihr
+subdistrict,YE191522,Al Hami
+subdistrict,YE191621,Ghayl bin Yamin
+subdistrict,YE191721,Ghayl Bawazir
+subdistrict,YE191821,Saif
+subdistrict,YE191921,Hawrah
+subdistrict,YE191922,Wadi Al Ayn
+subdistrict,YE192021,Rakhyah
+subdistrict,YE192121,Amd
+subdistrict,YE192221,Ad Dulay'ah
+subdistrict,YE192321,Yab'uth
+subdistrict,YE192421,Al Jul
+subdistrict,YE192422,As Sadarah
+subdistrict,YE192521,Brum
+subdistrict,YE192522,Mayfa'
+subdistrict,YE192621,Al Mukalla
+subdistrict,YE192721,Al Mukalla City
+subdistrict,YE192821,Haridah
+subdistrict,YE200121,Al Kumaym
+subdistrict,YE200122,Tumih
+subdistrict,YE200123,Bani Isa
+subdistrict,YE200124,Ar Rashdah
+subdistrict,YE200125,Nisan
+subdistrict,YE200126,Kuman Al Muharraq
+subdistrict,YE200127,A'mas Al Jabal
+subdistrict,YE200128,Zurajah
+subdistrict,YE200129,Bani Qaws
+subdistrict,YE200130,Al Malha'a
+subdistrict,YE200131,Ash Shabtan
+subdistrict,YE200132,Al Abasiyah
+subdistrict,YE200133,As Sawad
+subdistrict,YE200134,Al Jardah
+subdistrict,YE200135,Kalabat Mahdharah
+subdistrict,YE200136,Obaydah As sufla
+subdistrict,YE200137,Bani Jamil
+subdistrict,YE200138,A'mas Ad Dila'
+subdistrict,YE200139,Bani Zaydan
+subdistrict,YE200140,Bani Isa As Suhayd
+subdistrict,YE200141,Thuban
+subdistrict,YE200142,Bayt Abu Atif
+subdistrict,YE200143,Bani Falah
+subdistrict,YE200144,Kuman Sinamah
+subdistrict,YE200145,Sublat Bani Bukhayt
+subdistrict,YE200146,Bani Hudayjah
+subdistrict,YE200147,Obaydah Al Olya
+subdistrict,YE200148,An Nassrah
+subdistrict,YE200149,Al Maghadyah
+subdistrict,YE200221,Al Mawsatah
+subdistrict,YE200222,Safl Jahran
+subdistrict,YE200223,Al Midraj
+subdistrict,YE200224,Elu Jahran
+subdistrict,YE200321,Al Adani
+subdistrict,YE200322,Sharqi Jabal Ash Sharq
+subdistrict,YE200323,Adh Dhuhrah bin Qushib
+subdistrict,YE200324,Mikhlaf Al Hada
+subdistrict,YE200325,Mikhlaf Qaran
+subdistrict,YE200326,Mawsatat Jabal Ash Sharq
+subdistrict,YE200327,Qibli Bani Qushayb
+subdistrict,YE200328,Bani Rawyah
+subdistrict,YE200329,Qarf
+subdistrict,YE200330,Maghrabat Bani Al Yamani
+subdistrict,YE200331,Al Ma'zabah
+subdistrict,YE200332,Dimam
+subdistrict,YE200333,Al Humaytah
+subdistrict,YE200334,Al Jumayhah
+subdistrict,YE200335,Bani Huraysh
+subdistrict,YE200336,Al Qarrah
+subdistrict,YE200337,Bani As'ad
+subdistrict,YE200338,Mawsatat Bani Qushayb
+subdistrict,YE200421,Mushik
+subdistrict,YE200422,Al Janin Al Aali
+subdistrict,YE200423,Al Janin As Safil
+subdistrict,YE200424,Hasman
+subdistrict,YE200425,Akimat Al Fituh
+subdistrict,YE200426,Bayt Al Hajji
+subdistrict,YE200427,Shajan
+subdistrict,YE200428,Bayt Al Jabri
+subdistrict,YE200429,Ma'barah
+subdistrict,YE200430,Bani Ofayr
+subdistrict,YE200431,Najah
+subdistrict,YE200432,Bani Jabr
+subdistrict,YE200433,Bani Taybah
+subdistrict,YE200434,Bait Nassr
+subdistrict,YE200435,Wathan
+subdistrict,YE200436,Ash Shu'aybah
+subdistrict,YE200437,Bani Duhaym
+subdistrict,YE200438,Al Karabah Al Olya
+subdistrict,YE200439,Qardan
+subdistrict,YE200440,Watih
+subdistrict,YE200521,Bani Suwayd
+subdistrict,YE200522,Ala Ash Sharqi
+subdistrict,YE200523,As Safl
+subdistrict,YE200524,Hajarah
+subdistrict,YE200525,Bani Ghusayn
+subdistrict,YE200526,Rassab
+subdistrict,YE200527,Al Mitbabah
+subdistrict,YE200528,Ar Rabi'ah
+subdistrict,YE200529,Bani Murtad
+subdistrict,YE200530,As Safa'a
+subdistrict,YE200531,Ali Al Gharbi
+subdistrict,YE200532,Ash Shu'ub
+subdistrict,YE200533,Al Qu'd
+subdistrict,YE200534,An Nasifah
+subdistrict,YE200535,Al Hadilah
+subdistrict,YE200536,Al Miqranah
+subdistrict,YE200537,An Nubatayn
+subdistrict,YE200538,Al Qahsah
+subdistrict,YE200539,Omar
+subdistrict,YE200540,At Tam
+subdistrict,YE200541,Huwayz
+subdistrict,YE200542,Al Hawadith
+subdistrict,YE200543,Ash Shuqr wa Dhulman
+subdistrict,YE200544,Al Aqd Al Aali
+subdistrict,YE200545,Al Aqd As Safil
+subdistrict,YE200546,Tahijir
+subdistrict,YE200547,As Salaf
+subdistrict,YE200548,Al Muqanza'ah
+subdistrict,YE200549,Himyar Abzaz
+subdistrict,YE200550,Bani Az Zikri
+subdistrict,YE200551,Lakamat Bani Al Jayshi
+subdistrict,YE200552,Yafa'ah
+subdistrict,YE200553,Ath Thulth
+subdistrict,YE200554,Bani Al Bahri
+subdistrict,YE200555,Jawfah
+subdistrict,YE200556,Adh Dhira'
+subdistrict,YE200557,Bani Al Arass
+subdistrict,YE200558,Bani Husayn
+subdistrict,YE200559,Ash Sharm As Safil
+subdistrict,YE200560,Bani Rafi'
+subdistrict,YE200561,Ash Sharm Al Aali
+subdistrict,YE200562,Rabi'at Bani Bahr
+subdistrict,YE200563,Halmah wa Bani Ayub
+subdistrict,YE200564,Al Qabl
+subdistrict,YE200565,Bani Bu'ayth
+subdistrict,YE200566,Bani Abdulsamad
+subdistrict,YE200567,Barwah
+subdistrict,YE200568,Bani Asad
+subdistrict,YE200569,Bani Aywah
+subdistrict,YE200570,Al Gharbi wa At Tafn
+subdistrict,YE200571,Al Masani'
+subdistrict,YE200572,Al Qushab
+subdistrict,YE200573,Al Gharbi wa Al Fajrah
+subdistrict,YE200574,Ash sharafi
+subdistrict,YE200575,Kabirah
+subdistrict,YE200576,Dawrah
+subdistrict,YE200577,Bani Gharib
+subdistrict,YE200621,Bani Al Haddad
+subdistrict,YE200622,Ar Rawdah
+subdistrict,YE200623,Al Asluh
+subdistrict,YE200624,Al Atab
+subdistrict,YE200625,Al Hijrah
+subdistrict,YE200626,Ash Sharaqi
+subdistrict,YE200627,Nu'man
+subdistrict,YE200628,Al Jarani
+subdistrict,YE200629,Dulaf
+subdistrict,YE200630,Al Kalbin
+subdistrict,YE200631,Al Qudmah
+subdistrict,YE200632,Bahwan
+subdistrict,YE200633,Halabah wa Mi'shar
+subdistrict,YE200634,Qa'idah
+subdistrict,YE200635,Kalah wa Al Ahyam
+subdistrict,YE200636,Ijbar Awali
+subdistrict,YE200637,Ash Shuraka'a
+subdistrict,YE200638,Al Murab'ah
+subdistrict,YE200639,As Salul
+subdistrict,YE200640,Ad Dayadir
+subdistrict,YE200641,Mahzar
+subdistrict,YE200642,Ash Sharqi
+subdistrict,YE200643,Al Quwati
+subdistrict,YE200644,Al Hitari
+subdistrict,YE200645,Bani Kindash
+subdistrict,YE200646,Al Mawsatah
+subdistrict,YE200647,Al Jadlah
+subdistrict,YE200648,Dhuhr
+subdistrict,YE200649,Al Anin
+subdistrict,YE200650,Dhi Hamd
+subdistrict,YE200651,Qasht Ruma'
+subdistrict,YE200652,Bilad As Sadah
+subdistrict,YE200653,Al Manarah
+subdistrict,YE200654,Araf
+subdistrict,YE200655,Ijbar Sawafil
+subdistrict,YE200656,Yaris
+subdistrict,YE200657,Bani Kindah
+subdistrict,YE200658,Khadman
+subdistrict,YE200659,Maghram Al Wasat
+subdistrict,YE200660,Al Gharbi Al Aali
+subdistrict,YE200661,Al Gharbi As Safil
+subdistrict,YE200662,Bani Al Hubayshi
+subdistrict,YE200663,Habr
+subdistrict,YE200664,As Sayf
+subdistrict,YE200665,Dhafran
+subdistrict,YE200666,Jabal Matahan
+subdistrict,YE200667,Ghaythan
+subdistrict,YE200668,Adh Dhahir
+subdistrict,YE200669,Sinwah
+subdistrict,YE200670,Al Bayadi'
+subdistrict,YE200671,Al Kalbayn Al Janubi
+subdistrict,YE200672,Arf As Saminah
+subdistrict,YE200673,Bani An Namar
+subdistrict,YE200674,Al Mahjar
+subdistrict,YE200675,Bani Shunayf
+subdistrict,YE200676,Al Athluth
+subdistrict,YE200677,Ash Shawka'a
+subdistrict,YE200678,Bani Al Musanif
+subdistrict,YE200679,Al Aj'ud
+subdistrict,YE200680,Bani Rabi'ah
+subdistrict,YE200681,Himyar
+subdistrict,YE200682,Bani Hafs
+subdistrict,YE200683,Sharqi Ja'r
+subdistrict,YE200684,As Sanah
+subdistrict,YE200685,Zajid
+subdistrict,YE200686,Al Ijbar
+subdistrict,YE200687,Sharqi Kabud
+subdistrict,YE200688,Gharbi Kabud
+subdistrict,YE200689,Sabin wa Ar Ruq'i
+subdistrict,YE200690,Al Awl
+subdistrict,YE200691,Shajb
+subdistrict,YE200692,Bani Al Wa'ali
+subdistrict,YE200693,Jabal Khyur
+subdistrict,YE200721,Bani Ghushaym
+subdistrict,YE200722,Al Ladul
+subdistrict,YE200723,Bani Omar
+subdistrict,YE200724,Bani Ahmad Al Aali
+subdistrict,YE200725,Adh Dhuhrah
+subdistrict,YE200726,Bani Hutam
+subdistrict,YE200727,Ash Shu'ayb
+subdistrict,YE200728,Al Athbut
+subdistrict,YE200729,Bani Husam
+subdistrict,YE200730,Al Ajraf
+subdistrict,YE200731,Al Majuhi
+subdistrict,YE200732,Bani Ghulays
+subdistrict,YE200733,Al Qaraqirah
+subdistrict,YE200734,Bani Mazij
+subdistrict,YE200735,Talhah
+subdistrict,YE200736,Bakhish
+subdistrict,YE200737,Bani Lahib
+subdistrict,YE200738,Bani Salamah Ash Sharqi
+subdistrict,YE200739,Ash Sha'awir wa Ash Shama'ah
+subdistrict,YE200740,Bani Abas
+subdistrict,YE200741,Bani Abdallah
+subdistrict,YE200742,Bani Arif
+subdistrict,YE200743,Bani Ahmad As Safil
+subdistrict,YE200744,Bani Mohammad
+subdistrict,YE200745,Bani Mu'anis
+subdistrict,YE200746,Jarban
+subdistrict,YE200747,Bani Sawadah
+subdistrict,YE200748,Bani salih
+subdistrict,YE200749,Bani Sa'id
+subdistrict,YE200750,Bani Ali
+subdistrict,YE200751,Al Athlath
+subdistrict,YE200752,Bani Al Azab wa Al Asalimah
+subdistrict,YE200753,Bani Ash Shamakh
+subdistrict,YE200754,Bani Ayash
+subdistrict,YE200755,Bani Mansur
+subdistrict,YE200756,Bayt Al Hay
+subdistrict,YE200757,Bani Ar Ramad
+subdistrict,YE200758,Al Misbah
+subdistrict,YE200759,Bani Marjaf
+subdistrict,YE200760,Al Magharib
+subdistrict,YE200761,Bani Salamah Al Gharbiyah
+subdistrict,YE200762,Ad Dashir
+subdistrict,YE200763,Al Majabah
+subdistrict,YE200764,Al Aris
+subdistrict,YE200765,Shukr
+subdistrict,YE200766,Qardan As Sun'
+subdistrict,YE200767,Rub' Al Magharim
+subdistrict,YE200768,Sujayr Al Mahawir
+subdistrict,YE200769,Bani Mas'ud
+subdistrict,YE200770,Bani Musa
+subdistrict,YE200771,Wadi Al Khashab
+subdistrict,YE200821,Dhamar
+subdistrict,YE200822,Manqadhah
+subdistrict,YE200921,Asbil
+subdistrict,YE200922,Al Athla'a
+subdistrict,YE200923,Al Jarshah
+subdistrict,YE200924,Ans As Salamah
+subdistrict,YE200925,Sa'lat Zabid
+subdistrict,YE201021,Jabal Ad Dar
+subdistrict,YE201022,Wadi Al Har
+subdistrict,YE201023,Sa'lat Ma'saj
+subdistrict,YE201024,Ya'r
+subdistrict,YE201025,Sa'lat Zabid
+subdistrict,YE201026,Jabal Zabid
+subdistrict,YE201027,Wadi Zabid
+subdistrict,YE201121,Khums Al Haql
+subdistrict,YE201122,Khums Al Wasat
+subdistrict,YE201123,Al Qit'ah
+subdistrict,YE201124,Al Aridah
+subdistrict,YE201125,Bakil
+subdistrict,YE201126,Khums Hazim
+subdistrict,YE201127,Bayt Al Hajri
+subdistrict,YE201128,Khums Bani As Suhaqi
+subdistrict,YE201129,Bani Suwayd
+subdistrict,YE201130,Himyar
+subdistrict,YE201131,Bani Ash Shi'i
+subdistrict,YE201132,Al Marwan
+subdistrict,YE201133,Bayt Al Omaysi
+subdistrict,YE201134,Thumanah
+subdistrict,YE201135,As Salaf
+subdistrict,YE201136,Bani Hatim
+subdistrict,YE201137,Ihlal
+subdistrict,YE201138,Al Habs
+subdistrict,YE201139,Dhulaym
+subdistrict,YE201140,Yatar
+subdistrict,YE201141,Al Ka'b
+subdistrict,YE201142,Jabal As suq
+subdistrict,YE201143,Sharih
+subdistrict,YE201144,Hadad
+subdistrict,YE201145,Khums Bani Fadl
+subdistrict,YE201146,Arjaz
+subdistrict,YE201147,Bani Al Ashram
+subdistrict,YE201148,Bani Isa
+subdistrict,YE201149,Bayt Al Ansi
+subdistrict,YE201150,Al Jabal
+subdistrict,YE201151,As Sayh
+subdistrict,YE201221,Al Kayna'ah
+subdistrict,YE201222,As Sayd
+subdistrict,YE201223,Al Jahili
+subdistrict,YE201224,Kuhal
+subdistrict,YE201225,Ghurban
+subdistrict,YE201226,Dhi Hud
+subdistrict,YE201227,Jabal Ishaq
+subdistrict,YE201228,Dhahib
+subdistrict,YE201229,Anaban
+subdistrict,YE201230,Bani As Saghir
+subdistrict,YE201231,Al Majan
+subdistrict,YE201232,Al Ja'afirah
+subdistrict,YE201233,Ar Ra'iyah
+subdistrict,YE201234,Mawir
+subdistrict,YE201235,Bani Salamah
+subdistrict,YE201236,Al Ma'inah
+subdistrict,YE210121,Dahr
+subdistrict,YE210221,At Talh
+subdistrict,YE210321,Jardan
+subdistrict,YE210421,Arma'a
+subdistrict,YE210521,Osaylan
+subdistrict,YE210621,Ayn
+subdistrict,YE210721,Bayhan
+subdistrict,YE210821,Al Jafrah
+subdistrict,YE210822,Al Haydah
+subdistrict,YE210823,Al Khis
+subdistrict,YE210824,As Salmin
+subdistrict,YE210825,Al Aqir
+subdistrict,YE210826,Al Quwah
+subdistrict,YE210827,Halhal
+subdistrict,YE210828,Nuqaq
+subdistrict,YE210921,Markhah As Sufla
+subdistrict,YE211021,Nisab
+subdistrict,YE211121,Hatib
+subdistrict,YE211221,As Sa'id
+subdistrict,YE211321,Ataq
+subdistrict,YE211421,Habban
+subdistrict,YE211521,Ar Rawdah
+subdistrict,YE211621,Mayfa'ah
+subdistrict,YE211721,Radum
+subdistrict,YE220121,Baqim
+subdistrict,YE220122,Suhar Ash Sham
+subdistrict,YE220123,Sharawah
+subdistrict,YE220124,Yasnam
+subdistrict,YE220125,Qahr Bani Al Harith
+subdistrict,YE220126,Al Qutaynat
+subdistrict,YE220127,Bani Ma'ali
+subdistrict,YE220221,Qatabir
+subdistrict,YE220222,Khashir
+subdistrict,YE220223,Hanbah
+subdistrict,YE220224,Aal Thabit
+subdistrict,YE220225,Aal Abdal
+subdistrict,YE220321,Aal Yazid
+subdistrict,YE220322,Aal Muqana' wa Tariq wa Yahya
+subdistrict,YE220323,Al Butayn
+subdistrict,YE220324,Bani Ayash
+subdistrict,YE220325,Aal Kathir
+subdistrict,YE220326,Wald Abduh
+subdistrict,YE220327,Aal Maswad
+subdistrict,YE220328,Aal Mashyakh
+subdistrict,YE220329,Al Qahratayn
+subdistrict,YE220330,Al Waqishin
+subdistrict,YE220331,Shudhan
+subdistrict,YE220332,Bani Khawli
+subdistrict,YE220333,Jalha'a
+subdistrict,YE220421,Ar Rahmanin
+subdistrict,YE220422,Wald Amir
+subdistrict,YE220423,Dhawi Mohammad
+subdistrict,YE220424,Ar Rub'ayn
+subdistrict,YE220521,Ghumar
+subdistrict,YE220522,Bani Rabi'ah
+subdistrict,YE220523,Bakil
+subdistrict,YE220524,Al Alaa
+subdistrict,YE220525,Sha'ban
+subdistrict,YE220526,Al Qadalat Ali
+subdistrict,YE220527,Al Azhur
+subdistrict,YE220528,Aal Otayf
+subdistrict,YE220529,Jabal Al Ozd
+subdistrict,YE220530,Al Ghur
+subdistrict,YE220531,Al Hajlah
+subdistrict,YE220532,An Nadhir
+subdistrict,YE220533,Burkan
+subdistrict,YE220534,Ash Shawariq
+subdistrict,YE220535,Bani Al Qum
+subdistrict,YE220536,Bani Sabah
+subdistrict,YE220621,Al Waqr
+subdistrict,YE220622,Al Waqish
+subdistrict,YE220721,Adh Dhahir
+subdistrict,YE220722,Ghafirah
+subdistrict,YE220821,Haydan
+subdistrict,YE220822,Zabid Al Jabal
+subdistrict,YE220823,Oraymah
+subdistrict,YE220824,Zabid Al Wadi
+subdistrict,YE220825,Dhwaib Al Olya
+subdistrict,YE220826,Maran As Sinwan
+subdistrict,YE220827,Maran Wald Ja'shan
+subdistrict,YE220828,Maran Wald Yahya
+subdistrict,YE220829,Wald Ayish
+subdistrict,YE220830,Wald Nuwar
+subdistrict,YE220831,Wald Omar (Maran)
+subdistrict,YE220832,Dhuayb As Sufla
+subdistrict,YE220921,Saqin
+subdistrict,YE220922,Erw
+subdistrict,YE220923,Al Karb
+subdistrict,YE220924,Al Khawalid
+subdistrict,YE220925,Al Baydan
+subdistrict,YE220926,Bani Sa'd Al Jahuz
+subdistrict,YE220927,Sharaf Oraymah
+subdistrict,YE220928,Bani Ghurban
+subdistrict,YE220929,Wadi Al Hibal
+subdistrict,YE220930,Alat Al Ghamr
+subdistrict,YE220931,An Naw'ah
+subdistrict,YE220932,Wa'ri wa Omri
+subdistrict,YE220933,Alat Al Afkhadh
+subdistrict,YE220934,Aal Al Qasim
+subdistrict,YE220935,Bani Sa'd Arash
+subdistrict,YE220936,Bani Was
+subdistrict,YE220937,Aal Al Waqish
+subdistrict,YE220938,Al Mahrath
+subdistrict,YE220939,Aal Yusuf
+subdistrict,YE220940,Al Jahrah
+subdistrict,YE220941,Nuni wa Wadi Khayr
+subdistrict,YE221021,Majz
+subdistrict,YE221022,Bani Shunayf
+subdistrict,YE221023,Dahyan
+subdistrict,YE221024,Bani Suwayd
+subdistrict,YE221025,Bani Hudhayfah
+subdistrict,YE221026,Wadi Falah
+subdistrict,YE221027,Sarrah
+subdistrict,YE221028,Alt Ar Rabi'
+subdistrict,YE221029,Al Ma'arif
+subdistrict,YE221030,Aal Jabir
+subdistrict,YE221031,Sahat Wald Omar
+subdistrict,YE221032,Bani Obad
+subdistrict,YE221121,Al Azqul
+subdistrict,YE221122,Bani Owayr
+subdistrict,YE221123,Al Hamzat
+subdistrict,YE221124,As Sahn
+subdistrict,YE221125,At Talh
+subdistrict,YE221126,Wald Mas'ud
+subdistrict,YE221127,Bani Mu'adh
+subdistrict,YE221128,Wadi Alaf
+subdistrict,YE221129,Farwah wa Al Mahadhir
+subdistrict,YE221221,Nashur
+subdistrict,YE221222,Akwan
+subdistrict,YE221223,Wadi Madhab
+subdistrict,YE221224,Wadi'ah
+subdistrict,YE221225,Sharmat
+subdistrict,YE221226,Al Miqbab
+subdistrict,YE221227,Wald Mas'ud
+subdistrict,YE221321,Amlah
+subdistrict,YE221322,Al Jafrah
+subdistrict,YE221323,Al Aqiq
+subdistrict,YE221324,Adhlah
+subdistrict,YE221421,Aal Muqbil
+subdistrict,YE221422,Amlah Aal Salim
+subdistrict,YE221423,Amlah Wa'ilah
+subdistrict,YE221424,Wadi Aal Abu Jabarah
+subdistrict,YE221425,Al Far'
+subdistrict,YE221426,Al Buq'
+subdistrict,YE221427,Al Atfin
+subdistrict,YE221521,Sa'dah
+subdistrict,YE221522,Al Abdin Gharaz
+subdistrict,YE230121,Rub' Hamdan
+subdistrict,YE230122,Wadi'ah
+subdistrict,YE230123,Jusham
+subdistrict,YE230124,Bani Mukaram
+subdistrict,YE230221,Bani Ali
+subdistrict,YE230222,Eyal Abdallah
+subdistrict,YE230223,Al Mansur
+subdistrict,YE230224,Shakir
+subdistrict,YE230225,Bayt Marran
+subdistrict,YE230226,Bani Hakam
+subdistrict,YE230227,Az Zubayrat
+subdistrict,YE230228,Bani Sulayman
+subdistrict,YE230229,Habar
+subdistrict,YE230230,Zindan
+subdistrict,YE230231,Al Khamis
+subdistrict,YE230232,Sha'b
+subdistrict,YE230233,Ath Thulth
+subdistrict,YE230234,Hazm
+subdistrict,YE230235,Bani Murah
+subdistrict,YE230321,Eyal Sayad
+subdistrict,YE230322,Eyal Mansur
+subdistrict,YE230323,Al Hanashat
+subdistrict,YE230324,Eyal Ghafir
+subdistrict,YE230325,Marhabah
+subdistrict,YE230421,Eyal Malik
+subdistrict,YE230422,Sa'wan
+subdistrict,YE230423,Sarif
+subdistrict,YE230424,Dhi Marmar
+subdistrict,YE230425,Adran
+subdistrict,YE230426,Rujam
+subdistrict,YE230427,Ash Shurfah
+subdistrict,YE230428,Al Abna'a
+subdistrict,YE230429,Ar Rawnah
+subdistrict,YE230521,Al Hams Al Adani
+subdistrict,YE230522,Al Khums Al Khamis
+subdistrict,YE230523,Wadi Jubayb
+subdistrict,YE230524,Khums Wadi Janah
+subdistrict,YE230525,Khums Al Wadi Al Awsat
+subdistrict,YE230526,Sarfat Wadjah
+subdistrict,YE230527,Anaqah
+subdistrict,YE230528,Wadi Al Ajbar
+subdistrict,YE230529,Ar Rub' Al Gharbi
+subdistrict,YE230530,Ar Rub' Ash Sharqi
+subdistrict,YE230531,Al Farwat
+subdistrict,YE230532,Qa' Al Habab
+subdistrict,YE230621,Rub' Al Abs
+subdistrict,YE230622,Wa'lan
+subdistrict,YE230623,Ar Rub' Ash Sharqi
+subdistrict,YE230624,Rub' Awlad Hasan
+subdistrict,YE230721,Bani Qays
+subdistrict,YE230722,Diyan
+subdistrict,YE230723,Jabal An Nabi Shu'ib
+subdistrict,YE230724,Al Arus
+subdistrict,YE230725,Janb
+subdistrict,YE230726,Bani Ar Ra'i
+subdistrict,YE230727,Shihab Al Asfal
+subdistrict,YE230728,Shihab Al A'la
+subdistrict,YE230729,Al Hadab
+subdistrict,YE230730,Ath Thulth
+subdistrict,YE230731,Al Barawiyah
+subdistrict,YE230732,Bani Sur
+subdistrict,YE230733,Hazzat Sahman
+subdistrict,YE230734,Baqlan
+subdistrict,YE230821,Al Hadab
+subdistrict,YE230822,Bani Amr
+subdistrict,YE230823,Bani As Sayagh
+subdistrict,YE230824,Al Ahbub
+subdistrict,YE230825,Al Jid'an
+subdistrict,YE230826,Bani Mihalhal
+subdistrict,YE230827,Bilad Al Qaba'il
+subdistrict,YE230828,Bani An Nimri
+subdistrict,YE230829,Bani Yusuf
+subdistrict,YE230830,Bani Al Hudhayfi
+subdistrict,YE230921,Mafhaq
+subdistrict,YE230922,Bani Mansur
+subdistrict,YE230923,Al A'rush
+subdistrict,YE230924,Wahbi
+subdistrict,YE230925,As Sufah
+subdistrict,YE230926,Bayt Al Ali
+subdistrict,YE230927,Al Jahadib
+subdistrict,YE230928,Darwan
+subdistrict,YE230929,Suhah
+subdistrict,YE230930,Yadi'
+subdistrict,YE230931,Bani Sulayman
+subdistrict,YE230932,Ar Rub'
+subdistrict,YE230933,Al Mikhlaf
+subdistrict,YE230934,Al Ajz
+subdistrict,YE230935,Bayt Ibn Mahdi
+subdistrict,YE230936,Bani Bajir
+subdistrict,YE230937,Bani Jahdab
+subdistrict,YE230938,Bani Mohammad
+subdistrict,YE230939,Bani orwah
+subdistrict,YE230940,Jahalah
+subdistrict,YE230941,As Suds
+subdistrict,YE230942,Al Hatab
+subdistrict,YE230943,Al Mahyam
+subdistrict,YE230944,Al A'mur
+subdistrict,YE230945,Bayt Al Jaridi
+subdistrict,YE230946,Bani Walid
+subdistrict,YE230947,Bani Al Qalam
+subdistrict,YE230948,Siham
+subdistrict,YE230949,Dabi Siham
+subdistrict,YE230950,Bani Furas
+subdistrict,YE230951,Bani Shamhan
+subdistrict,YE231021,Manakhah
+subdistrict,YE231022,Da'wah
+subdistrict,YE231023,Bani Hasan wa Husayn
+subdistrict,YE231024,Bani Barah
+subdistrict,YE231025,Bani Ishaq
+subdistrict,YE231026,Bani Isma'il
+subdistrict,YE231027,Al Aghmur
+subdistrict,YE231028,As Suds wa Bani Ata'a
+subdistrict,YE231029,Bani Khattab
+subdistrict,YE231030,Al Magharib Al Olya
+subdistrict,YE231031,Al Magharib As Sufla
+subdistrict,YE231032,Husban
+subdistrict,YE231033,Lahab
+subdistrict,YE231034,Al Ya'abir
+subdistrict,YE231035,Ath Thulth
+subdistrict,YE231036,Bani Muqatil
+subdistrict,YE231037,Hawzan
+subdistrict,YE231038,Masar
+subdistrict,YE231121,Matuh
+subdistrict,YE231122,Al Magharib
+subdistrict,YE231123,Bani Jarban
+subdistrict,YE231124,Al Jirwah
+subdistrict,YE231125,Bani Ishaq
+subdistrict,YE231126,Bani Araf
+subdistrict,YE231127,Madwal
+subdistrict,YE231128,At Taraf
+subdistrict,YE231221,Al A'rush
+subdistrict,YE231222,Habab Aal Hantash
+subdistrict,YE231223,Bani Shaddad
+subdistrict,YE231224,Al Makir Al Laghba'a
+subdistrict,YE231321,Bani Siham
+subdistrict,YE231322,Bani Jabr
+subdistrict,YE231323,Al Sahman
+subdistrict,YE231324,Jabal Al Lawz
+subdistrict,YE231325,Qarawi At Tyal
+subdistrict,YE231421,Bani Dabyan
+subdistrict,YE231521,Al Yamaniyah Al Olya
+subdistrict,YE231621,Miswar
+subdistrict,YE231622,Al Yamaniyah As Sufla
+subdistrict,YE231623,Hadar
+subdistrict,YE231624,Qarawi
+subdistrict,YE231625,Sahman Jihanah
+subdistrict,YE240121,Dar Sa'd
+subdistrict,YE240221,Ash Shaykh Othman
+subdistrict,YE240321,Al Mansurah
+subdistrict,YE240421,Al Burayqah
+subdistrict,YE240521,At Tawahi
+subdistrict,YE240621,Al Mu'alla
+subdistrict,YE240721,Sirah
+subdistrict,YE240821,Khur Maksar
+subdistrict,YE250121,Al Had
+subdistrict,YE250221,Lab'us
+subdistrict,YE250321,Al Maflahi
+subdistrict,YE250421,Yahr
+subdistrict,YE250521,Habil Jabr
+subdistrict,YE250621,Habil Ar Raydah
+subdistrict,YE250721,al Habilin
+subdistrict,YE250821,Al Malah
+subdistrict,YE250921,Al Musaymir
+subdistrict,YE251021,Al Qubaytah
+subdistrict,YE251022,Al Yusufayn
+subdistrict,YE251023,Al Hajr Hadlan
+subdistrict,YE251024,Karish
+subdistrict,YE251121,Tur Al Bahah
+subdistrict,YE251221,Zurayqat Ash Sham
+subdistrict,YE251222,Zurayqat Al Yaman
+subdistrict,YE251223,An Najishah
+subdistrict,YE251224,Al Abadilah
+subdistrict,YE251225,Bu'aymah
+subdistrict,YE251226,Al Ka'awish
+subdistrict,YE251227,Al Ashahibah
+subdistrict,YE251228,Al Akahilah
+subdistrict,YE251229,Za'azi'
+subdistrict,YE251230,Al Ashbut
+subdistrict,YE251231,Al Madjarah
+subdistrict,YE251232,Zuqayhah
+subdistrict,YE251233,Az Za'imah
+subdistrict,YE251234,Al Hunayshah
+subdistrict,YE251235,Al Anbuh
+subdistrict,YE251236,As Sawalihah
+subdistrict,YE251237,Ma'baq
+subdistrict,YE251238,As Sud
+subdistrict,YE251239,Al Jalilah
+subdistrict,YE251240,Al Mukabarah
+subdistrict,YE251241,Al Magharimah
+subdistrict,YE251242,Al Huwayshah
+subdistrict,YE251243,Ad Dahmashah
+subdistrict,YE251321,Al Madaribah
+subdistrict,YE251322,Al Arah
+subdistrict,YE251421,Al Hawtah
+subdistrict,YE251521,Al Hawtah
+subdistrict,YE260121,Aal Hadhqayn
+subdistrict,YE260122,Al Ashraf
+subdistrict,YE260123,As Sahari
+subdistrict,YE260221,Raghwan
+subdistrict,YE260321,Madghal Al Jid'an
+subdistrict,YE260421,Bani Amr
+subdistrict,YE260422,Bani Sakran
+subdistrict,YE260521,Ahl Ali
+subdistrict,YE260522,Al Abdah
+subdistrict,YE260523,Bani Ma'ud
+subdistrict,YE260524,Al Majza'
+subdistrict,YE260525,Bani Mohammad
+subdistrict,YE260526,Bani Shakir
+subdistrict,YE260527,Al Jarida
+subdistrict,YE260621,Al Mahjazah
+subdistrict,YE260622,Sirwah
+subdistrict,YE260623,Arak
+subdistrict,YE260721,Al Jadidah
+subdistrict,YE260722,Al Jarshah
+subdistrict,YE260723,Naja
+subdistrict,YE260724,Jabal As Sahl
+subdistrict,YE260725,Ya'rah
+subdistrict,YE260821,Rahabah
+subdistrict,YE260822,Aal Bu'shah
+subdistrict,YE260823,Aal Jamil
+subdistrict,YE260824,Al Qaradi'ah
+subdistrict,YE260825,Aal Ham
+subdistrict,YE260921,Aal Mansur
+subdistrict,YE260922,At Tabir
+subdistrict,YE260923,Sharq As Sih
+subdistrict,YE260924,Aal Mudhaffar As Sadarah
+subdistrict,YE260925,Al Adi
+subdistrict,YE260926,Al Quhaytah
+subdistrict,YE260927,Al Ashraf
+subdistrict,YE260928,Aal Abu Tuhayf
+subdistrict,YE260929,Al Qawim
+subdistrict,YE260930,Aal Aqil
+subdistrict,YE260931,Jaradha
+subdistrict,YE261021,Al Amud Aal Talib
+subdistrict,YE261022,Al Qirsh Aal Ahmad
+subdistrict,YE261023,Al Arsh
+subdistrict,YE261024,Halaqat Aal Husayn
+subdistrict,YE261025,Qaniyah
+subdistrict,YE261121,Aal Ghanim
+subdistrict,YE261122,Aal Ath Thabithi
+subdistrict,YE261123,Aal Awad
+subdistrict,YE261124,Aal Balghayth wa Lamdhud
+subdistrict,YE261125,Aal Az Zabidi
+subdistrict,YE261126,Aal As Sa'idi
+subdistrict,YE261127,Aal Muqbil
+subdistrict,YE261128,Aal Hamran
+subdistrict,YE261221,Al Ashraf
+subdistrict,YE261321,Aal Jalal
+subdistrict,YE261322,Aal Fujayh
+subdistrict,YE261323,Aal Rashid Munif
+subdistrict,YE261324,Aal Mash'al
+subdistrict,YE261325,Aal Qaz'ah
+subdistrict,YE261326,Aal Shabwan
+subdistrict,YE261421,Jabal Murad
+subdistrict,YE270121,Shibam
+subdistrict,YE270122,Dila' Al A'la
+subdistrict,YE270123,Al Ahjir
+subdistrict,YE270124,Az Zubayrat
+subdistrict,YE270221,Al Qasabah
+subdistrict,YE270222,Bani Al Khayat
+subdistrict,YE270223,Shamat (Hissn Al Makhir)
+subdistrict,YE270224,Bani Adh Dhulani
+subdistrict,YE270225,Bani Sari
+subdistrict,YE270226,La'ah
+subdistrict,YE270227,Az Zabih
+subdistrict,YE270228,Bani Al Hajjaj
+subdistrict,YE270229,Al Gharbi
+subdistrict,YE270230,Ad Dula' Al Asfal
+subdistrict,YE270321,Ar Rujum
+subdistrict,YE270322,Bani Al Mus'ab
+subdistrict,YE270323,As Sultan
+subdistrict,YE270324,Al Jaradi
+subdistrict,YE270325,Al Madani
+subdistrict,YE270326,Al Bishari
+subdistrict,YE270327,Bani Al Ghudhayfi
+subdistrict,YE270328,Bani Al Ghasal
+subdistrict,YE270329,Bani Awad
+subdistrict,YE270330,Bani As'ad
+subdistrict,YE270331,Bani Haytham
+subdistrict,YE270332,Al Azaki
+subdistrict,YE270333,Ar Rawhani
+subdistrict,YE270334,Bani Al Jalabi
+subdistrict,YE270335,Ghalib Rubay'i
+subdistrict,YE270336,Bani Al Badi
+subdistrict,YE270337,Adh Dhari
+subdistrict,YE270421,Nimrah
+subdistrict,YE270422,Juba'
+subdistrict,YE270423,Adh Dhahir
+subdistrict,YE270424,Ash Sha'afil Al Olya
+subdistrict,YE270425,Ash Sha'afil As Sufla
+subdistrict,YE270426,Al Wasitah
+subdistrict,YE270427,Adhru'
+subdistrict,YE270428,Oban
+subdistrict,YE270429,Abs
+subdistrict,YE270430,Al Amariyah
+subdistrict,YE270431,Bani Imarah
+subdistrict,YE270432,Wadi Sumay'
+subdistrict,YE270521,Ash Shujaf
+subdistrict,YE270522,Ash Shamaryah
+subdistrict,YE270523,Ar Rawdah
+subdistrict,YE270524,Al Qiblah
+subdistrict,YE270525,Al Asafirah
+subdistrict,YE270526,Bahish
+subdistrict,YE270527,Bani Ali
+subdistrict,YE270528,Bani Mulayk
+subdistrict,YE270529,Al Ma'azibah
+subdistrict,YE270530,Hamdan
+subdistrict,YE270531,Habat
+subdistrict,YE270532,Al Amariyah
+subdistrict,YE270533,Badah
+subdistrict,YE270534,Juba'
+subdistrict,YE270535,Ash Shamasinah
+subdistrict,YE270536,Ash Shi'ab
+subdistrict,YE270537,Al Asus
+subdistrict,YE270538,Bani Wahb
+subdistrict,YE270539,Ash Sharq Al Ghazawinah
+subdistrict,YE270540,Bani Al Osayfiri
+subdistrict,YE270541,Bani Makar
+subdistrict,YE270621,Bani Dahman
+subdistrict,YE270622,Al Malahinah
+subdistrict,YE270623,Bani Qushb
+subdistrict,YE270624,Adh Dhari
+subdistrict,YE270625,Bani Ahmad
+subdistrict,YE270626,As Sahman Bani Omar
+subdistrict,YE270627,Bayt Ash Shama'
+subdistrict,YE270628,Humatah
+subdistrict,YE270629,Ras Al Ahjul
+subdistrict,YE270630,Jabal Nu'man
+subdistrict,YE270631,Bani Ma'mun
+subdistrict,YE270632,Bani As'ad
+subdistrict,YE270721,Al Ja'afirah Ash Sharqi
+subdistrict,YE270722,Bani Maqdam
+subdistrict,YE270723,Bani Mohammad
+subdistrict,YE270724,Bani Al Azraq
+subdistrict,YE270725,Bani Shadid
+subdistrict,YE270726,Bani Zayd
+subdistrict,YE270727,Al Ja'afirah Al Gharbiyah
+subdistrict,YE270728,Otmah
+subdistrict,YE270729,Al Wahawih
+subdistrict,YE270730,Qarn Al Masjid
+subdistrict,YE270731,At Tawil
+subdistrict,YE270732,Qayhamah
+subdistrict,YE270733,Bani Hamadi
+subdistrict,YE270734,Dir Ash Sharif
+subdistrict,YE270735,Bani Ali
+subdistrict,YE270736,Bani Ash Shuwayshi
+subdistrict,YE270737,Al Qawazi'ah
+subdistrict,YE270738,Bani Saba
+subdistrict,YE270739,Ash Shuway'
+subdistrict,YE270740,Huwa'
+subdistrict,YE270741,Bani Qirat
+subdistrict,YE270821,Al Mahwit
+subdistrict,YE270921,Al Ahjul
+subdistrict,YE270922,Al Arqub
+subdistrict,YE270923,Jabal At Taraf
+subdistrict,YE270924,Al Wasat
+subdistrict,YE270925,Anbar
+subdistrict,YE270926,Qiblat Ibn Abdallah
+subdistrict,YE270927,Qiblat Khadif
+subdistrict,YE270928,Thamir
+subdistrict,YE270929,Bayt Al Qahtani
+subdistrict,YE270930,Tuhamah
+subdistrict,YE270931,Al Hawasilah
+subdistrict,YE270932,Bani Al Walid
+subdistrict,YE270933,Al Majadil
+subdistrict,YE270934,Al Gharbi Al A'la
+subdistrict,YE270935,Bani Abjar
+subdistrict,YE270936,Al Gharbi Al Asfal
+subdistrict,YE270937,Bilad Ghayl
+subdistrict,YE280121,Habrut
+subdistrict,YE280221,Hat
+subdistrict,YE280321,Jadhib
+subdistrict,YE280322,Damqut
+subdistrict,YE280421,Al Ghaydhah
+subdistrict,YE280422,Al Faydami
+subdistrict,YE280521,Man'ar
+subdistrict,YE280621,Al Masilah
+subdistrict,YE280622,Al Ayss
+subdistrict,YE280721,Sayhut
+subdistrict,YE280722,Etab
+subdistrict,YE280821,Qishn
+subdistrict,YE280921,Haswin
+subdistrict,YE290121,Al Harf
+subdistrict,YE290122,Khaywan Al Hamra'a
+subdistrict,YE290123,Wadi Adaf
+subdistrict,YE290124,Wadi Jawfan wa Hubashah
+subdistrict,YE290125,Wadi Ayan
+subdistrict,YE290126,Wadi Sufyan
+subdistrict,YE290127,Al Hayrah
+subdistrict,YE290128,Al Amshiyah
+subdistrict,YE290129,As Sawad
+subdistrict,YE290130,Wasit
+subdistrict,YE290221,Huth
+subdistrict,YE290222,Dhu Anash
+subdistrict,YE290223,As Sadidah
+subdistrict,YE290224,Al Khamri
+subdistrict,YE290225,Dhu Eid
+subdistrict,YE290226,Kharash
+subdistrict,YE290227,Barawish
+subdistrict,YE290228,Dhu Ali
+subdistrict,YE290229,Dhu Al Qutaysh
+subdistrict,YE290230,Dhu Silah
+subdistrict,YE290231,Al Ma'amirah
+subdistrict,YE290232,Dhi Yabil
+subdistrict,YE290233,Khaywan
+subdistrict,YE290234,Dhu Elayan
+subdistrict,YE290235,Buban
+subdistrict,YE290321,Saddan
+subdistrict,YE290322,Dhu Khayran
+subdistrict,YE290323,Rishan
+subdistrict,YE290324,Al Batnah
+subdistrict,YE290325,Qaf Dhu Hadyan
+subdistrict,YE290326,Qarhad wa Al Fardat
+subdistrict,YE290327,Hashif
+subdistrict,YE290328,Danan
+subdistrict,YE290329,Al Mi'radah wa Al Wasi'
+subdistrict,YE290330,Qa'ah
+subdistrict,YE290331,As Sawad
+subdistrict,YE290421,Al Qaflah
+subdistrict,YE290422,Al Gharbi
+subdistrict,YE290423,Ash Shat
+subdistrict,YE290424,Al Batnah
+subdistrict,YE290425,Dhu Ghaythan
+subdistrict,YE290521,Shaharah
+subdistrict,YE290522,Dhari
+subdistrict,YE290523,Sayran Ash Sharqi
+subdistrict,YE290524,Sayran Al Gharbi
+subdistrict,YE290621,Bani Nasr
+subdistrict,YE290622,Bani Awf
+subdistrict,YE290623,Bani Nuf
+subdistrict,YE290721,Fulayh
+subdistrict,YE290722,Adh Dhibah
+subdistrict,YE290723,Al Ghanaya
+subdistrict,YE290724,Al Ojayrat
+subdistrict,YE290725,Ath Thulth
+subdistrict,YE290821,Al Khamis Al Wasit
+subdistrict,YE290822,Bani Eid
+subdistrict,YE290823,Khamis Bani Dahsh
+subdistrict,YE290824,Khamis Hajur
+subdistrict,YE290921,Sufyan
+subdistrict,YE290922,Marhabah
+subdistrict,YE290923,Bani Jabr
+subdistrict,YE291021,Khamis Al Qudaymi
+subdistrict,YE291022,Khamis Al Qayfi
+subdistrict,YE291023,Khamis Harmal
+subdistrict,YE291024,Khamis Harash
+subdistrict,YE291025,Thulth Az Zudi
+subdistrict,YE291026,Thulth Dahyan
+subdistrict,YE291027,Thulth Al Wasit
+subdistrict,YE291028,Khamis Abu Dhibah
+subdistrict,YE291121,Dhayfan
+subdistrict,YE291122,Raydah
+subdistrict,YE291123,Hamdah
+subdistrict,YE291124,Ghulah Ajib
+subdistrict,YE291221,Ar Rub' Ash Sharqi
+subdistrict,YE291222,Eyal Yahya
+subdistrict,YE291223,Al Akhum
+subdistrict,YE291224,Ath Thulth
+subdistrict,YE291225,Eyal Hatim
+subdistrict,YE291321,Nashir
+subdistrict,YE291322,Otayfah
+subdistrict,YE291323,Bani Mansur
+subdistrict,YE291324,Ibn Ahkum
+subdistrict,YE291421,Bani Hanan wa Al Badu
+subdistrict,YE291422,Bilad Janb
+subdistrict,YE291423,Bani Talq
+subdistrict,YE291424,Ar Rahabayn
+subdistrict,YE291425,Al Amrayin
+subdistrict,YE291426,Bani Al Harith
+subdistrict,YE291427,Al Ojayrat
+subdistrict,YE291428,Qatabah
+subdistrict,YE291429,Bani Jaysh Al A'la
+subdistrict,YE291430,Hamal
+subdistrict,YE291431,Bani Jaysh Al Asfal
+subdistrict,YE291521,Amran
+subdistrict,YE291522,Al Ashmur
+subdistrict,YE291621,Jabal Maswar
+subdistrict,YE291622,Ar Rughayl
+subdistrict,YE291623,Bani Mahdi
+subdistrict,YE291624,Eyal Mumar
+subdistrict,YE291625,Wadi Eyal Ali
+subdistrict,YE291626,Qaylab
+subdistrict,YE291627,Bani Jasmar
+subdistrict,YE291628,Bani As'ad
+subdistrict,YE291629,At Tuham
+subdistrict,YE291630,Bani Hur
+subdistrict,YE291631,Al Jadm
+subdistrict,YE291632,Bani Al Kuraybi
+subdistrict,YE291721,Hababah
+subdistrict,YE291722,Al Khamis
+subdistrict,YE291723,Thula
+subdistrict,YE291724,As Sirm
+subdistrict,YE291725,Bani Al Abas
+subdistrict,YE291726,Al Masani'
+subdistrict,YE291821,Khamis Quhal
+subdistrict,YE291822,Ar Rayah Al Wusta
+subdistrict,YE291823,Bani Hajjaj
+subdistrict,YE291824,Bani Abd
+subdistrict,YE291921,Adh Dhahir
+subdistrict,YE291922,As Sanatayn wa Al Ghayl
+subdistrict,YE291923,Ghashm
+subdistrict,YE291924,Ahlan Bil Husayn
+subdistrict,YE291925,Ghurban
+subdistrict,YE291926,Al Jiraf
+subdistrict,YE292021,Khyar
+subdistrict,YE292022,Wadi'ah Hashid
+subdistrict,YE292023,Bani Qays
+subdistrict,YE292024,Bani Malik
+subdistrict,YE292025,Bani Ghuthaymah
+subdistrict,YE300121,Juban
+subdistrict,YE300122,Na'wah
+subdistrict,YE300123,Al Awdyah
+subdistrict,YE300124,Ar Rabi'tayn
+subdistrict,YE300125,Ad Dubiyaniyah
+subdistrict,YE300126,Hajaj
+subdistrict,YE300221,Damt
+subdistrict,YE300222,Rakhmah
+subdistrict,YE300223,Manqir
+subdistrict,YE300224,Aal Amr
+subdistrict,YE300225,Adh Dhahirah
+subdistrict,YE300226,Kannah
+subdistrict,YE300227,Aal Abdallah
+subdistrict,YE300228,Al Mathil
+subdistrict,YE300229,Ghur Lahab
+subdistrict,YE300230,Rub' Al Himah
+subdistrict,YE300321,Qa'tabah
+subdistrict,YE300322,Bilad Al Yubi
+subdistrict,YE300323,Al Wahj
+subdistrict,YE300324,Ash Sharnamah As Sufla
+subdistrict,YE300325,Al A'shur
+subdistrict,YE300326,Al Amriyah
+subdistrict,YE300327,Asaf Muris
+subdistrict,YE300328,Al Majanih
+subdistrict,YE300421,Ash Shu'ayb
+subdistrict,YE300521,Al Hasayn
+subdistrict,YE300621,Ad Dali'
+subdistrict,YE300721,Jahaf
+subdistrict,YE300821,Al Azariq
+subdistrict,YE300921,Imarah As Sufla
+subdistrict,YE300922,Imarah Al Olya
+subdistrict,YE300923,Al Hayqi Al Asfal
+subdistrict,YE300924,Al Hayqi Al A'la
+subdistrict,YE300925,Al Ahdhuf
+subdistrict,YE300926,Otabah
+subdistrict,YE300927,Zurbat Bani Abdallah
+subdistrict,YE300928,Al Masalimah
+subdistrict,YE300929,Al Bayt
+subdistrict,YE300930,Bani Malik
+subdistrict,YE300931,Bani Subh
+subdistrict,YE300932,Dawran
+subdistrict,YE300933,Al Mashriqi
+subdistrict,YE310121,Bani Abdulkarim
+subdistrict,YE310122,Bani Omar
+subdistrict,YE310123,Bani Hasan
+subdistrict,YE310124,Bani Khawli
+subdistrict,YE310125,Al Arr
+subdistrict,YE310126,Bani Waqid
+subdistrict,YE310127,Bani Nadib
+subdistrict,YE310128,Dharhan
+subdistrict,YE310129,Bani Shar'ab
+subdistrict,YE310130,Bani A'sar
+subdistrict,YE310131,Al Maskhan
+subdistrict,YE310132,Al Asakirah
+subdistrict,YE310133,At Taliqah
+subdistrict,YE310134,Jadajid
+subdistrict,YE310221,Al Aslaf
+subdistrict,YE310222,Bani Al Jaradi
+subdistrict,YE310223,Bani Athumayli
+subdistrict,YE310224,An Nubah
+subdistrict,YE310225,Bani Al Qardi
+subdistrict,YE310226,Kahlah
+subdistrict,YE310227,Bani Al Abdi
+subdistrict,YE310228,Bani Al Askari
+subdistrict,YE310229,Bani Al Wahidi Sa'di
+subdistrict,YE310230,Bani Al Wahidi Sufan
+subdistrict,YE310231,Bani Nafi'
+subdistrict,YE310232,Nufan
+subdistrict,YE310233,Qadrah
+subdistrict,YE310234,Bani Qushayb
+subdistrict,YE310235,Yaf'an
+subdistrict,YE310236,Al Jabahi
+subdistrict,YE310237,Ad Dumar
+subdistrict,YE310238,Ju'irah
+subdistrict,YE310239,Bani Al Wahidi Sala
+subdistrict,YE310321,Al Jabin
+subdistrict,YE310322,Aden
+subdistrict,YE310323,Bani Ar Rawn
+subdistrict,YE310324,Bani Ad Dubaybi
+subdistrict,YE310325,Qatw
+subdistrict,YE310326,Bani Abu Ad Daif
+subdistrict,YE310327,Hawrah
+subdistrict,YE310328,Adh Dhari
+subdistrict,YE310329,Badj
+subdistrict,YE310330,Bani Nahit
+subdistrict,YE310331,Bani Shar'ab
+subdistrict,YE310332,Al Qabalyah
+subdistrict,YE310333,Al Hidadah
+subdistrict,YE310334,Bani Balhut
+subdistrict,YE310335,Al Hadidiyah
+subdistrict,YE310336,Qu'ar
+subdistrict,YE310337,Sha'bun
+subdistrict,YE310338,At Takarir
+subdistrict,YE310339,Khadm
+subdistrict,YE310340,Bani Khattab
+subdistrict,YE310421,Al Mikhlaf
+subdistrict,YE310422,Bukal
+subdistrict,YE310423,Maswar
+subdistrict,YE310424,Adnaha
+subdistrict,YE310425,Al Jun
+subdistrict,YE310426,Ash Shazb
+subdistrict,YE310427,Bani Ya'fur
+subdistrict,YE310428,Al Rim
+subdistrict,YE310429,Al Abarah
+subdistrict,YE310521,Ad Dubarah
+subdistrict,YE310522,Yamin
+subdistrict,YE310523,Al Qarsab
+subdistrict,YE310524,Al Magharim
+subdistrict,YE310525,Bani Abdulaziz
+subdistrict,YE310526,Bani Mansur
+subdistrict,YE310527,Sha'f
+subdistrict,YE310528,Al Buq'ah
+subdistrict,YE310529,Dhalamlam
+subdistrict,YE310530,Al Jabub
+subdistrict,YE310531,Al Masbahi
+subdistrict,YE310532,Salukah
+subdistrict,YE310533,Bani Mus'ab
+subdistrict,YE310621,Bani Sa'id
+subdistrict,YE310622,Bani Al Harazi
+subdistrict,YE310623,Bani Nafi'
+subdistrict,YE310624,Bani Al Ghuzzi
+subdistrict,YE310625,Bani Al Ja'd
+subdistrict,YE310626,Bani Al Qahawi Al Otm
+subdistrict,YE310627,Al Yamaniyah
+subdistrict,YE310628,Rama'
+subdistrict,YE310629,Al Bayadih
+subdistrict,YE310630,Bani Al Qahawi Al Otm
+subdistrict,YE310631,Bani Ahmad
+subdistrict,YE310632,Bani Judi'
+subdistrict,YE310633,Al Hawadhil
+subdistrict,YE310634,Bani Waqid
+subdistrict,YE320121,Hadibu
+subdistrict,YE320221,Qalansiyah wa Abd Al Kuri
+subdistrict,YE320222,Sabur Kamal Fir'un Island
+subdistrict,YE320223,Kamal Fir'un Island
+subdistrict,YE320224,Samhah Island
+subdistrict,YE320225,Darsah Island
+subdistrict,YE320227,Al Akhawayn Island
+sitename,YE1103_383,Shathath Center
+sitename,YE1106_384,Saylat Al Ma'ayen Center
+sitename,YE1110_399,Al Shehali Center
+sitename,YE1111_415,Al Rumaid
+sitename,YE1112_367,Eyis Center
+sitename,YE1112_400,Jabla Library
+sitename,YE1112_401,Ibn Aqeel School
+sitename,YE1114_368,Al Hujaryah Center
+sitename,YE1114_369,Al Ryamah Center
+sitename,YE1116_370,Al Ja'diah D
+sitename,YE1116_371,Al Ja'diah C
+sitename,YE1116_385,Khalid Bin Al Waleed School
+sitename,YE1116_386,Ali Bin Abi Taleb School
+sitename,YE1116_387,Al Thawrah School
+sitename,YE1116_388,7 July School
+sitename,YE1116_389,Al Ja'diah B
+sitename,YE1116_390,Al Ja'diah A 
+sitename,YE1116_391,Arwa School
+sitename,YE1116_392,Al Rawdhah Center
+sitename,YE1116_393,Al Najah School
+sitename,YE1116_394,Al Tawfeeq School
+sitename,YE1116_402,Aaisha School
+sitename,YE1116_403,Saeed Bin Al Masyab School
+sitename,YE1116_404,Mohammed Moqbel Abu Ras
+sitename,YE1116_405,Jabal Sha'lamah
+sitename,YE1116_406,Abdulwahab Al Areeqi School
+sitename,YE1116_416,Belqees School
+sitename,YE1116_417,East of Dar Al Jamea
+sitename,YE1118_372,Al Lahj A
+sitename,YE1118_373,Eyad Center
+sitename,YE1118_374,Dar Al Sharaf C
+sitename,YE1118_375,Dar Al Sharaf B
+sitename,YE1118_376,Dar Al Sharaf A
+sitename,YE1118_377,Al Lahj B
+sitename,YE1118_407,Abduladheem Al Rashedi Center
+sitename,YE1119_378,Harathah
+sitename,YE1119_395,Al Shatheli
+sitename,YE1119_396,Female student accommodation
+sitename,YE1119_408,Al Khansa'a Center
+sitename,YE1119_409,Al Salam Camp
+sitename,YE1119_410,Al Subul Center
+sitename,YE1119_411,Randah Shaye'e
+sitename,YE1119_412,Ahwal Ramadhan
+sitename,YE1119_413,Al Ghaithi Center
+sitename,YE1119_414,Akamat Assa'fani(F)
+sitename,YE1119_418,Waqeer Center
+sitename,YE1119_419,Akamat Assa'fani(A)
+sitename,YE1119_420,Akamat Assa'fani(C)
+sitename,YE1119_421,Akamat Assa'fani(D)
+sitename,YE1119_422,Akamat Assa'fani(B)
+sitename,YE1119_423,Akamat Assa'fani(E)
+sitename,YE1119_424,Akamat Assa'fani(G)
+sitename,YE1119_445,No Name
+sitename,YE1119_446,Building beside Al Rahmah Mosque
+sitename,YE1119_447,Al Shaheed Al Sabahi School
+sitename,YE1120_397,Dar Al Rahmah for orphans
+sitename,YE1203_425,Al Hadeej
+sitename,YE1204_398,Al Mohammasheen Settlement
+sitename,YE1204_462,Al Methaq School
+sitename,YE1209_426,Ambsaty
+sitename,YE1210_427,Hesn Shadad
+sitename,YE1210_428,Al Tumaisi
+sitename,YE1210_429,Al Maraqed
+sitename,YE1210_430,Dahl Ahmed
+sitename,YE1211_431,Dar Al Dhiafah
+sitename,YE1211_432,Al Noabah
+sitename,YE1211_479,Al Wadi
+sitename,YE1211_480,Al Wadi (Abyan)
+sitename,YE1308_0216,Naseebah Center For IDPs
+sitename,YE1309_0008,Southern Bir Zaid Neighbourhood
+sitename,YE1309_0005,Center of The Educational Channel
+sitename,YE1310_0007,Al Khamees
+sitename,YE1404_686,Al Al-Qaisi
+sitename,YE1404_687,Al-Aqlah
+sitename,YE1404_699,Vocational Institute
+sitename,YE1408_692,Dharwah
+sitename,YE1408_694,Areeb
+sitename,YE1408_697,Al Mansour
+sitename,YE1409_723,Center F
+sitename,YE1410_688,Jahri
+sitename,YE1411_690,Al-Jamae Al-Cabeer
+sitename,YE1413_698,Al-Salam Neighbourhood
+sitename,YE1413_700,Mahwa Al-Mahamsheen
+sitename,YE1413_702,No name
+sitename,YE1414_691,Al-Zoub
+sitename,YE1415_689,Al-Wehdah School
+sitename,YE1415_693,Health Facility
+sitename,YE1415_696,Yaklla
+sitename,YE1416_685,Al-Musalla
+sitename,YE1417_701,No name
+sitename,YE1418_695,Al-Ghaol
+sitename,YE1504_379,Hab Ra'ee
+sitename,YE1504_380,Al Hesah Center
+sitename,YE1504_381,Al Maqahi
+sitename,YE1504_382,Al Masharefah
+sitename,YE1504_433,No Name
+sitename,YE1504_434,Al Mahwa
+sitename,YE1504_435,Al Jareen
+sitename,YE1504_436,No Name
+sitename,YE1504_448,Al Noor School
+sitename,YE1504_449,Mohammed Abduljaleel House
+sitename,YE1504_450,Ahmed Ghaleb Abdullah Abbas House
+sitename,YE1504_451,Mohammed Abdulqader Building
+sitename,YE1504_452,Najodas - Al Murtafa'at Al Janoobiah
+sitename,YE1504_453,No Name
+sitename,YE1504_454,Abdullah Ali House
+sitename,YE1504_455,Al Saradeef
+sitename,YE1504_463,Mohammed Mahyoob Al Qahezi Building
+sitename,YE1504_464,Wadi Al Jesr
+sitename,YE1504_465,Al Rajhah
+sitename,YE1504_481,Al Ma'had
+sitename,YE1504_482,Al Shaheed Abdullah Azzam Institute
+sitename,YE1504_483,Al Maqahi
+sitename,YE1504_484,Al Taweer
+sitename,YE1504_485,Al Kamb Al Asfal
+sitename,YE1504_486,Al Kamb Al A'ala
+sitename,YE1504_487,Om Al Ahyooj
+sitename,YE1504_488,Al Shawkani School
+sitename,YE1504_489,Shabeeh
+sitename,YE1504_490,Al Eslah School
+sitename,YE1504_491,Al Shaheed Qayed Thabet School
+sitename,YE1504_492,Ghalib Al Rajabi Building
+sitename,YE1504_493,Bait Al Faransi
+sitename,YE1504_494,Ibn Taimyah for Quran
+sitename,YE1505_456,Alzaharaa Girl School
+sitename,YE1505_457,Al Kuwait School
+sitename,YE1505_458,Almohajab Home
+sitename,YE1505_466,Al Shaheed Hamood Aldokhain School
+sitename,YE1505_467,Al Fajr Al Jadeed School
+sitename,YE1505_468,Old directorate building
+sitename,YE1505_469,No Name
+sitename,YE1506_459,No Name
+sitename,YE1506_460,Al Jafer 2
+sitename,YE1506_461,No Name
+sitename,YE1506_470,Wadi Al Husaya 1
+sitename,YE1506_471,No Name
+sitename,YE1506_472,Al Baladiah Building
+sitename,YE1506_473,Al Jafer 1
+sitename,YE1506_495,Wadi Al Husaya 3
+sitename,YE1506_496,Wadi Al Husaya 4
+sitename,YE1506_530,No Name
+sitename,YE1506_531,Wadi Al Husaya 2
+sitename,YE1506_548,Wadi Al Husaya 5
+sitename,YE1506_549,Ghareerah School
+sitename,YE1506_550,Ghareerah Clinic
+sitename,YE1506_551,No Name
+sitename,YE1506_552,No Name
+sitename,YE1506_553,No Name
+sitename,YE1511_667,Al Jardah - Khalid Bin Al Waleed School
+sitename,YE1512_437,Al Mojama' Al Zera'ee
+sitename,YE1512_438,Mafraq Sa'dah - Spontaneous site
+sitename,YE1512_474,Emad Al Haj Building - Sad Al Saqee'
+sitename,YE1512_475,Al Rawn Warazan
+sitename,YE1512_532,No Name
+sitename,YE1512_533,Sa'dah (Ta'iz)
+sitename,YE1512_534,Omar Al Mokhtar School
+sitename,YE1512_535,Sooq Al Thulatha'a - Private Building
+sitename,YE1512_536,Badr Al Kubra
+sitename,YE1512_537,CC beside Al Mojama' Al Zera'e
+sitename,YE1512_538,Ahmed Haidarah School
+sitename,YE1512_539,Mafraq Sa'dah - Private Building
+sitename,YE1512_554,Al Shaheed Ahmed Haidarah School
+sitename,YE1514_540,Hayb Al Asabeh Clinic
+sitename,YE1514_541,Hafsa School
+sitename,YE1514_542,Shamsan Building
+sitename,YE1514_543,Al Wahdah School
+sitename,YE1514_544,Al Mehal School
+sitename,YE1514_545,Al Fajr Al Jadeed School
+sitename,YE1514_555,No Name
+sitename,YE1514_556,Al Bajeerah School
+sitename,YE1514_557,Al Shaheed Hasan Fare'e
+sitename,YE1514_558,Al Faqeed No'man School
+sitename,YE1514_668, Al Ta'awon school - Sha'b Al Merwaz
+sitename,YE1514_669,As safiah - Al Dhahrah Settlement
+sitename,YE1514_670,Al Nasr School
+sitename,YE1514_672,Abdulrazaq Al Haj Saif Building
+sitename,YE1516_476,Al Shaheed Mansoor Saif
+sitename,YE1517_439,Mohammed Abduljaleel Alshameeri Building
+sitename,YE1518_477,Hawl Saddam School
+sitename,YE1518_478,Al Yemenia Building
+sitename,YE1519_440,Saeed Building
+sitename,YE1519_441,Abdullah Hajeb Building
+sitename,YE1519_559,Rami Mountain
+sitename,YE1519_560,Al Qubah
+sitename,YE1519_561,Al Jaradi Building
+sitename,YE1520_442,Tareq bin Zeyad School
+sitename,YE1520_443,Al Manshoor
+sitename,YE1520_444,Al Fath School
+sitename,YE1520_497,Dar Al Erteqa
+sitename,YE1520_498,Al Mohamasheen Center
+sitename,YE1520_499,Al Qahfah Al Ulya
+sitename,YE1520_500,Al Muhamasheen - Natco
+sitename,YE1520_501,Al Wa'l Center
+sitename,YE1520_502,Hawl Al Dhahah
+sitename,YE1520_546,Building beside Al Haddad
+sitename,YE1520_547,Al Aroorath Building
+sitename,YE1520_562,Arwa Building
+sitename,YE1520_563,Dar Al Rahmah
+sitename,YE1520_564,Al Zubair School
+sitename,YE1520_565,CC behind Al Ta'awon park
+sitename,YE1520_566,Al Sofi Settlements
+sitename,YE1520_567,Shubat Al Shaqar
+sitename,YE1520_610,14 October School
+sitename,YE1520_611,Al Batra'a - behind Babel hotel
+sitename,YE1520_612,CC behind Al Resalah Hospital
+sitename,YE1520_613,Al Manshoor Al Sehi Center
+sitename,YE1521_671,Al Beerain - Al Mufareh Building
+sitename,YE1521_673,Beside Aaisha School
+sitename,YE1521_674,Sooq Al Ahad
+sitename,YE1521_675,Al Kadiah - Omar Bin Abdulazeez School
+sitename,YE1521_676,Nakb Al Ma'aleef
+sitename,YE1521_677,Dekharah - Wadi Al Barakani
+sitename,YE1521_678,Hawl Al Hemari
+sitename,YE1521_679,She'b Hammam
+sitename,YE1521_680,Mashraf Hadaf
+sitename,YE1521_681,Rafeqah
+sitename,YE1521_682,Al Jarafah
+sitename,YE1521_683,Al Humr - Abeerain Center
+sitename,YE1521_684,Al Beerain Center
+sitename,YE1522_601,Al Ershad Al Zeraie Institute
+sitename,YE1522_614,No Name
+sitename,YE1522_615,Om Al Ahyooj
+sitename,YE1522_616,No Name
+sitename,YE1601_768,Zareeb
+sitename,YE1601_769,Wadi Maqar
+sitename,YE1601_770,Al-Jeblah
+sitename,YE1601_771,Al-Ba'ssos
+sitename,YE1601_772,Al-Dahl
+sitename,YE1601_773,Al-Feradh
+sitename,YE1601_774,Al-Meshraq
+sitename,YE1601_775,Al-Mahjel
+sitename,YE1601_778,Al-Areen
+sitename,YE1602_777,Al-Salal
+sitename,YE1603_763,Al-Dhaen
+sitename,YE1603_764,Al-Baraha
+sitename,YE1603_765,Al-Awaned
+sitename,YE1603_766,Al-Mensaf
+sitename,YE1603_767,Bin Abdullah
+sitename,YE1603_776,Wadi Sareerah
+sitename,YE1604_752,Sooq Dea'am
+sitename,YE1604_753,Al-Badea'
+sitename,YE1604_754,Al-Mabna
+sitename,YE1604_755,Al-Hadhenah
+sitename,YE1604_756,Al-Abassyah
+sitename,YE1604_757,Al-Oqdah
+sitename,YE1604_758,Al-Marfadh Al-Aala
+sitename,YE1605_709,Al-Jarr
+sitename,YE1605_710,Al-Geshabah
+sitename,YE1605_712,Al-Arq
+sitename,YE1605_713,Al-Saleel
+sitename,YE1605_714,Al-Mohmsheen
+sitename,YE1606_724,Hessn Al Qarshan
+sitename,YE1606_725,Beer Jeryban
+sitename,YE1606_726,Mehzam Al-Harrashef
+sitename,YE1606_727,Al-Maqam
+sitename,YE1606_728,Al-Mohsen
+sitename,YE1606_729,Al-Adleen
+sitename,YE1606_730,Al-Batten
+sitename,YE1606_731,Al-Haijah
+sitename,YE1606_732,Al-Mahazeem
+sitename,YE1606_733,Al-Mahraq
+sitename,YE1606_734,Al-Mehzam Al-A'ala
+sitename,YE1606_735,Al-Mehzam
+sitename,YE1606_736,Al-Qasabah
+sitename,YE1606_737,Al-Qawasemah
+sitename,YE1606_738,Assaleel
+sitename,YE1606_739,Al-Sarhat Al-Olya
+sitename,YE1606_740,Bin Shehab
+sitename,YE1606_741,Farsha
+sitename,YE1606_742,Al-Shannah
+sitename,YE1607_747,Al-Mahraq
+sitename,YE1607_748,Al-Masajed
+sitename,YE1607_749,Roufah
+sitename,YE1607_750,Al-Zaghnah
+sitename,YE1607_751,Malaha
+sitename,YE1608_708,Al-Beda'ah
+sitename,YE1608_711,Salm
+sitename,YE1609_743,Al-Jeel & Al-Njah Schools
+sitename,YE1609_744,Al-Zlaq Al-Hijah
+sitename,YE1609_745,Al-Khalq
+sitename,YE1609_746,Al-Rawedh
+sitename,YE1610_715,Al-Darb Al-Aswad
+sitename,YE1610_716,Al-Qaa'
+sitename,YE1610_717,Ber Haban
+sitename,YE1610_718,Dhabeebah
+sitename,YE1610_719,Tayssan
+sitename,YE1610_720,Azzafaq
+sitename,YE1610_721,Zafq Al-Aaydh
+sitename,YE1610_722,Al-Jnah
+sitename,YE1611_703,Al-Khabwah
+sitename,YE1611_704,Mahwaj
+sitename,YE1611_705,Vocational Institute
+sitename,YE1611_706,Al-Anabi
+sitename,YE1611_707,Swass Bin Nassar
+sitename,YE1612_759,Al-Melhat
+sitename,YE1612_760,Magam Dhi Nwas
+sitename,YE1612_761,Al-Mranh
+sitename,YE1612_762,Al-Neel Al-Anan 
+sitename,YE1701_1036,Afr
+sitename,YE1701_1039,Al Dahrah
+sitename,YE1701_953,Al Jabyah
+sitename,YE1701_1183,Mafjar Aqawah
+sitename,YE1701_1139,Marfah
+sitename,YE1704_889,Al Aqabah
+sitename,YE1704_984,Al Arjeen
+sitename,YE1704_1015,Al Urjain
+sitename,YE1704_897,Al Badah Al Gharbi
+sitename,YE1704_1131,Mukhayam Al Muhammasheen Al Bedah Al Gharbi
+sitename,YE1704_1075,Labadah
+sitename,YE1704_998,Al Badah Al Sharqi
+sitename,YE1704_932,Al Kadamah Bani Hasan
+sitename,YE1704_1035,Al Dabayah
+sitename,YE1704_930,Al Dhahr Bani Hasan
+sitename,YE1704_785,Al Qayem
+sitename,YE1704_928,Al Dhahr
+sitename,YE1704_1063,Al Zanabelah
+sitename,YE1704_947,Al Dumah
+sitename,YE1704_948,Al Gharbyah
+sitename,YE1704_891,Habeel Al Wasat
+sitename,YE1704_800,Al Habeel
+sitename,YE1704_949,Al Hadabah Al Gharbyah
+sitename,YE1704_990,Al Hamoor
+sitename,YE1704_1006,Al Hareeq 1
+sitename,YE1704_952,Al Hareeq 2
+sitename,YE1704_911,Al Hayjah Bani Thawab
+sitename,YE1704_996,Baghtah
+sitename,YE1704_1007,Al Ghazi
+sitename,YE1704_913,Al Hajawerah
+sitename,YE1704_1005,Al Naseem
+sitename,YE1704_939,Al Jarab
+sitename,YE1704_924,Al Kharadeesh
+sitename,YE1704_926,Al Mahraqah
+sitename,YE1704_871,Bani Al Mashta'
+sitename,YE1704_1068,Al Khudaish
+sitename,YE1704_1053,Al Manjorah
+sitename,YE1704_826,Al Khadamah Mukhayam Shada
+sitename,YE1704_1001,Al Kharayeb
+sitename,YE1704_954,Al Khaznah
+sitename,YE1704_993,Al Mahaterah
+sitename,YE1704_881,Al Makhzan
+sitename,YE1704_883,Al Mal'ab
+sitename,YE1704_890,Al Muqanze'
+sitename,YE1704_875,Al Marba'ah
+sitename,YE1704_941,Al Ma'sarah
+sitename,YE1704_929,Al Matar Neighborhood
+sitename,YE1704_868,Al Matayen
+sitename,YE1704_833,Al Medhbar 1
+sitename,YE1704_791,Al Medhbar 2
+sitename,YE1704_981,Mukhayam Al Ukashyah
+sitename,YE1704_1108,Al Mehsam Bani helal
+sitename,YE1704_1030,Al Musalla Neighborhood
+sitename,YE1704_1112,Al Mernaf
+sitename,YE1704_856,Al Marawe'
+sitename,YE1704_812,Al Mesbar
+sitename,YE1704_1009,Al Naseem 1
+sitename,YE1704_907,Al Naseem 2
+sitename,YE1704_847,Al Qaflah Neighborhood
+sitename,YE1704_1179,Al Za'ylah
+sitename,YE1704_923,Al Wasat
+sitename,YE1704_965,Al Rawdhah
+sitename,YE1704_1169,Al Methaq Shafar
+sitename,YE1704_798,Al Rawn Al Sharqyah
+sitename,YE1704_809,Al Sabeel
+sitename,YE1704_936,She'b Juthaym
+sitename,YE1704_824,Al Saqf
+sitename,YE1704_968,Bani Hasan
+sitename,YE1704_988,Al Sooq Al Qadeem
+sitename,YE1704_1136,Al Mukhayam Neighborhood
+sitename,YE1704_802,Deer Abkar
+sitename,YE1704_1067,Al Zerbah Bani Hasan
+sitename,YE1704_903,No name
+sitename,YE1704_1166,Al Zyad Neighborhood
+sitename,YE1704_957,Al Muroor Neighborhood
+sitename,YE1704_1138,Oqm Al Shami
+sitename,YE1704_799,Bani Al Aqwaa'
+sitename,YE1704_1073,Bani Qezabah
+sitename,YE1704_1101,Bani Hadi Al Jalaheef
+sitename,YE1704_1102,Bani Mahdi
+sitename,YE1704_1094,Bani Makki 1
+sitename,YE1704_1156,Bani Makki 2
+sitename,YE1704_885,Al Maqzalyah
+sitename,YE1704_1089,Barman
+sitename,YE1704_980,Kadaf Al Arf Matwalah
+sitename,YE1704_811,Durainah Al Sufla
+sitename,YE1704_937,Durainah Al Aleet
+sitename,YE1704_1087,Habeel Al Jalaheef
+sitename,YE1704_1151,No name
+sitename,YE1704_1121,Ma'jar
+sitename,YE1704_831,Al Aqsh
+sitename,YE1704_892,Sheb Al Dawsh
+sitename,YE1704_884,She'b Yaqoot
+sitename,YE1704_921,Walh
+sitename,YE1705_1049,Al Awja
+sitename,YE1705_1060,Al Deer
+sitename,YE1705_1011,Al Farantah
+sitename,YE1705_1013,Al Fateh
+sitename,YE1705_1188,Al Huqoof
+sitename,YE1705_825,Al Muqata'ah
+sitename,YE1705_1041,Al Masharefah
+sitename,YE1705_841,Al Sadah
+sitename,YE1705_1107,Aqawah
+sitename,YE1705_813,Bani Al khamj
+sitename,YE1705_1019,Bani Al Mesh
+sitename,YE1705_1064,Bani Al Mesh Al Deer
+sitename,YE1705_904,Bani Hussein
+sitename,YE1706_975,Jabal Abeed
+sitename,YE1706_958,No name
+sitename,YE1706_1045,Al Bayda
+sitename,YE1706_950,Al Hamra'a
+sitename,YE1706_782,Al Makhafi Center
+sitename,YE1706_837,Khadhlan
+sitename,YE1706_1118,Ram
+sitename,YE1706_851,Al Marqez Al far'ei Belgharbi
+sitename,YE1706_805,Al Marhab
+sitename,YE1706_1142,Maqtal Al Shaykhain
+sitename,YE1706_846,She'bat Al Qawr
+sitename,YE1706_882,Al M'eqab
+sitename,YE1706_931,Al Jarashah
+sitename,YE1706_1027,Arab Lahlah
+sitename,YE1707_834,Al Bayahinah
+sitename,YE1707_1088,Majdarah
+sitename,YE1707_972,Mata
+sitename,YE1707_976,Sodeen
+sitename,YE1711_999,Atyah Al Mahal
+sitename,YE1711_908,Al Bahrain Al Sooq
+sitename,YE1711_1114,Al Maghsal Al Hafr
+sitename,YE1711_854,Al Ma'ani Al Mashaf
+sitename,YE1711_989,Al Awashi Al Qyanah
+sitename,YE1711_840,Al Qanyah
+sitename,YE1711_1003,Bani Hayjeen
+sitename,YE1711_934,Al Sheqarah Ghareb Al Utainah
+sitename,YE1711_997,Badr Al Hemah
+sitename,YE1711_1146,Al Masamelah
+sitename,YE1711_1022,Shebat Al Hudood Bani Zain
+sitename,YE1711_898,Sooq Al Mahraq
+sitename,YE1712_1103,Mutanatherah Camp 1
+sitename,YE1712_1184,Mutanatherah Camp 2
+sitename,YE1712_1023,Mukhayam Al Erajah Camp
+sitename,YE1712_995,Al Dolwahi Camp
+sitename,YE1712_1097,Al Haid Camp
+sitename,YE1712_1100,Al Meklah Camp
+sitename,YE1712_925,Al Qahfah Camp
+sitename,YE1712_816,Al Wased Center
+sitename,YE1712_1145,Dar Ghabshah Camp
+sitename,YE1712_845,Al Qareeti Camp
+sitename,YE1712_861,Al Raqabah Camp
+sitename,YE1712_807,Al Sawadi Camp
+sitename,YE1712_865,Bani Mater
+sitename,YE1712_1093,Bani Hamed Camp
+sitename,YE1712_835,Jabal Al Ma'yanah Camp
+sitename,YE1712_784,Al Mesbar Camp
+sitename,YE1712_867,Al Mashwah Camp
+sitename,YE1712_832,Al Matharah Camp
+sitename,YE1712_1186,Al Abadelah Camp
+sitename,YE1712_803,Al Qadhah Camp
+sitename,YE1712_915,Shawqabah Camp
+sitename,YE1712_893,Al Mashar Camp
+sitename,YE1712_1160,Shawqabah Camp
+sitename,YE1712_1037,Zari Al Hasi Camp
+sitename,YE1714_967,Bani Yoos
+sitename,YE1714_920,Wadi Al Yamani
+sitename,YE1714_862,Ghafel 
+sitename,YE1714_1042,Al Arba'
+sitename,YE1714_801,Al Shurookh
+sitename,YE1714_836,Al Maqta'
+sitename,YE1714_966,Al Armomah
+sitename,YE1714_1033,Al Hamra'a
+sitename,YE1714_808,Bani Kamel
+sitename,YE1714_864,Al Beeh
+sitename,YE1714_944,Wadi Al Jamal
+sitename,YE1715_1014,Bani Asad
+sitename,YE1715_1024,Bait Al Awbali 1
+sitename,YE1715_853,Bait Al Awbali 2
+sitename,YE1715_872,Bait Al Awbali 3
+sitename,YE1715_887,Qaryat Al Gad
+sitename,YE1715_789,No name
+sitename,YE1715_905,Al Dhehrah Camp
+sitename,YE1715_1074,Qaryat Al Gad
+sitename,YE1715_1099,Ma'meesh Camp
+sitename,YE1715_951,Al Mehraq
+sitename,YE1715_906,Al Dayeri
+sitename,YE1715_1048,Qaryat Al Gad
+sitename,YE1715_927,Al Majan
+sitename,YE1715_848,Al Arabyah
+sitename,YE1715_1086,Qayhamah
+sitename,YE1716_1079,Jalat Al Halawi
+sitename,YE1716_1104,Al She'ab
+sitename,YE1716_962,Al Nawtah
+sitename,YE1721_1040,Al Dhuroob
+sitename,YE1721_922,Al Mahjar
+sitename,YE1721_806,Al Qazamyah
+sitename,YE1722_994,Al Gharbi
+sitename,YE1722_896,Tajamo' Al Jum'ah
+sitename,YE1722_959,Bani Nashr Al Rabwo'
+sitename,YE1722_839,Al Madaber
+sitename,YE1722_1182,Khawlaf School
+sitename,YE1722_1056,Sawakh
+sitename,YE1722_1122,Al Sakabah
+sitename,YE1722_963,Al Sawad Bani Nashr
+sitename,YE1722_873,Aslam Nasher
+sitename,YE1724_820,Al Tawr
+sitename,YE1724_1137,Kushar
+sitename,YE1724_955,Al Lawhah
+sitename,YE1724_874,Al Rafee'
+sitename,YE1724_793,Al Rayghah Rab' Al Bawni
+sitename,YE1724_790,Al Shajan
+sitename,YE1724_1155,Al Su'ood Bani Amer
+sitename,YE1724_919,Bait Mohammed Amer
+sitename,YE1724_1010,Bait Al Qatafi
+sitename,YE1724_1181,Bait Musleh
+sitename,YE1724_1054,Hawatem Jarwah
+sitename,YE1724_1128,She'b Al Faqeeh Rab Suood
+sitename,YE1724_982,Al Badalat Bani Mas'ood
+sitename,YE1724_1034,Al Dane'ei Rab' Suood
+sitename,YE1725_942,Bani Sera'
+sitename,YE1725_987,Al Meswah
+sitename,YE1725_985,Qal'at Hameed
+sitename,YE1725_821,Al Maghawerah
+sitename,YE1725_916,Bait Dahem
+sitename,YE1725_938,Al Mazawetah
+sitename,YE1725_870,Al Sawalemah
+sitename,YE1725_1125,Al Jabal
+sitename,YE1725_1062,Al Hukamyah
+sitename,YE1725_1026,Al Amshah
+sitename,YE1728_828,Al Qal'ah
+sitename,YE1728_1105,Al Dhaherain
+sitename,YE1728_1061,Al Mustashfa Al Saudi Neighborhood
+sitename,YE1728_1076,Malaf Ghadheb
+sitename,YE1728_830,Al Salam Neighborhood
+sitename,YE1728_1057,Al Gharabi
+sitename,YE1728_1129,Al Shuhada'a Neighborhood
+sitename,YE1728_974,Al Kharshab
+sitename,YE1729_1095,Al Dhel'ah
+sitename,YE1729_818,Al Adhrah
+sitename,YE1730_1163,Al Oqas
+sitename,YE1730_1000,Al Dowalyah
+sitename,YE1730_1071,Al Hajawenah
+sitename,YE1730_1070,Al Khamis
+sitename,YE1730_1065,Al Lawyah 1
+sitename,YE1730_1069,Al Lawyah 2
+sitename,YE1730_1066,Al Lawyah 3
+sitename,YE1730_901,Bait Al Qateeb
+sitename,YE1730_1018,Al Lawyah 1
+sitename,YE1730_823,Al Lawyah 2
+sitename,YE1730_1110,Al Maqademah
+sitename,YE1730_1175,Al Mesyal
+sitename,YE1730_983,Mesyal Al Oqbi
+sitename,YE1730_943,Gharbi Dubaish
+sitename,YE1730_1150,Wadi Al Sel
+sitename,YE1730_850,Al Hudhn
+sitename,YE1730_1133,Al Qal'ah
+sitename,YE1730_1168,Al Zari
+sitename,YE1730_912,Al Mesyal 1
+sitename,YE1730_1176,Al Mesyal 2
+sitename,YE1730_1152,Al Mesyal 3
+sitename,YE1730_1147,Al Mesyal 3
+sitename,YE1730_780,Gharbi Dubaish
+sitename,YE1730_1017,Qaymat Al Duraini
+sitename,YE1730_869,Al Sa'adi
+sitename,YE1730_1130,Al Safeh
+sitename,YE1730_1032,Musaferah
+sitename,YE1730_792,Al Safeh 1
+sitename,YE1730_1106,Al Safeh 2
+sitename,YE1730_1051,Al Salqah
+sitename,YE1730_1059,Al Sawdah 1
+sitename,YE1730_1109,Al Sawdah 2
+sitename,YE1730_956,Al Sha'ase'
+sitename,YE1730_940,Al Shamadhyah 1
+sitename,YE1730_992,Al Shamadhyah 2
+sitename,YE1730_1134,Masbateh
+sitename,YE1730_795,Al Taweer
+sitename,YE1730_1008,Al Wasetah 1
+sitename,YE1730_843,Al Wasetah 2
+sitename,YE1730_1081,Al Zaqabyah 1
+sitename,YE1730_933,Al Zaqabyah 2
+sitename,YE1730_902,Bait Al Roosi
+sitename,YE1730_886,Qal'at Hayash
+sitename,YE1730_786,Gharib Haytham 1
+sitename,YE1730_855,Gharib Haytham 2
+sitename,YE1730_859,Dhu Bahmah
+sitename,YE1730_1091,Bait Al Roosi
+sitename,YE1730_1047,Sabt Al-Qudhah 1
+sitename,YE1730_1092,Sabt Al-Qudhah 2
+sitename,YE1730_787,Dhu Bahjah
+sitename,YE1730_817,Sabt Al-Qudhah
+sitename,YE1802_827,Al Abbasyah
+sitename,YE1802_819,Al Adelyah
+sitename,YE1802_973,Al Awlah
+sitename,YE1802_829,Al Battaryah
+sitename,YE1802_814,Al Demn
+sitename,YE1802_971,Al Hakem Al Asfal
+sitename,YE1802_879,Al Hamasyah
+sitename,YE1802_1025,Al Khabryah
+sitename,YE1802_815,Al Jubairyah
+sitename,YE1802_1052,Al Luhayyah
+sitename,YE1802_1189,Al Maghafeer
+sitename,YE1802_1078,Jabal Al Melh
+sitename,YE1802_1080,Al Malhah 1
+sitename,YE1802_1083,Al Malhah 2
+sitename,YE1802_935,Al Mazraq
+sitename,YE1802_961,Al Nasheryah
+sitename,YE1802_1174,Al Qadhb
+sitename,YE1802_899,Al Qusmainyah
+sitename,YE1802_1085,Al Rabow'
+sitename,YE1802_1020,Al Rassas
+sitename,YE1802_1135,Al Zahir
+sitename,YE1802_788,Al Zayla'yah
+sitename,YE1802_1043,Bait Hajri
+sitename,YE1802_857,Bani Al Khal
+sitename,YE1802_783,Al Qahirah
+sitename,YE1802_1144,Cadf Al Akhmas
+sitename,YE1802_1016,Cadmat Al Nasheri
+sitename,YE1802_960,Al Watawetah
+sitename,YE1802_1154,Deer Abd  
+sitename,YE1802_796,Deer Al Akhrash
+sitename,YE1802_1113,Deer Al Haddad
+sitename,YE1802_894,Deer Al Hadi
+sitename,YE1802_991,Deer Dukhnah
+sitename,YE1802_852,Deer Rajeh
+sitename,YE1802_860,Durain
+sitename,YE1802_1120,Mahal Hendi
+sitename,YE1802_1119,Mahal Madhya'
+sitename,YE1802_1177,Al Maqhaz
+sitename,YE1802_1185,Matoor Aitan
+sitename,YE1802_970,Najran
+sitename,YE1802_1096,Al Ghubaryah Al Janoobyah
+sitename,YE1805_1115,Al Husainyah
+sitename,YE1805_797,Al Qushairi
+sitename,YE1805_977,Tajamo' Ibn Abbas
+sitename,YE1805_1090,Al Muneerah
+sitename,YE1805_842,Mahal Edrees
+sitename,YE1805_1123,Mahal Zaweyah
+sitename,YE1805_822,Al Ma'roof Al Gharbi
+sitename,YE1806_964,Al Dawudyah
+sitename,YE1806_858,Mujama' Al Makeen
+sitename,YE1806_863,Deer Al Tabeesh
+sitename,YE1806_781,Deer Al Hulaili
+sitename,YE1806_878,Deer Al Hendi
+sitename,YE1806_876,Deer Awedan
+sitename,YE1806_1077,Hawsh Zabet
+sitename,YE1806_1028,Al Najjari
+sitename,YE1807_779,Abu Sha'fah
+sitename,YE1807_1127,Madrasat Al Azm Al Gharbi
+sitename,YE1807_880,Edarat Al Baoniah building
+sitename,YE1807_1165,Al Mahdali Al Sharqyah camp
+sitename,YE1807_1124,Bayt Ata village
+sitename,YE1807_946,Deer Abd Rabuh
+sitename,YE1807_888,Qaryat Deer Ali - Manzel Mohammed Belghaith
+sitename,YE1807_877,Deer Jalalah
+sitename,YE1807_1157,Al Mal'ab Neighborhood
+sitename,YE1807_1153,Al Mughtarebeen Al Janoobyah Neighborhood
+sitename,YE1807_1187,Mahal Al Khaleel camp
+sitename,YE1807_1117,Mahal Al Rahmah
+sitename,YE1807_844,Mahal Hasan
+sitename,YE1807_810,Mazra'at Aidroos
+sitename,YE1906_503,Al Hadhban
+sitename,YE1906_516,Al Zehrah
+sitename,YE1906_617,Al Hajjah
+sitename,YE1906_618,Al Hazm
+sitename,YE1906_619,Al Sa'dah
+sitename,YE1906_620,Al Wayelah
+sitename,YE1906_621,Al Muhyee
+sitename,YE1906_622,Al Hasan Bin Saleh
+sitename,YE1906_623,Al Mohsen Bin Jaber
+sitename,YE1911_504,Al Muhseneen 2 Building
+sitename,YE1911_624,Al Husain 1 Building
+sitename,YE1913_517,He-Hsneeat
+sitename,YE1913_518,Gusayar
+sitename,YE1924_505,Nawbah
+sitename,YE1924_506,Yaja
+sitename,YE1925_625,Al Albuhaishi
+sitename,YE1927_507,October Neighborhood 
+sitename,YE1927_508,Al Esharah
+sitename,YE1927_509,Shaleehat Al Attas
+sitename,YE2002_0019,Al Wehdah Camp
+sitename,YE2003_0237,Al Sa'dat School
+sitename,YE2003_0219,Madinat Al Sharq
+sitename,YE2005_0247,Kraifah Bab Al Souq
+sitename,YE2105_510,No Name
+sitename,YE2105_519,No Name
+sitename,YE2105_520,No Name
+sitename,YE2105_521,No Name
+sitename,YE2105_522,No Name
+sitename,YE2105_523,No Name
+sitename,YE2105_524,No Name
+sitename,YE2105_525,No Name
+sitename,YE2105_526,No Name
+sitename,YE2105_602,No Name
+sitename,YE2105_603,No Name
+sitename,YE2105_604,No Name
+sitename,YE2105_605,No Name
+sitename,YE2105_606,No Name
+sitename,YE2105_607,No Name
+sitename,YE2105_608,No Name
+sitename,YE2105_609,No Name
+sitename,YE2105_645,No Name
+sitename,YE2106_527,Abd Sedmeeh Hmmeh Edullahdaram School
+sitename,YE2107_646,No Name
+sitename,YE2108_511,No Name
+sitename,YE2108_528,No Name
+sitename,YE2108_647,No Name
+sitename,YE2109_512,No Name
+sitename,YE2109_513,No Name
+sitename,YE2109_529,No Name
+sitename,YE2109_626,No Name
+sitename,YE2110_514,No Name
+sitename,YE2113_648,No Name
+sitename,YE2116_627,No Name
+sitename,YE2117_515,No Name
+sitename,YE2117_568,No Name
+sitename,YE2117_584,No Name
+sitename,YE2117_585,Government Building 
+sitename,YE2117_586,No Name
+sitename,YE2117_587,No Name
+sitename,YE2117_588,No Name
+sitename,YE2301_909,Al Azraqeen
+sitename,YE2301_1002,Sooq Dharawan
+sitename,YE2301_1158,Dharawan
+sitename,YE2301_794,Mukhayam Al Sawad
+sitename,YE2301_1031,Qa'a Al Raqah
+sitename,YE2301_910,Al Raqah
+sitename,YE2301_945,Al Mahjar Tawdhan
+sitename,YE2304_1126,Saref
+sitename,YE2304_1021,Sooq Al Thaloot
+sitename,YE2304_866,Al Mahjar
+sitename,YE2304_1140,Al Sa'ri - Al Mahjal
+sitename,YE2304_978,Bayt Al Henami
+sitename,YE2304_1149,Al Kasarat
+sitename,YE2304_1050,Sa'wan
+sitename,YE2307_1132,Tajamo' Matnah
+sitename,YE2307_1004,Matnah Tajamo' Thani
+sitename,YE2309_900,Sooq Al Sabt 1
+sitename,YE2309_895,Sooq Al Sabt 2
+sitename,YE2310_1058,Tajamo' Al Hejrah
+sitename,YE2401_649,Green city
+sitename,YE2402_628,Al Hashmi Area
+sitename,YE2405_589,Al-Bingisar
+sitename,YE2406_590,Al Dakka
+sitename,YE2408_629,Hai October
+sitename,YE2510_569,Qarf
+sitename,YE2510_591,Al Roboa' Al Khairyah School
+sitename,YE2510_636,Nakadh wa Al Hasarah Camp
+sitename,YE2511_570,IDPs Camp
+sitename,YE2511_571,Al Hajeriah
+sitename,YE2511_637,Tawr Al Baha Hospital
+sitename,YE2513_572,Tareq bin Zeyad Primary School
+sitename,YE2513_573,Tareq Bin Zeyad Secondry School
+sitename,YE2513_592,Al Meqdad Bin Amr
+sitename,YE2514_574,Center for Social Affairs and Labor
+sitename,YE2514_593,Rawdhat Al Atfal
+sitename,YE2515_575,Al Meshqafah Camp
+sitename,YE2515_650,Al Baitarah Camp
+sitename,YE2515_651,Al Meshqafah  
+sitename,YE2601_0309,Alfurza
+sitename,YE2601_0310,Halhalan School
+sitename,YE2601_0295,Khalif Al Basha School
+sitename,YE2601_0292,Othman Bin Afan School
+sitename,YE2601_0293,Mehsam al Raeeyah
+sitename,YE2601_0297,Aleunam
+sitename,YE2601_0311,Al Ja'dar Camp
+sitename,YE2601_0300,Neer Abo Salah School
+sitename,YE2601_0294,Before Mafraq Saleb
+sitename,YE2601_0299,Al Manjurah
+sitename,YE2601_0296,Al-jafrah Camp
+sitename,YE2601_0308,Alkhaniq
+sitename,YE2601_0298,Wehdeh Seheyeh
+sitename,YE2602_0252,Al Sharhan
+sitename,YE2602_0255,Al Alqahtani
+sitename,YE2602_0256,Al Marzouq
+sitename,YE2602_0253,Al Shamlool
+sitename,YE2602_0257,Al Arfaj
+sitename,YE2602_0269,Al Ghayamah
+sitename,YE2602_0251,Al Awamreh
+sitename,YE2602_0250,Al A Dhawie
+sitename,YE2602_0254,Al Qaryah Al Olya
+sitename,YE2603_0334,Al Wadi
+sitename,YE2603_0330,Al Hek
+sitename,YE2603_0327,Al Aljamaidar
+sitename,YE2603_0335,Al Waghrah
+sitename,YE2603_0333,Badou Al Nasheefah
+sitename,YE2603_0312,Al Ateeq
+sitename,YE2603_0326,Al Thawie
+sitename,YE2603_0332,Al Ta'azan
+sitename,YE2603_0316,Al Saleh Gathering
+sitename,YE2603_0328,Al Qora'an
+sitename,YE2603_0313,Al Shaiban
+sitename,YE2603_0318,Al Shaqra'a
+sitename,YE2603_0317,Al Safaryah
+sitename,YE2603_0315,Al Salamah
+sitename,YE2603_0325,Al Braik
+sitename,YE2603_0331,Al Sharhan
+sitename,YE2603_0329,Al Madareej
+sitename,YE2603_0314,Al Masamrah
+sitename,YE2604_0346,Al Hazm
+sitename,YE2604_0351,Al Lakmah
+sitename,YE2604_0352,Al Lewa'a
+sitename,YE2604_0349,Al A'abal
+sitename,YE2604_0348,Al Aqer Al Qariah
+sitename,YE2604_0350,Bani Haisan
+sitename,YE2604_0353,Harrah
+sitename,YE2604_0347,Shoja'a
+sitename,YE2605_0068,Azeeb Al Janabeen
+sitename,YE2606_0274,Al Nasser Ben Hussein
+sitename,YE2606_0069,Al Shaikh Mohammeed Balhat House
+sitename,YE2606_0285,Al Taiman
+sitename,YE2606_0303,Al Ahmad Mohsen
+sitename,YE2606_0336,Al Nasser Bin Saleh
+sitename,YE2606_0286,Al Adawleh
+sitename,YE2606_0270,Al Yehya Bin Salem
+sitename,YE2606_0284,Al Meth'her
+sitename,YE2606_0283,Assawalha
+sitename,YE2606_0288,Al Asoor
+sitename,YE2606_0154,Gathering Of Harjah Al Ashtal
+sitename,YE2606_0360,Al Ahmad Bin Saleh
+sitename,YE2606_0273,Al Adawleh
+sitename,YE2606_0287,Al Saleh Family
+sitename,YE2606_0291,Bani dabyan
+sitename,YE2606_0071,Badou Mashmakh
+sitename,YE2606_0272,Sawaleha Al Haqail
+sitename,YE2606_0289,Al Mohsen
+sitename,YE2606_0290,Al Tahewah Taiman
+sitename,YE2606_0362,Al Ameir
+sitename,YE2606_0152,Asret Al Wadi
+sitename,YE2606_0271,Ahl Shararah
+sitename,YE2606_0358,Al Ma'ejban
+sitename,YE2606_0258,Al Mard Gathering
+sitename,YE2606_0359,Al Zayed
+sitename,YE2606_0302,Dwaishah Aneshr
+sitename,YE2606_0156,Zajan Gathering
+sitename,YE2606_0361,Al Alban Hassan
+sitename,YE2606_0301,Al Abarah
+sitename,YE2606_0153,Al Aredha
+sitename,YE2606_0070,Aqed Jazamah Gathering
+sitename,YE2606_0155,Nabt Camp
+sitename,YE2606_0259,Al Dawood
+sitename,YE2606_0357,Al Adawleh (Al Melh)
+sitename,YE2607_0025,Jaw Khodair
+sitename,YE2607_0024,As Sawm
+sitename,YE2607_0026,Naja'a
+sitename,YE2607_0023,Al Ajamah
+sitename,YE2608_0268,Om Al Falah
+sitename,YE2608_0267,Baqthah
+sitename,YE2608_0266,Qotton
+sitename,YE2608_0275,Najd Al Mojama'a
+sitename,YE2610_0339,Al Jazeerah
+sitename,YE2610_0320,Qaramah
+sitename,YE2610_0324,Al Mawred
+sitename,YE2610_0340,Alsaylah
+sitename,YE2610_0342,Razan
+sitename,YE2610_0345,Al Radah
+sitename,YE2610_0341,Al Sad
+sitename,YE2610_0338,Al Areedha
+sitename,YE2610_0323,Al Farsh
+sitename,YE2610_0322,Al Maja'a
+sitename,YE2610_0321,Ma'shara'a
+sitename,YE2610_0337,Al Amoud'
+sitename,YE2610_0319,Mahjab
+sitename,YE2610_0343,Abu Daba'a
+sitename,YE2610_0344,Al Oshah
+sitename,YE2612_0306,Eshash Ma'zouleh
+sitename,YE2612_0305,Al Hussain
+sitename,YE2612_0182,Al Mahw Al Sharqi
+sitename,YE2612_0186,Al Mahwa Al Sharqi
+sitename,YE2612_0185,Alfaw Algharbiu
+sitename,YE2612_0183,Near Al Jafeenah
+sitename,YE2612_0184,Al-Jaboul
+sitename,YE2612_0355,Maneen Al-Hadad
+sitename,YE2612_0157,Al maydan
+sitename,YE2612_0141,Al arashi
+sitename,YE2612_0354,Al-Khaseef
+sitename,YE2612_0356,Neer Saba School
+sitename,YE2612_0151,Near Abo Baker Mosque
+sitename,YE2612_0034,Hadad Al Haibla
+sitename,YE2612_0033,Al'amn Alsiyasy
+sitename,YE2612_0029,Maneen Al-Ashraf
+sitename,YE2612_0030,Al Faw Al Sharqi
+sitename,YE2612_0031,Al Saylah Al Gharbi
+sitename,YE2612_0196,Community College Building
+sitename,YE2612_0032,Sharikat Alnaft
+sitename,YE2612_0304,Community College Building
+sitename,YE2613_0193,Al Hadba
+sitename,YE2613_0009,Hai Al Bahi
+sitename,YE2613_0177,Al Mansouza
+sitename,YE2613_0087,Al Mekrab
+sitename,YE2613_0081,Flaifel
+sitename,YE2613_0264,Maarda'a Al Ghwaibi
+sitename,YE2613_0263,Al Hani Al A'ala
+sitename,YE2613_0010,Hai Al Kher
+sitename,YE2613_0192,Ma'ref Al Wadi
+sitename,YE2613_0002,Al Majouh
+sitename,YE2613_0027,Al-Mabad
+sitename,YE2613_0082,Al Ramsah
+sitename,YE2613_0015,Salwah
+sitename,YE2613_0282,Assaqeefah
+sitename,YE2613_0003,Hayi Albtaha'a
+sitename,YE2613_0175,Al Mahata
+sitename,YE2613_0179,Al Lamd
+sitename,YE2613_0083,Al Wahshan
+sitename,YE2613_0014,Al Hazmah
+sitename,YE2613_0037,Al-Maseil Al-Asfal
+sitename,YE2613_0084,Al Maseel Kara
+sitename,YE2613_0260,Badoun
+sitename,YE2613_0174,Al Harj Al Asfal
+sitename,YE2613_0178,Al Marda'a
+sitename,YE2613_0020,Jaw Al Naseem Al A'la
+sitename,YE2613_0262,Al Hashaishan
+sitename,YE2613_0086,Al Nuqaia'a
+sitename,YE2613_0194,Hadba'a Al Oshan
+sitename,YE2613_0085,Alramiluh
+sitename,YE2613_0021,Hai Al Haj
+sitename,YE2613_0189,Al Bajash
+sitename,YE2613_0199,Al Hadi
+sitename,YE2613_0261,Al Akrameh
+sitename,YE2613_0176,Al Ghajela
+sitename,YE2613_0036,Al-Raczah
+sitename,YE2613_0022,Al Saqet
+sitename,YE2613_0190,Jaw Al Naseem Al Asfal
+sitename,YE2613_0191,Qash'a Al Bard
+sitename,YE2613_0277,Arafan
+sitename,YE2613_0001,Al-Erq
+sitename,YE2613_0265,Al Feddi
+sitename,YE2613_0279,Al Hawi Al Janoubi
+sitename,YE2613_0307,Al Ruwaik
+sitename,YE2613_0276,Al Kawlah
+sitename,YE2613_0004,Al-Ghawyah
+sitename,YE2613_0281,Raydan Al Qaseeb
+sitename,YE2613_0280,Al Thanyah
+sitename,YE2613_0278,Al Hawi Al Shamali
+sitename,YE2613_0038,Alhami
+sitename,YE2702_1178,No name
+sitename,YE2704_849,Mashro' Al Miyah
+sitename,YE2704_1164,No name
+sitename,YE2704_917,No name
+sitename,YE2704_914,No name
+sitename,YE2704_1072,No name
+sitename,YE2704_1084,No name
+sitename,YE2704_1170,No name
+sitename,YE2704_1171,No name
+sitename,YE2704_979,No name
+sitename,YE2704_1012,No name
+sitename,YE2704_1029,No name
+sitename,YE2704_1046,No name
+sitename,YE2704_1055,No name
+sitename,YE2704_1082,No name
+sitename,YE2704_1116,No name
+sitename,YE2704_1143,No name
+sitename,YE2704_1173,No name
+sitename,YE2704_804,No name
+sitename,YE2704_838,No name
+sitename,YE2704_969,No name
+sitename,YE2704_1148,No name
+sitename,YE2704_1159,No name
+sitename,YE2704_1180,No name
+sitename,YE2704_1044,No name
+sitename,YE2704_1172,No name
+sitename,YE2704_1141,No name
+sitename,YE2704_1111,No name
+sitename,YE2704_918,No name
+sitename,YE2704_1038,No name
+sitename,YE2708_986,No name
+sitename,YE2708_1161,No name
+sitename,YE2709_1162,No name
+sitename,YE2801_638,Shehen Al Olya
+sitename,YE2801_639,Shehen (Al Madaniah)
+sitename,YE2802_640,Hat
+sitename,YE2803_576,Al Mazagheef
+sitename,YE2803_577,Hawf
+sitename,YE2804_578,Hafat Al Harawez
+sitename,YE2804_579,Hafat Bait Yashool
+sitename,YE2804_580,Bait Awbathan
+sitename,YE2804_581,Bait Belhaf
+sitename,YE2804_582,Mohaifeef
+sitename,YE2804_594,Qatar
+sitename,YE2804_595,Al Ebri
+sitename,YE2804_641,Hafat Kalshat
+sitename,YE2804_642,Hafat Al Noor
+sitename,YE2804_643,Eskan Al Tarbyah
+sitename,YE2804_644,Al Nehari
+sitename,YE2804_652,Al Zera'ah Street
+sitename,YE2804_653,Al Za'faran
+sitename,YE2804_654,Hafat Kedah
+sitename,YE2804_655,Eskan Al Jaysh
+sitename,YE2804_656,50 Shoqah
+sitename,YE2804_657,Al Soq Street
+sitename,YE2804_658,Al Kullyah Street
+sitename,YE2804_659,Al Bonok Street
+sitename,YE2807_596,Hai Al Shudada'a
+sitename,YE2808_660,9 June Neighborhood
+sitename,YE2808_661,2 March Neighborhood
+sitename,YE2808_662,Al Une Street
+sitename,YE2809_663,Hasween
+sitename,YE2901_0235,Almanaseer Dahma IDPs Center
+sitename,YE2901_0231,Al Hadlan IDPs Center
+sitename,YE2901_0232,Darb Zaid IDPs Center
+sitename,YE2901_0228,Tho Sheli IDPs Center
+sitename,YE2901_0236,Ateba'a IDPs Center
+sitename,YE2901_0230,Ayan Al A'Ali IDPs Center
+sitename,YE2901_0233,Baja'a IDPs Center
+sitename,YE2901_0145,IDPs Center in Qadabah
+sitename,YE2901_0148,Al Baqa'ah
+sitename,YE2901_0055,Al-Jobjob
+sitename,YE2901_0227,Khabash IDPs Center
+sitename,YE2901_0234,Reek IDPs Center
+sitename,YE2901_0212,Abu Sulaiman IDPs Center
+sitename,YE2901_0218,Al Ahadan
+sitename,YE2901_0096,Aljadhma'a
+sitename,YE2901_0095,Alhutamuh
+sitename,YE2901_0220,Al Hayaq
+sitename,YE2901_0162,Alsiriyn
+sitename,YE2901_0221,Al Aadi
+sitename,YE2901_0223,Al Ma'mal
+sitename,YE2901_0163,Alnaqe
+sitename,YE2901_0161,Jeerah
+sitename,YE2901_0147,IDPs Center in Halahla
+sitename,YE2901_0164,Su'ad
+sitename,YE2901_0181,Hamdah Beach
+sitename,YE2901_0200,Al Baran Al Asefal
+sitename,YE2901_0143,Al Meshwaf
+sitename,YE2901_0243,Al Molazem
+sitename,YE2901_0222,Al Ghadeer
+sitename,YE2901_0044,Al Muhamasheen Center
+sitename,YE2901_0150,Al Khamshosh
+sitename,YE2901_0160,Anqan
+sitename,YE2901_0142,Al Mjdarah
+sitename,YE2901_0210,Alsora IDPs Center
+sitename,YE2901_0144,IDPs Center in Al Iraq
+sitename,YE2901_0211,Ateba'a
+sitename,YE2901_0146,IDPs Center in Al Masba'a
+sitename,YE2901_0213,IDPs Center in Al Batnah
+sitename,YE2901_0229,IDPs Center in Al Majza'a
+sitename,YE2901_0127,Al Ghowl
+sitename,YE2901_0203,Thal Haidan
+sitename,YE2901_0201,Jareez Al Asefal
+sitename,YE2901_0180,Jareez Al A'ala
+sitename,YE2901_0240,Habasheh
+sitename,YE2901_0202,Hajeb
+sitename,YE2901_0165,Sakna'a
+sitename,YE2901_0098,Diha'a
+sitename,YE2901_0138,Al Hadbeh
+sitename,YE2901_0217,Al Hajr
+sitename,YE2901_0140,Al Jalah
+sitename,YE2901_0224,Al-Shuwa'et
+sitename,YE2901_0139,Motak
+sitename,YE2901_0094,Al Turk
+sitename,YE2901_0097,Alhulul
+sitename,YE2901_0125,Al Shate'a
+sitename,YE2901_0215,Thail Qabal
+sitename,YE2901_0128,Badou Al Jaze'a
+sitename,YE2901_0126,Maqam Dho Tale'a
+sitename,YE2901_0137,Ghool Al Fars
+sitename,YE2901_0214,Na'amah
+sitename,YE2901_0241,Al Rabqan
+sitename,YE2901_0093,Qabl
+sitename,YE2901_0242,Al Hadba Al Bayda'a
+sitename,YE2901_0244,Al Shaq
+sitename,YE2901_0124,Al Hayrah
+sitename,YE2902_0106,Al-Mandhar
+sitename,YE2902_0107,Al-Qeran
+sitename,YE2902_0016,Al Hoson
+sitename,YE2902_0133,Al-Juraf
+sitename,YE2902_0058,Khamery Nazeheen
+sitename,YE2902_0132,Al-Thawrein
+sitename,YE2902_0017,Al Hajla'a IDPs
+sitename,YE2902_0056,Aneb Nazeheen
+sitename,YE2902_0018,Al Qamra
+sitename,YE2902_0057,Al Matar Airport
+sitename,YE2902_0059,Dashm Nazeheen
+sitename,YE2902_0060,Husson Nazeheen
+sitename,YE2902_0079,Al Bayda'a Camp
+sitename,YE2902_0080,Hawth Camp
+sitename,YE2903_0120,Hadabuh Mutie
+sitename,YE2903_0170,Ghareeb Al Najd
+sitename,YE2903_0166,Al Fardat
+sitename,YE2903_0168,Al Haija
+sitename,YE2903_0167,Al Akem
+sitename,YE2903_0123,Al-Oshah Badw Ruhal
+sitename,YE2903_0119,Habta'a
+sitename,YE2903_0129,Qarhad
+sitename,YE2903_0169,Badou Awama'a
+sitename,YE2903_0122,Al-Oshah
+sitename,YE2903_0121,Beelqan
+sitename,YE2904_0198,Al Majza'a Camp
+sitename,YE2904_0048,Al Skaibat Market Camp
+sitename,YE2904_0249,Bayt Al Sharhi
+sitename,YE2904_0039,Ber Atheleh
+sitename,YE2904_0149,Sharha Camp
+sitename,YE2904_0041,Al Shaqb
+sitename,YE2904_0046,Al Mekhdara Camp
+sitename,YE2904_0040,Al Bastah
+sitename,YE2904_0042,Al-Mashehad
+sitename,YE2904_0136,Beair Labn
+sitename,YE2906_0130,Mefkhath Camp
+sitename,YE2907_0172,Al Hammah
+sitename,YE2907_0065,Al Sawer
+sitename,YE2907_0187,Ghaitha Center
+sitename,YE2907_0063,Al Methmar Gathering
+sitename,YE2907_0171,Sawmal Al Awsat
+sitename,YE2907_0100,Wadi Al Adaba
+sitename,YE2907_0064,Al Samsarah Al Alya'a
+sitename,YE2907_0099,Tho Qazan
+sitename,YE2907_0188,Al Mafaqee'a
+sitename,YE2907_0066,Eastren Hadbah
+sitename,YE2907_0062,Homaidha
+sitename,YE2907_0364,Qazan
+sitename,YE2907_0365,Abu Seraj
+sitename,YE2907_0067,Hadbah Al Raghwani
+sitename,YE2907_0366,Al Aqar Center
+sitename,YE2907_0061,Al Mashareeq
+sitename,YE2907_0208,Waqeez
+sitename,YE2907_0209,Al Sawdah-flaih
+sitename,YE2907_0207,Souq Sheeb
+sitename,YE2907_0028,Al Zala'a
+sitename,YE2907_0205,Wasel
+sitename,YE2907_0204,Al Haijah
+sitename,YE2907_0206,Al Maarakha
+sitename,YE2907_0105,Al Mezreb
+sitename,YE2907_0104,Bakan
+sitename,YE2907_0108,Al Ghadeer
+sitename,YE2907_0101,Sha'b Al Shami
+sitename,YE2907_0103,Qaflat Kabas
+sitename,YE2907_0109,Manjarat Al Shameyah Wal Yamaneyah
+sitename,YE2907_0102,Ghathyah
+sitename,YE2908_0363,Al Sayah
+sitename,YE2908_0078,Al Merkham
+sitename,YE2908_0054,Al Masna'a
+sitename,YE2908_0134,Al Ramadah
+sitename,YE2908_0076,Al Meswah
+sitename,YE2908_0074,Al Musallah
+sitename,YE2908_0075,Al Gharb
+sitename,YE2908_0077,Al Hejrah
+sitename,YE2908_0073,Bet Al Kharem
+sitename,YE2908_0053,Jabal Ghawas
+sitename,YE2908_0072,Al Dhihar
+sitename,YE2908_0246,Bani Al Thabi
+sitename,YE2908_0052,Al Madayer
+sitename,YE2908_0239,Al Ma'ali
+sitename,YE2908_0245,Al Masarha
+sitename,YE2908_0035,Habour
+sitename,YE2908_0248,Al Najd
+sitename,YE2908_0226,Al Mahattah
+sitename,YE2908_0159,Al Khaleq
+sitename,YE2908_0158,Haithah
+sitename,YE2910_0117,New Market
+sitename,YE2911_0135,Harih Almutrah
+sitename,YE2911_0047,Al Ma'aredh Saif Camp
+sitename,YE2911_0043,Al Jahein Camp
+sitename,YE2915_0012,Al Smood Lane
+sitename,YE2915_0013,Al Lail Market
+sitename,YE2915_0011,Al Tahseen Camp
+sitename,YE2915_0131,Eastern Hadba / Lane of The Education Office
+sitename,YE2915_0173,Aldarpaeen
+sitename,YE2917_0049,Old Thala'a Hote-bab Al Fardha
+sitename,YE2918_0092,Al Hayt Al Esheh
+sitename,YE2918_0006,Sahb
+sitename,YE2918_0113,Adan Tabet Al Sawdah
+sitename,YE2918_0197,Sahb Market Lane
+sitename,YE2918_0195,Bani Abd / Al Wehdeh Al Seheyeh Lane
+sitename,YE2918_0112,Qahal Al Jama'a / Hay Al Jameah
+sitename,YE2919_0110,Obaida Bin Al Jarrah Kheran School
+sitename,YE2919_0091,Khamir University
+sitename,YE2919_0051,Ibn Al Mobarak Bet Al Wada'e School
+sitename,YE2919_0111,Al Wehdah Al Seheyah Bayt dawood
+sitename,YE2919_0116,Bayt dawood School
+sitename,YE2919_0114,The Agricultural Compound Building Khamer
+sitename,YE2919_0115,Al Fath School in Asafah
+sitename,YE2919_0118,Al Wakfah Bilal Ben Rabah School
+sitename,YE2919_0050,Health Unity Bet Al Anez
+sitename,YE2919_0089,Bet Al Mashreqi Camp School
+sitename,YE2919_0225,Gathering Of Jarn Bet Al Qobai'e
+sitename,YE2919_0088,Dahadh Camp
+sitename,YE2920_0045,Bet Al Sham
+sitename,YE3001_583,Al Sooq Al Qadeem
+sitename,YE3001_630,Sharq Al Madeenah
+sitename,YE3002_631,Nashwan Primary School
+sitename,YE3003_664,Ali Samakah Building
+sitename,YE3003_665,Abbas Al Durweesh Building
+sitename,YE3005_666,Sooq Huswain
+sitename,YE3009_597,Raqb Saif
+sitename,YE3009_632,13 July School
+sitename,YE3009_633,Sultan Al Hudhaifi Building
+sitename,YE3201_598,Darohah
+sitename,YE3201_599,Zaheq
+sitename,YE3201_600,Satoorah
+sitename,YE3201_634,Daf'arho
+sitename,YE3202_635,Neet
+,,
+sitename,YE1111_415,Abo Humam
+sitename,YE1112_1451,Abu Alsa'ad
+sitename,YE1114_1194,Abu Zahr
+sitename,YE1116_1251,Ad Dahi Collective Center
+sitename,YE1116_1444,ad dhaiwi
+sitename,YE1118_375,Ad drdaj Village
+sitename,YE1210_1253,Akareet shamal Al marashdeh
+sitename,YE1210_1416,Al Abd building
+sitename,YE1210_1462,Al Aisa'ie building (Jamal street)
+sitename,YE1210_1464,Al Akhbab
+sitename,YE1210_1476,Al Alili camp
+sitename,YE1210_427,Al Amal Camp
+sitename,YE1211_1194,Al Anad
+sitename,YE1211_1290,Al Aqed
+sitename,YE1211_1307,Al Ara'er
+sitename,YE1211_1312,Al Areed
+sitename,YE1211_1324,Al Asheerah
+sitename,YE1211_1327,Al Attar + Sailan building
+sitename,YE1211_1352,Al Awasem
+sitename,YE1211_1409,Al Ayenah
+sitename,YE1211_1575,Al Baddah Bait Alobidy
+sitename,YE1211_1576,Al badi
+sitename,YE1211_1578,Al Baitarah Camp 2
+sitename,YE1502_1246,Al Baitarah Camp 3
+sitename,YE1503_1237,Al barhah
+sitename,YE1505_1266,Al Bayda
+sitename,YE1505_1275,Al Bayda'a Camp
+sitename,YE1505_1277,Al dabri
+sitename,YE1505_1349,Al Duqaq
+sitename,YE1505_1359,Al ershad shayhal
+sitename,YE1505_1468,Al Faloojah
+sitename,YE1505_1480,Al Farrouq School
+sitename,YE1505_1498,Al Fawz School
+sitename,YE1505_1613,Al Garad Site
+sitename,YE1505_1675,Al gazah
+sitename,YE1507_1240,Al Ghallah Al Ulia
+sitename,YE1507_1254,Al gharaben and Ar rehab
+sitename,YE1507_1269,Al Ghwaireq
+sitename,YE1507_1274,Al haddad building
+sitename,YE1507_1385,Al hae't
+sitename,YE1510_1236,Al Haid Al Abiadh
+sitename,YE1510_1483,Al haifah
+sitename,YE1511_1384,Al Hajawenah
+sitename,YE1512_1441,Al Hali
+sitename,YE1512_1453,Al Hallah Camp
+sitename,YE1514_1217,Al hamdyah
+sitename,YE1514_1247,Al Hanak
+sitename,YE1514_1344,Al Hano
+sitename,YE1514_1481,Al Hasseb
+sitename,YE1514_544,AL hattary Camp
+sitename,YE1514_669,Al hawareth
+sitename,YE1514_670,Al Hawi Al Shamali
+sitename,YE1517_1190,Al Hayjah
+sitename,YE1517_1229,Al haymah camp
+sitename,YE1517_1233,Al herrah
+sitename,YE1517_1242,Al Holaibi
+sitename,YE1517_1250,Al Huda school
+sitename,YE1517_1256,Al Humur and Al Bairain Center
+sitename,YE1517_1270,Al Hussaini
+sitename,YE1517_1317,Al Imam street collective center
+sitename,YE1517_1403,Al 'Itazaz
+sitename,YE1517_1476,Al Ja'diah A
+sitename,YE1517_1504,Al Jalajel Camp
+sitename,YE1517_1526,Al Jaroubah Camp
+sitename,YE1518_1227,Al jashah camp
+sitename,YE1518_1287,Al jeshah al Olya
+sitename,YE1518_1518,Al jeshah al Sofla
+sitename,YE1519_1386,Al jhbar
+sitename,YE1519_1389,Al Juaisha
+sitename,YE1519_1431,Al Jubaili
+sitename,YE1519_1475,Al jurafah and Mashrif Hudad
+sitename,YE1519_1479,Al Jutham Hospital
+sitename,YE1520_1219,Al kadah al ala
+sitename,YE1520_1279,Al kadah al asfal
+sitename,YE1520_1281,Al Kandam Camp
+sitename,YE1520_1440,Al Karmoum
+sitename,YE1520_1443,Al Kawlah
+sitename,YE1521_1248,Al Khadhra' Camp
+sitename,YE1521_1255,Al Khamis
+sitename,YE1521_1259,Al Kharadeesh
+sitename,YE1521_1378,Al Khawrah
+sitename,YE1521_1388,Al Khuddad
+sitename,YE1521_1430,Al Kudaam
+sitename,YE1602_1380,Al Lail Market
+sitename,YE1602_1484,AL ma'areef
+sitename,YE1603_1243,Al mabytah
+sitename,YE1603_1341,Al Maghafa
+sitename,YE1603_1514,Al Mahadleh
+sitename,YE1603_1668,Al mahraq
+sitename,YE1610_1235,Al Mahsharah
+sitename,YE1610_1240,Al Mahwa Al A'ala
+sitename,YE1610_1264,Al Mahwa Al Asfal
+sitename,YE1610_1276,Al Mahwa'a
+sitename,YE1610_1480,Al Mahwah
+sitename,YE1610_1594,Al Majrah
+sitename,YE1610_1609,Al Majsh
+sitename,YE1611_1273,Al Makhzan Al Gharbi (Western store)
+sitename,YE1611_1494,Al Makhzan Al Sharqi (Eastern store)
+sitename,YE1611_1554,Al manafrah As soflah
+sitename,YE1612_1244,Al Manashier
+sitename,YE1612_1271,Al Manather
+sitename,YE1612_1337,Al mansa
+sitename,YE1612_1353,Al Mansourah Camp
+sitename,YE1612_1362,Al Marashdeh
+sitename,YE1612_1371,Al Maraybeh
+sitename,YE1612_1476,Al Marda
+sitename,YE1612_1507,Al markodhah
+sitename,YE1612_1595,Al Mashar Camp
+sitename,YE1612_1639,Al Masheer
+sitename,YE1612_1660,Al Masimir
+sitename,YE1704_1192,Al Mathlel
+sitename,YE1704_1199,Al Mehal School
+sitename,YE1704_1211,Al Mena'
+sitename,YE1704_1245,Al M'eqab
+sitename,YE1704_1271,Al Meshqafah Camp
+sitename,YE1704_1324,Al Mihraq
+sitename,YE1704_1329,Al Mil
+sitename,YE1704_1338,Al mo'aqar
+sitename,YE1704_1358,Al moughl
+sitename,YE1704_1363,Al moutref
+sitename,YE1704_1392,Al Mughtaribeen Camp
+sitename,YE1704_1415,Al Muharharah Al Wadi
+sitename,YE1704_1416,Al Muru Camp
+sitename,YE1704_1423,Al Nasr School
+sitename,YE1704_1424,Al Noor
+sitename,YE1704_1425,Al okosh
+sitename,YE1704_1471,Al Oqas
+sitename,YE1704_1493,Al qabasyah
+sitename,YE1704_1507,Al Qabedah
+sitename,YE1704_1517,Al Qadhah Camp
+sitename,YE1704_871,"Al Qadhi building, behind Ibn Sina hospital"
+sitename,YE1704_924,Al Qadi neighbourhood
+sitename,YE1706_1045,Al Qahfah Alhamra'a Camp
+sitename,YE1706_1300,Al Qahfah Camp
+sitename,YE1706_1310,Al Qa'moos
+sitename,YE1706_1326,Al Qareebah
+sitename,YE1706_1331,Al Qareeti Camp
+sitename,YE1706_1336,Al Qarna'ah
+sitename,YE1706_1339,Al Qatabah
+sitename,YE1706_1346,Al Qatabiah
+sitename,YE1706_1365,Al Qouz
+sitename,YE1706_1369,Al Qubbah
+sitename,YE1706_1427,Al rab'e
+sitename,YE1706_1445,Al radini
+sitename,YE1706_1451,Al Raqabah Camp
+sitename,YE1706_1506,Al Rebat Site
+sitename,YE1706_1508,Al Rowais
+sitename,YE1706_837,Al Rumaid
+sitename,YE1706_846,Al Saqet
+sitename,YE1706_882,Al Sawadi Camp
+sitename,YE1711_1232,Al Shabwan
+sitename,YE1711_1512,Al Shaheed Hamood
+sitename,YE1712_1093,Al Shajen and Maqared
+sitename,YE1712_1188,Al Sooq
+sitename,YE1712_1235,Al Sowais
+sitename,YE1712_1262,Al Sowayda
+sitename,YE1712_1268,Al Thaleb
+sitename,YE1712_1278,Al Udaini building collective center
+sitename,YE1712_1293,Al Wadi (Al Hodaidah)
+sitename,YE1712_1295,Al Waghrah Camp
+sitename,YE1712_1298,Al Wahat
+sitename,YE1712_1299,Al wanasah
+sitename,YE1712_1316,Al wa'rah camp
+sitename,YE1712_1318,Al wark- Khat gahal
+sitename,YE1712_1325,Al Wased Center
+sitename,YE1712_1328,Al wo'ara
+sitename,YE1712_1337,Al Wosta / Ath Thanwya
+sitename,YE1712_1341,Al yabli camp
+sitename,YE1712_1343,Al Zahirah
+sitename,YE1712_1349,Al Zaydah
+sitename,YE1712_1359,Al Ziady
+sitename,YE1712_1373,Al-Ahad Market - Al-Hujaryah
+sitename,YE1712_1391,Al-Ajima
+sitename,YE1712_1394,Al'ak
+sitename,YE1712_1429,Alamash
+sitename,YE1712_1447,Alanabsah
+sitename,YE1712_1495,Alarsh
+sitename,YE1712_1529,Alatharah
+sitename,YE1712_1532,Albain
+sitename,YE1712_1538,Albraghish
+sitename,YE1712_803,Aldahlah & Ma'taka
+sitename,YE1712_807,Aldahr
+sitename,YE1712_816,Aldahyliah
+sitename,YE1712_845,Aldamash
+sitename,YE1712_861,Aldameen
+sitename,YE1712_865,Alerq Alsharqi
+sitename,YE1712_893,Al-Farsy Collection
+sitename,YE1712_915,Al-Fatah School Camp
+sitename,YE1712_925,Alfsor
+sitename,YE1728_1204,Alghawya Alkulaibi
+sitename,YE1730_1070,AlHabeel
+sitename,YE1730_1071,Alhadb
+sitename,YE1730_1163,Alhadba (Muhamasheen)
+sitename,YE1730_1234,Alhaijah
+sitename,YE1730_1291,AL-Haijah
+sitename,YE1730_1292,Al-Hasky
+sitename,YE1730_1294,Al-Hawtah Al-Harat
+sitename,YE1730_1296,Alhazm
+sitename,YE1730_1297,Al-Henkah Center
+sitename,YE1730_1303,Alhizam
+sitename,YE1730_1306,Alhodainah
+sitename,YE1730_1308,Al-Hofrah Site
+sitename,YE1730_1312,Alhor
+sitename,YE1730_1315,Alhrjah
+sitename,YE1730_1330,Alhudn
+sitename,YE1730_1332,Ali bin Abi Taleb School
+sitename,YE1730_1340,Aljaber
+sitename,YE1730_1347,AL-Jahdaa
+sitename,YE1730_1348,Al-Jamrock
+sitename,YE1730_1357,Aljathwa
+sitename,YE1730_1370,Al-Jil Al-Jadid School Camp
+sitename,YE1730_1371,Aljufainah
+sitename,YE1730_1387,Aljuraba' Al-Gharbiyyah
+sitename,YE1730_1390,Aljuraba' Ash Sharqiyyah
+sitename,YE1730_1393,Al-Khusaf IDPs Building
+sitename,YE1730_1395,Al-Kobagan Site
+sitename,YE1730_1396,Alkuoziah
+sitename,YE1730_1452,Alma'awlah & Alwajbah
+sitename,YE1730_1497,Almabiat
+sitename,YE1730_1505,Al-Madenh Al-Sakaniha Camp
+sitename,YE1730_1515,Al-Madhour Camp
+sitename,YE1730_1531,Almaghaweer (Urban setting)
+sitename,YE1730_1533,Almaghsylah
+sitename,YE1730_886,Almahamerah
+sitename,YE1730_943,Almajba'a
+sitename,YE1730_983,Almakhlafah
+sitename,YE1814_1257,Almakhyam
+sitename,YE1814_1267,AL-Malakhah
+sitename,YE1814_1270,Almaneen Alqebli
+sitename,YE1814_1273,Almaqariha Wahshan Alsharqi
+sitename,YE1814_1300,Almarda (Muhamsheen)
+sitename,YE1814_1314,Almarkiz
+sitename,YE1814_1317,Almarw
+sitename,YE1814_1321,Almatar
+sitename,YE1814_1322,Almawfer
+sitename,YE1814_1341,Al-Mazara'a 1
+sitename,YE1814_1364,Al-Mazara'a 2
+sitename,YE1814_1460,Almeer
+sitename,YE1814_1461,AlMihsam
+sitename,YE1814_1479,Almisbar
+sitename,YE1814_1481,Almrarah
+sitename,YE1814_1488,Almshaybah
+sitename,YE1814_1539,Almsyjed
+sitename,YE1814_1540,AlMua'ram Camp
+sitename,YE1814_1542,Almuasasa
+sitename,YE1814_1625,Almustashfa
+sitename,YE1819_1248,Almutahaf
+sitename,YE1819_1251,Alnajah
+sitename,YE1819_1288,Al-Nuqtah building
+sitename,YE1819_1329,Alqa'da
+sitename,YE1819_1338,Alqafrah
+sitename,YE1819_1351,Al-Qureen Camp
+sitename,YE1819_1357,Al-Raczah
+sitename,YE1819_1471,Al-Rafa'a School
+sitename,YE1819_1472,AlRagabah 2
+sitename,YE1819_1474,Alrawda
+sitename,YE1819_1634,Alrawda Aljadeeda
+sitename,YE1820_1189,Alrujmah Alsoflaa
+sitename,YE1820_1192,Alsabiah
+sitename,YE1820_1195,Al-Sadrain Camp
+sitename,YE1820_1235,Al-Saeed Education Center
+sitename,YE1820_1236,Al-Sardah
+sitename,YE1820_1240,Al-Sawam'a
+sitename,YE1820_1245,Alsayaf
+sitename,YE1820_1263,Al-Shaheed Saleh Hussein School Camp
+sitename,YE1820_1264,Alsomrah
+sitename,YE1820_1265,AlSooq – As-Sawm
+sitename,YE1820_1269,Alswamil
+sitename,YE1820_1270,Alsyabah
+sitename,YE1820_1281,Althabyah
+sitename,YE1820_1282,Althari
+sitename,YE1820_1283,Althaw'ah
+sitename,YE1820_1286,Al-Wahda school Camp 2
+sitename,YE1820_1293,Alyyan
+sitename,YE1820_1303,Alzeerah Thi-Gwash (outside warehouse)
+sitename,YE1820_1306,Ambeter
+sitename,YE1820_1308,Amd
+sitename,YE1820_1319,Ameen Muqbel
+sitename,YE1820_1340,An nakhelah
+sitename,YE1820_1362,An Namasah
+sitename,YE1820_1367,An Namseh
+sitename,YE1820_1405,An Naser
+sitename,YE1820_1411,An nash
+sitename,YE1820_1415,Aqbah Camp
+sitename,YE1820_1417,Ar Rayyan
+sitename,YE1820_1463,Ar rkabyeh
+sitename,YE1820_1470,Ar Rubat Al Gharbi
+sitename,YE1820_1477,Ar Ruway - Al Usdouh
+sitename,YE1820_1505,Arak
+sitename,YE1820_1520,As sab'ah Al Olya
+sitename,YE1820_1521,As sab'ah As sofla
+sitename,YE1820_1572,As Sad
+sitename,YE1820_1602,As Sa'eleh
+sitename,YE1826_1260,As safiah - Al Dhahrah Settlement
+sitename,YE1826_1272,As Salawi Camp
+sitename,YE1826_1326,As sanah
+sitename,YE1826_1345,As Sarh
+sitename,YE1826_1472,As Sawahel
+sitename,YE1826_1492,As sbai'ah
+sitename,YE1826_1529,As Sbia'h
+sitename,YE1826_479,As syafyah
+sitename,YE1906_1611,Ash Shajeerah
+sitename,YE1908_1513,Ash Shaqa'h Camp
+sitename,YE1909_1480,Ash Sharkha
+sitename,YE1910_1673,Asha'ab city Asha'ab camp 1
+sitename,YE1911_1522,Asha'ab city Asha'ab camp 2
+sitename,YE1912_1368,Asha'ab city Entrance of Beer Ahmed Camp
+sitename,YE1912_1397,Asher
+sitename,YE1912_1433,At 26 September Secondary School
+sitename,YE1912_1478,At Ta'ef (al kobzi)
+sitename,YE1912_1523,At Tamara
+sitename,YE1915_1318,At Tawhied Neighborhood buildings
+sitename,YE1921_1375,Atef alkudah
+sitename,YE1928_1485,Ath Thakeer
+sitename,YE2105_1269,Aweedah
+sitename,YE2105_534,Az Zaqoum - Sunwan
+sitename,YE2107_1366,Ba Zara'ah neighborhood collective center
+sitename,YE2107_1483,Bab Almalika
+sitename,YE2110_1294,Bani Al Mashta'
+sitename,YE2113_1325,Bani Bahh
+sitename,YE2301_1158,Bani Bari
+sitename,YE2304_1021,Bani Belal
+sitename,YE2304_1231,Bani Bra'im
+sitename,YE2304_1521,Bani Hamed Camp
+sitename,YE2304_1672,Bani Jaber Camp
+sitename,YE2304_978,Bani Jarban
+sitename,YE2401_1434,Bani Mater
+sitename,YE2401_1436,Bani Rashid
+sitename,YE2401_1437,Bani Rassam
+sitename,YE2401_1438,Bani Rukhamah ( Alsalagah)
+sitename,YE2401_1439,Barhout - Al Halah
+sitename,YE2401_1501,Bayt Al Henami
+sitename,YE2402_1435,Bayt Al-Harani
+sitename,YE2403_1400,Bayt Eyaadh
+sitename,YE2404_1197,Beer Fadel Collection sites (1A-1B-1C)
+sitename,YE2404_1203,Bier Shu'bah next to Abu Tharr Mosque
+sitename,YE2404_1208,Bilah Valley
+sitename,YE2404_1213,Bin Abud (Muhamasheen)
+sitename,YE2404_1214,Bi'r Nasser
+sitename,YE2404_1381,Bi'r Omar
+sitename,YE2404_1382,Dar Al Manaserah
+sitename,YE2404_1383,Dar Al Sharaf B
+sitename,YE2404_1421,Deer Alauqm
+sitename,YE2404_1494,Deer Alhesi
+sitename,YE2406_1223,Dehheyah Camp (Al Hadabah Al bayda'a)
+sitename,YE2407_1207,Dhanah (Alsawabin)
+sitename,YE2507_1265,Dhanah Alhayal
+sitename,YE2507_1266,Dharawan
+sitename,YE2507_1467,Edat Alrra'
+sitename,YE2507_1468,Fakhri
+sitename,YE2507_1491,Faqum Fishermen state
+sitename,YE2508_1244,Gadabat Al manafrah al Olya
+sitename,YE2508_1264,Gadabet AL qaz'ah
+sitename,YE2508_1404,Galass Camp
+sitename,YE2510_1202,Ghalifaqah
+sitename,YE2510_1530,Gharbi Dubaish
+sitename,YE2511_1525,Habeel Alqaz
+sitename,YE2511_637,Habeel Bani Alsharif
+sitename,YE2513_1509,Habeel Doban
+sitename,YE2513_1528,Habil Al-Thaalia Camp
+sitename,YE2513_572,Hamatah
+sitename,YE2513_573,Harat Altadamon
+sitename,YE2514_1201,Hardh
+sitename,YE2514_1230,haret al ward
+sitename,YE2515_1200,Haryqat Althalwth
+sitename,YE2515_1222,Hawl Al Humari and Shuaab Humam
+sitename,YE2515_1231,Health Institute
+sitename,YE2515_1238,Hesn Shadad
+sitename,YE2515_1241,Houd - Al Tharb
+sitename,YE2515_1242,Howsh Al-Jen Al-Fallaheen Village
+sitename,YE2515_1249,Howsh Cod Al-Othmani
+sitename,YE2515_1252,Howsh Derhim
+sitename,YE2515_1253,Howsh Laila Khalil
+sitename,YE2515_1257,Howsh Othman
+sitename,YE2515_1258,Howsh Sooq Al-Qaat
+sitename,YE2515_1260,Hubail Abyadh
+sitename,YE2515_1261,Hubail Adh Dhay' Hamadinah
+sitename,YE2515_1263,Husoon Al Hadi (Muhamasheen)
+sitename,YE2515_1267,In front of Al Wa'li station and Al Afwani building
+sitename,YE2515_1272,In Front of Al-Jumla Market
+sitename,YE2515_1282,Internal Housing of the Faculty of Agriculture
+sitename,YE2515_1286,Jabal Aslem Alma'mal
+sitename,YE2515_1288,Jabal Nahem
+sitename,YE2515_1289,Ja'oulah
+sitename,YE2515_1290,Jarm
+sitename,YE2515_1322,Jaw Al Naseem Al A'la
+sitename,YE2515_1323,Jaw Alnasim
+sitename,YE2515_1376,Jaw Alnasim Algharbi
+sitename,YE2515_1377,Jaw Alnasim Alsharqi
+sitename,YE2515_1380,Jiblah and Ibin Oqayl
+sitename,YE2515_1398,Jreez
+sitename,YE2515_1399,Jul al sadah camp
+sitename,YE2515_1401,Jul Sinan
+sitename,YE2515_1402,July 7 School
+sitename,YE2515_1412,Kadmat Lazboud
+sitename,YE2515_1445,Kamab Kaelan (Urban setting)
+sitename,YE2515_1446,Kara (urban setting)
+sitename,YE2515_1457,Kariesh
+sitename,YE2515_1461,Khadhlan
+sitename,YE2515_1482,Khasha Warban
+sitename,YE2515_1488,Kherbat Alzaba
+sitename,YE2515_1490,Lafj Almalah (Urban setting)
+sitename,YE2515_1498,Mabkhoot Aldayat
+sitename,YE2515_1499,Madinat al Saleh
+sitename,YE2515_1516,Mahwa Al Jawlah
+sitename,YE2515_1521,Mahwa Al Kahruba'
+sitename,YE2515_575,Majoar
+sitename,YE2601_0296,Maktab Alziraah
+sitename,YE2601_1432,Masna'a Adhban
+sitename,YE2602_1345,Mesyal Al Oqbi
+sitename,YE2602_1419,Mister Abd Albari building
+sitename,YE2602_1458,Moshej Al Aqer
+sitename,YE2603_1311,Moshej Al Ghomaidah
+sitename,YE2603_1319,Moshej Al Kdaif
+sitename,YE2603_1367,Muhammad As Saif building
+sitename,YE2603_1454,Mukhibia - Shalahmat
+sitename,YE2606_1287,near the security directors
+sitename,YE2606_1351,Near to Quraish Mosque
+sitename,YE2606_1361,Nehyan
+sitename,YE2606_1379,Nesma
+sitename,YE2606_1417,New house camp
+sitename,YE2606_1418,Northen Ghazan
+sitename,YE2606_1420,Okaish
+sitename,YE2606_1459,Old Govermantal Building
+sitename,YE2606_1520,Om Hurez
+sitename,YE2608_1534,Omar Bin Abdulaziez Schoool
+sitename,YE2612_1305,Onaibat
+sitename,YE2612_1313,Qal'at Hayash
+sitename,YE2612_1314,Qaryart An Nouba
+sitename,YE2612_1321,Qaryat Ash Shadheif
+sitename,YE2612_1327,Qaryatai Ath Thumair Wa Al Malha
+sitename,YE2612_1333,Qaryet Al awamer
+sitename,YE2612_1350,Quhaim
+sitename,YE2612_1352,Ras Abas Camp
+sitename,YE2612_1353,Rawnah Mothab
+sitename,YE2612_1362,Rgabat Bani Hamed
+sitename,YE2612_1374,Rumaylan
+sitename,YE2612_1405,Sa'adah
+sitename,YE2612_1428,Saber Site
+sitename,YE2612_1448,Sad Falej
+sitename,YE2612_1449,Sa'dah (Shabwah)
+sitename,YE2612_1450,Salah Ad Deen
+sitename,YE2612_1460,Saleel Al Mohsen
+sitename,YE2612_1472,Salwa
+sitename,YE2612_1474,Saudi Institute
+sitename,YE2612_1496,Serwah Aljalal Alawsat
+sitename,YE2612_1514,Shabam Algharas
+sitename,YE2612_1650,Shakwami School Camp
+sitename,YE2613_0020,Shamsan Az zaghrouri building
+sitename,YE2613_0022,Shat'a Alabd
+sitename,YE2613_0036,Shat'a day'a
+sitename,YE2613_0178,Shati Almahraqah
+sitename,YE2613_0276,Shatt Al-Hili
+sitename,YE2613_0278,Shawqabah Camp
+sitename,YE2613_1185,She'bat Al Qawr
+sitename,YE2613_1284,Shebat Alssadat
+sitename,YE2613_1294,Shibam
+sitename,YE2613_1301,Shqman/Shabwan
+sitename,YE2613_1302,Shumeel
+sitename,YE2613_1304,Sofyan
+sitename,YE2613_1309,Sooq Al Thaloot
+sitename,YE2613_1315,Sport Hall
+sitename,YE2613_1320,Suq Saddam
+sitename,YE2613_1334,Tabbat Najmi
+sitename,YE2613_1335,Tagamo Al Saidan
+sitename,YE2613_1410,Tagamo Al Zur
+sitename,YE2613_1442,Tahrour Camp
+sitename,YE2613_1456,Tareq bin Zeyad Primary School
+sitename,YE2613_1500,Tareq Bin Zeyad Secondry School
+sitename,YE2613_1502,Tarim
+sitename,YE2613_1519,Tawr Al Baha Hospital
+sitename,YE2613_1535,Tena - Hadanat
+sitename,YE2613_1536,The President Education Center
+sitename,YE2902_0079,Tor Al Qutabah
+sitename,YE2902_1549,Tor Al-Baha - AL Sharayer
+sitename,YE2910_1609,Transportation office
+sitename,YE2915_0013,Until Al-Shaym Camp
+sitename,YE2915_1364,Wadeen - Al Hatabah
+sitename,YE3003_1206,Wadi Aldarb
+sitename,YE3003_1220,Wadi As Sahar Center
+sitename,YE3003_1221,Wadi Bani Rashed (Alkarf)
+sitename,YE3003_1226,Wadi Hady'a
+sitename,YE3003_1527,Wadi Mwazin
+sitename,YE3005_1198,Wadi Zabib
+sitename,YE3005_1224,Wahshan
+sitename,YE3005_1426,Wahshan Algharbi
+sitename,YE3005_1503,Western Sahada Camp
+sitename,YE3006_1195,Wooden houses Camp
+sitename,YE3006_1205,Zari Almusaby
+sitename,YE3006_1209,Al-jafrah Camp
+sitename,YE3006_1210,Hesn Aldamer (Urban setting)
+sitename,YE3006_1218,Almojamaa (local administration)
+sitename,YE3006_1422,Edarat Alamn (Security adminostration)
+sitename,YE3006_1524,Aljarf
+sitename,YE3006_1537,Alghorfa Altojareyah (Chamber of Commerce)
+,,
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other
+sitename,other,Other

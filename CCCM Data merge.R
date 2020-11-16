@@ -19,16 +19,22 @@ source("./R/cleanHead.R")
 
 
 ## Load choice sheet
-choices <- read.csv("./data/kobo/choices_CCCM site reporting - June 2020.csv")
+choices <- read.csv("./data/kobo/choices.csv")
 
 
 ## Load cleaned data
-response <- read.xlsx("./output/internal/CCCM_SiteReporting_All Internal (WithID)_2020-07-29.xlsx")
+response <- read.xlsx("./data/CCCM_SiteReporting_V1 Internal_2020-11-10.xlsx")
 #response <- cleanHead(response)
 #response <- cleanHead(response)
 
 ## Filter out sites that are useless
 #response <- response %>% filter(check == 1 & check.2 == 1)
+
+## Merge safe cooking practices and fire safety methods
+response <- response %>% mutate(fire_safety = paste0(Safe_cooking_practices," ", additional_fire_safety_measures))
+response$fire_safety <- gsub("NA", "", response$fire_safety)
+response$fire_safety <- gsub("none none", "none", response$fire_safety)
+
 
 
 ## Step 1: Data Merge - dots
@@ -46,8 +52,8 @@ colnames(dots_merge) <- paste0("@", colnames(dots_merge))
 #write.csv(dots_merge, "./output/test_image_datamerge.csv", row.names = F)
 
 ## Step 2: Data Merge - rest pf the stuff
-data_rename <- response %>% select("b2_site_smc_agency_name", "c1_type_of_site", "c2_landowner",
-                                  "c3_tenancy_agreement_for_at_least_6_months", "b1_site_management", "b5_community_committee_in_place", "d1_most_common_reason_idps_left_place_of_origin",
+data_rename <- response %>% select("b4_site_smc_agency_name", "c2_landowner", "c1_1_type_of_site", "c1_2_type_of_site", "Primary_cooking_modality", "Primary_cooking_space", "fire_safety",
+                                  "c3_tenancy_agreement_for_at_least_6_months", "b1_site_management", "b7_community_committee_in_place", "d1_most_common_reason_idps_left_place_of_origin",
                                   "a8_population_groups_other_than_idps_in_site_select_all_applicable", "d3_most_common_intention_in_next_three_months", "c4_general_market_in_site_close_proximity",
                                   "d2_1_most_common_district_of_idp_origin", "d2_2_second_most_common_district_of_idp_origin", "d2_3_third_most_common_district_of_idp_origin", 
                                   "c6_electricity_solar_power_available_in_site", "c5_fuel_available_in_site_close_proximity", "c8_primary_water_source", "c9_primary_shelter_type",
@@ -66,11 +72,11 @@ data_rename2 <- data_rename
 data_rename2[] <- choices$label..english[match(unlist(data_rename2), choices$name)]
 
 ### Rename the varibles to keep the data merge template intact
-data_norename <- response %>% select("a1_governorate_name", "a2_district_name", "a3_sub_district_name", "a4_site_name", "a4_site_code", "a6_site_occupation_date_dd_mm_yy", "a7_site_population_individual", "a7_site_population_hh", "a8_population_groups_other_than_idps_in_site_select_all_applicable")
+data_norename <- response %>% select("a1_governorate_name", "a2_district_name", "a3_sub_district_name", "a4_site_name", "a6_site_occupation_date_dd_mm_yy", "a7_site_population_individual", "a7_site_population_hh")
 
-data_norename$a8_population_groups_other_than_idps_in_site_select_all_applicable <- str_replace_all(data_norename$a8_population_groups_other_than_idps_in_site_select_all_applicable, pattern = " ", replacement = " - ")
-data_norename$a8_population_groups_other_than_idps_in_site_select_all_applicable <- str_replace_all(data_norename$a8_population_groups_other_than_idps_in_site_select_all_applicable, pattern = "_", replacement = " ")
-data_norename$a4_site_code <- str_replace_all(data_norename$a4_site_code, pattern = "_", replacement = " - ")
+#data_norename$a8_population_groups_other_than_idps_in_site_select_all_applicable <- str_replace_all(data_norename$a8_population_groups_other_than_idps_in_site_select_all_applicable, pattern = " ", replacement = " - ")
+#data_norename$a8_population_groups_other_than_idps_in_site_select_all_applicable <- str_replace_all(data_norename$a8_population_groups_other_than_idps_in_site_select_all_applicable, pattern = "_", replacement = " ")
+#data_norename$a4_site_code <- str_replace_all(data_norename$a4_site_code, pattern = "_", replacement = " - ")
   
 ## Step 3: merge into one dataset
 data_merge <- cbind(data_rename2, data_norename, dots_merge)

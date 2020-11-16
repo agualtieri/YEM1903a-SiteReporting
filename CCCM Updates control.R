@@ -37,11 +37,11 @@ source("./R/check_time.R")
 #################################
 
 ## Upload data to be cleaned
-response <- read.xlsx("data/CCCM Cluster_Site Reporting_All External (WithID)_2020-07-16.xlsx")
+response <- read.xlsx("data/cleaning/CCCM_Sites_Reporting_List_11th_Nov_2020_JAAHD feedback.xlsx")
 
 
 ## Anonymize dataset
-response <- response %>% select(-starts_with("X_"), -b4_site_smc_agency_name)
+#response <- response %>% select(-starts_with("X_"), -b4_site_smc_agency_name)
   
 
 ## Check 0: check that there are no site surveyed twice
@@ -368,7 +368,7 @@ if (nrow(eviction_red) >=1){
   print("No issues with eviction and type of tennacy has been detected. The dataset seems clean.")}
 
 ### Check cooking stuff
-cooking <- select(response, "uuid", "q0_3_organization", "a4_site_name3", "c5_fuel_available_in_site_close_proximity", "c6_electricity_solar_power_available_in_site", "primary_cooking_modality")
+cooking <- select(response, "uuid", "q0_3_organization", "a4_site_name", "c5_fuel_available_in_site_close_proximity", "c6_electricity_solar_power_available_in_site", "primary_cooking_modality")
 cooking <- cooking %>% mutate(cooking_issue = ifelse((c5_fuel_available_in_site_close_proximity == "yes" | c6_electricity_solar_power_available_in_site == "yes" & 
                                                         primary_cooking_modality == "Electrical_stove" | primary_cooking_modality == "Gas_stove"), 0, 1))
 
@@ -380,16 +380,17 @@ if (nrow(cooking_red ) >=1){
   
   cooking_red$new_value <- " "
   cooking_red$fix <- "Checked with partner"
-  cooking_red$checked_by <- "ON"
-  cooking_red$issue_type <- "Eviction was identied as a risk although the site holds a tennacy agreement"
-  cooking_red $variable <- "c5_fuel_available_in_site_close_proximity"
+  cooking_red$checked_by <- "AG"
+  cooking_red$issue_type <- "Issue with cooking methodology and fuel availability"
+  cooking_red$variable <- "c5_fuel_available_in_site_close_proximity"
+  cooking_red$uuid <- "Missing"
   
   cooking_log <- data.frame(uuid = cooking_red$uuid, 
                             agency = cooking_red$q0_3_organization, 
-                            area = cooking_red$a4_site_name3, 
+                            area = cooking_red$a4_site_name, 
                             variable = cooking_red$variable, 
                             issue = cooking_red$issue_type, 
-                            old_value = cooking_red$f1_threats_to_the_site.eviction, 
+                            old_value = cooking_red$c5_fuel_available_in_site_close_proximity, 
                             new_value = cooking_red$new_value, 
                             fix = cooking_red$fix, 
                             checked_by = cooking_red$checked_by)
@@ -429,8 +430,8 @@ cleaning_log <- plyr::rbind.fill(duplicates_log,
 final_log <- list("cleaning_log" = cleaning_log,
                   "Service adequacy vs needs" = check_adequacy)
 
-write.xlsx(final_log, paste0("./output/CCCM_SiteID_cleaning log_",today,".xlsx"))
-browseURL(paste0("./output/CCCM_SiteID_cleaning log_",today,".xlsx"))
+write.xlsx(final_log, paste0("./output/CCCM_Site Reporting List_JAAHD_AG_cleaning log_",today,".xlsx"))
+#browseURL(paste0("./output/CCCM_SiteID_cleaning log_",today,".xlsx"))
 
          
 
