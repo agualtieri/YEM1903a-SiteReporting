@@ -31,9 +31,9 @@ response <- read.xlsx("./data/CCCM_SiteReporting_V1 Internal_2020-11-10.xlsx")
 #response <- response %>% filter(check == 1 & check.2 == 1)
 
 ## Merge safe cooking practices and fire safety methods
-response <- response %>% mutate(fire_safety = paste0(Safe_cooking_practices," ", additional_fire_safety_measures))
-response$fire_safety <- gsub("NA", "", response$fire_safety)
-response$fire_safety <- gsub("none none", "none", response$fire_safety)
+# response <- response %>% mutate(fire_safety = paste0(Safe_cooking_practices," ", additional_fire_safety_measures))
+# response$fire_safety <- gsub("NA", "", response$fire_safety)
+# response$fire_safety <- gsub("none none", "none", response$fire_safety)
 
 
 
@@ -52,7 +52,7 @@ colnames(dots_merge) <- paste0("@", colnames(dots_merge))
 #write.csv(dots_merge, "./output/test_image_datamerge.csv", row.names = F)
 
 ## Step 2: Data Merge - rest pf the stuff
-data_rename <- response %>% select("b4_site_smc_agency_name", "c2_landowner", "c1_1_type_of_site", "c1_2_type_of_site", "Primary_cooking_modality", "Primary_cooking_space", "fire_safety",
+data_rename <- response %>% select("b4_site_smc_agency_name", "c2_landowner", "c1_type_of_site", "Primary_cooking_modality", "Primary_cooking_space", "Safe_cooking_practices", "additional_fire_safety_measures",
                                   "c3_tenancy_agreement_for_at_least_6_months", "b1_site_management", "b7_community_committee_in_place", "d1_most_common_reason_idps_left_place_of_origin",
                                   "a8_population_groups_other_than_idps_in_site_select_all_applicable", "d3_most_common_intention_in_next_three_months", "c4_general_market_in_site_close_proximity",
                                   "d2_1_most_common_district_of_idp_origin", "d2_2_second_most_common_district_of_idp_origin", "d2_3_third_most_common_district_of_idp_origin", 
