@@ -23,7 +23,7 @@ choices <- read.csv("./data/kobo/choices.csv")
 
 
 ## Load cleaned data
-response <- read.xlsx("./data/CCCM_SiteReporting_V1 Internal_2020-11-10.xlsx")
+response <- read.xlsx("./data/CCCM_Site Reporting List_10.12.2020.xlsx")
 #response <- cleanHead(response)
 #response <- cleanHead(response)
 
@@ -38,7 +38,7 @@ response <- read.xlsx("./data/CCCM_SiteReporting_V1 Internal_2020-11-10.xlsx")
 
 
 ## Step 1: Data Merge - dots
-lookup <- data.frame(colour = c("not_applicable", "inadequate", "non_existent", "adequate"), path = c("./merge/grey.png", "./merge/red.png", "./merge/orange.png",   
+lookup <- data.frame(colour = c("not_applicable", "inadequate", "non_existent", "adequate"), path = c("./merge/grey.png", "./merge/red.png", "./merge/grey.png",   
                                                                             "./merge/green.png"))
 
 
@@ -52,8 +52,8 @@ colnames(dots_merge) <- paste0("@", colnames(dots_merge))
 #write.csv(dots_merge, "./output/test_image_datamerge.csv", row.names = F)
 
 ## Step 2: Data Merge - rest pf the stuff
-data_rename <- response %>% select("b4_site_smc_agency_name", "c2_landowner", "c1_type_of_site", "Primary_cooking_modality", "Primary_cooking_space", "Safe_cooking_practices", "additional_fire_safety_measures",
-                                  "c3_tenancy_agreement_for_at_least_6_months", "b1_site_management", "b7_community_committee_in_place", "d1_most_common_reason_idps_left_place_of_origin",
+data_rename <- response %>% select("b2_site_smc_agency_name", "c2_landowner", "c1_type_of_site", "primary_cooking_modality", "primary_cooking_space", "safe_cooking_practices", "additional_fire_safety_measures",
+                                  "c3_tenancy_agreement_for_at_least_6_months", "b1_site_management", "b5_community_committee_in_place", "d1_most_common_reason_idps_left_place_of_origin",
                                   "a8_population_groups_other_than_idps_in_site_select_all_applicable", "d3_most_common_intention_in_next_three_months", "c4_general_market_in_site_close_proximity",
                                   "d2_1_most_common_district_of_idp_origin", "d2_2_second_most_common_district_of_idp_origin", "d2_3_third_most_common_district_of_idp_origin", 
                                   "c6_electricity_solar_power_available_in_site", "c5_fuel_available_in_site_close_proximity", "c8_primary_water_source", "c9_primary_shelter_type",
@@ -82,13 +82,14 @@ data_norename <- response %>% select("a1_governorate_name", "a2_district_name", 
 data_merge <- cbind(data_rename2, data_norename, dots_merge)
 
 
-## Step 4: Add maps and save as csv
+## Step 4: Add maps and extra var and save as csv
 data_merge$a4_site_name <- str_trim(data_merge$a4_site_name, "both")
 data_merge$`@maps` <- paste0("./merge/test maps/YEM_CCCM_",data_merge$a4_site_name,"__",response$a3_sub_district_code,".pdf")
-
+data_merge$a4_site_code <- NA
 
 write.csv(data_merge, paste0("./merge/cccm_full_merge_",today,".csv"), row.names = F)                     
 browseURL(paste0("./merge/cccm_full_merge_",today,".csv"))
+
 
 
 
